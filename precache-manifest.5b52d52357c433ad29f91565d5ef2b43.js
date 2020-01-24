@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0c7b5d3ceed62674788ae00933b5be2c",
+    "revision": "a18743dd36908ae66352e45808ff0665",
     "url": "/kymlicka/index.html"
   },
   {
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kymlicka/static/js/7.3e8248e0.chunk.js"
   },
   {
-    "revision": "2a131bca55a9f7171f5e",
-    "url": "/kymlicka/static/js/8.55fc1aea.chunk.js"
+    "revision": "a5605d7cfac348ca3b9b",
+    "url": "/kymlicka/static/js/8.39d2a4f5.chunk.js"
   },
   {
     "revision": "0a93d9e5c7d35f45854c",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kymlicka/static/js/main.5d8aa60f.chunk.js"
   },
   {
-    "revision": "708e9fb461f676ea5d31",
-    "url": "/kymlicka/static/js/runtime-main.a953667a.js"
+    "revision": "db809916738ed971456e",
+    "url": "/kymlicka/static/js/runtime-main.3bb4a1c6.js"
   },
   {
     "revision": "1afcbd6a1c454e7b7f0bc58155558b9d",
