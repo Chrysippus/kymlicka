@@ -3,7 +3,7 @@ import { Nav, Navbar } from "react-bootstrap";
 import { Link } from "react-router-dom";
 export default function WKNavbar() {
   return (
-    <Navbar className="sticky-top" bg="white" expand="lg">
+    <Navbar collapseOnSelect className="sticky-top" bg="white" expand="lg">
       <Navbar.Brand
         href="/"
         className="d-lg-none"
