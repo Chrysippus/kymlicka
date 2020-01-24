@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kymlicka/precache-manifest.818fb34b8dcb0bbb7692e0474f1c56a5.js"
+  "/kymlicka/precache-manifest.e171eae6d93dd329bad0fe28dc2e43dc.js"
 );
 
 self.addEventListener('message', (event) => {
