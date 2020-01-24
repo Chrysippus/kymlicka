@@ -8,7 +8,7 @@ import WKNavbar from "./components/shared/WKNavbar";
 import { Head } from "./components/shared/Head";
 import { Foot } from "./components/shared/Foot";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Redirect
@@ -24,7 +24,7 @@ const News = lazy(() => import("./pages/News"));
 const Pub = lazy(() => import("./pages/Pub"));
 function App() {
   return (
-    <Router>
+    <Router basename="/">
       <HelmetProvider>
       <div className="App">
         <Head />
@@ -46,7 +46,7 @@ function App() {
             <Route path="/publications/:id" component={Waiting(Pub)} />
             <Route path="/publications" component={Waiting(Pub)} />
             <Route path="/cv/:id" component={Waiting(Cv)} />
-            <Route exact path="/cv" component={Waiting(Cv)} />
+            <Route path="/cv" component={Waiting(Cv)} />
             <Route path="/biography" component={Waiting(Bio)} />
             <Route path="/" component={Waiting(Home)} />
             <Route component={Waiting(Home)} />

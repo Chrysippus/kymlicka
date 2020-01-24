@@ -1,0 +1,163 @@
+# Citizenship, Democracy and Ethnocultural Diversity Newsletter, No. 68, February 2014
+
+## _Queen's Forum for Philosophy and Public Policy_
+
+### Contents
+
+- [1\. Introduction](#1-introduction)
+- [2\. Upcoming Conferences](#2-upcoming-conferences)
+- [3\. Recent Publications](#3-recent-publications)
+  - [Books (prices in Canadian Dollars)](#books-prices-in-canadian-dollars)
+  - [Journal Special Issues](#journal-special-issues)
+- [4\. Call for Papers](#4-call-for-papers)
+- [5\. Courses and Summer Schools](#5-courses-and-summer-schools)
+- [6\. Internet Resources](#6-internet-resources)
+
+#### 1\. Introduction
+
+The Forum for Philosophy and Public Policy at Queen's University is organizing a multi-year research project on citizenship, democracy and minority rights in multiethnic states, under the direction of Prof. Will Kymlicka. As part of this project, the Forum distributes a newsletter updating recent developments in the field, of which this is the sixty-eighth issue. We hope that it will be of interest to anyone working in the field, whether in academia, public service, or non-governmental organizations.
+
+If you would like to be added to the mailing list for this newsletter, please contact us at <cded@queensu.ca>. Back-issues of the newsletter are posted on the Web on Will Kymlicka's home-page: <http://post.queensu.ca/~kymlicka/ddnewsletter.php>
+
+#### 2\. Upcoming Conferences
+
+A workshop on "The Strains of Commitment: The Political Sources of Solidarity in Diverse Societies" will be held at the European University Institute in Florence, Italy on February 20-21, 2014\. What sustains solidarity in ethnically and religiously diverse societies? While considerable research has been devoted to analysing the economic factors (eg., perceptions of economic threat) and social factors (eg., levels of interpersonal contact) that affect social cohesion, less attention has been paid to the broader political context. This workshop will focus on the impact of different conceptions of political community, different models of the welfare state, different policies toward diversity, different patterns of political participation, and the sharing (or contesting) of political values. The workshop is organized by Keith Banting and Will Kymlicka, and supported by RECODE (Responding to Complex Diversity in Europe and Canada), a research network sponsored by the European Science Foundation, the Global Governance Programme of the Robert Schuman Centre for Advanced Studies at the European University Institute, and by Queen's University in Kingston, Canada. For more information, contact the organizers (<keith.banting@queensu.ca>; <kymlicka@queensu.ca>)
+
+The Foster Europe Foundation, in cooperation with the Institute for Studies on Federalism and Regionalism, European Academy of Bolzano, the Institut d' Estudis Autonòmics (IEA), Barcelona and the Academy of Government, University of Edinburgh, is organizing an international conference on "Qualified Autonomy and Federalism versus Secession in the EU and its Member States" on February 26-28, 2014 at the Esterházy Palace in Eisenstadt, Austria. The conference explores not only autonomist and secessionist movements within EU member-states (particularly in Spain, UK and Belgium), but also the ways in which member states are seeking greater autonomy and perhaps even secession from the EU. For more information, visit: <http://www.fundacionmgimenezabad.es/images/Documentos/2014/20142602_programa_foster_europe_en_o.pdf>
+
+The American Society for Political and Legal Philosophy is announcing its annual conference, which will be held in Chicago on Feb. 27-28, 2014, in conjunction with the annual meeting of the American Philosophical Association's Central Division. The theme this year is "Compromise", and speakers include Amy Cohen, Eric Beerbohm, and Michele Moody-Adams. Conference attendance is open, though the principal papers will be pre-circulated to ASPLP members only. To find out more about joining the ASPLP, visit <http://political-theory.org> or email Alex Zakaras, our Secretary-Treasurer, at <theasplp@gmail.com>
+
+A two-day conference on "Citizenship after Orientalism" will take place on March 6–7, 2014, at the Open University Main Campus in Milton Keynes (UK). This is the final conference of the "Citizenship after Orientalism" (Oecumene) project funded by the European Research Council (ERC). Hamid Dabashi (Columbia University) will deliver a keynote lecture. Further details including a draft programme can be found on the Oecumene website at: <http://www.oecumene.eu/events/final-conference-citizenship-after-orientalism>To register, email the conference organizers at the following address: <Oecumene-project@open.ac.uk>
+
+The Community of Philosophical Thinkers, in collaboration with the Philosophy Department at the University of North Carolina at Charlotte, is hosting its 6th Annual Student Philosophy Conference on April 12, 2014 on the theme "An Undergraduate Colloquium on Race". Undergraduate students are invited to submit papers and presentations that explore race and race theory. Charles W. Mills will deliver the keynote address. Submissions should be sent electronically to the following address: <coptconference@uncc.edu> prior to February 15th. Questions about the conference and/or submission requirements should be forwarded via email to David C. Rojas (<drojas3@uncc.edu>). Information is also available on the Conference Facebook page: <https://www.facebook.com/coptuncc/posts/713854088633172>
+
+The 2nd Annual University of Toronto Centre for Ethics Graduate Student Conference will take place on April 25-26, 2014\. Much recent work in ethics, political theory and philosophy has questioned the scope and boundaries of our moral and political communities and new frontiers are emerging in the work of gender, queer and disability theorists. These developments are challenging entrenched understandings of what it means to be human, and some theorists have proposed that we should move 'beyond humanism'; a suitable moral and political theory should consider non-human animals, environmental concerns, and human relations with modern technology. This year's keynote speakers, Sue Donaldson and Will Kymlicka, will discuss their recent book Zoopolis. For information on this conference, contact the event organizers via email: <graduateassociates@gmail.com>
+
+For its 25th anniversary, the Cultural, Social and Political Thought program at the University of Victoria is hosting a conference on "Thinking as a Way of Life" on April 26-27, 2014\. What modes of thinking are required or made possible in relation to new forms of capitalism, colonialism, biopolitics, heteronormativity, indigeneity, and technology? In what ways can inter- and multi-disciplinary research adequately address these shifting landscapes, especially when such work is, despite its efforts, often subject to those governing structures and disciplinary mechanisms that it seeks to destabilize? The Conference will contrast traditional notions of thinking as a practice of abstract contemplation and suggest that thinking is always an intervention into the social field, within which it is necessarily embedded. Expressions of interest should be sent via email to: thinkingwayoflife@gmail.com prior to February 15th. For more information, visit: <http://www.ipsa.org/news/call-for-paper/thinking-way-life-graduate-conference-cultural-social-and-political-thought>
+
+The Centre for ethnic and migration studies (CEDEM), the Centre for studies of public opinion (CLEO) and the Centre for development Studies (Pôle Sud) of the University of Liège are pleased to announce the TRICUD Final International Conference on "Transnationalism, Identity Dynamics and Cultural Diversification in Urban Post-migratory Situations". It will take place on 14-16 May 2014 at the Université de Liège, Belgium. The TRICUD programme (2010-2014) is a multidisciplinary research programme which aims at better understanding how migration transforms both sending societies in the South and receiving societies in the North. Migration has also prompted the formation of transnational social spaces connecting home and destination countries. This phenomenon has been observable between Belgium and the Democratic Republic of Congo and Morocco - two key case-studies. The TRICUD Final Conference aims at presenting the main findings of the programme and to open the discussion on its 3 main axes: the post-migratory cities and transnational flows, the dynamics of identities and the process of cultural diversification. Keynote speakers are Steve Vertovec (Max Planck Institute) and Nina Glick-Schiller (University of Manchester). For more information, and to register, contact <Sonia.Gsir@ulg.ac.be>
+
+The University of Edinburgh's Ethnicity, Nationalism and National Identity Network (ENNIN) will be hosting a one-day graduate conference entitled 'Identity, Nations and Nationalism in a Changing World'. The conference will be held on Thursday, May 22, 2014, at the University of Edinburgh. Our aim is to provide an opportunity for Ph.D. students and professors to exchange ideas and build networks in a welcoming setting that encourages interdisciplinary dialogue and approaches. There will be five different panels: Accommodating Plural Societies: Pathways to Autonomy and Independence; Gender and Nationalism; Socialism, Class and Nationalism; Spreading Nationalism: Media and Literature; and Migration and Diversity. The conference keynote speech will be delivered by John Breuilly. There will also be a timely roundtable on Scotland's constitutional future with David McCrone, Michael Keating and Michael Rosie. For more information, contact: <ennin.rg@ed.ac.uk>
+
+This year the 2nd St Andrews Graduate Conference in International Political Theory will focus on the theme "Political Evil". Hosted by the School of International Relations, University of St Andrews (Scotland), the event will take place from May 22–23, 2014, and the keynote speaker will be Patrick Hayden (St Andrews). The deadline for abstracts is February 28th. For further information and to see CFP, visit the conference website at <http://www.ipt-conference.net> or contact the event organizers via email at: <iptconf@st-andrews.ac.uk>
+
+The 2014 Cities of Migration Conference will be held in Berlin, Germany on June 4-6, 2014, on the theme "Migration, Diversity, Inclusion: An Agenda for Shared Prosperity". Join local government and community leaders, practitioners, experts, activists and policy-makers for a dynamic three-day event that explores the practical realities and opportunities created by today's hyper diversity. Learn how we can work together to set a prosperity agenda for cities. For more information, visit the conference website: <http://2014conference.citiesofmigration.ca/>
+
+From June 12-14, 2014 a conference called "Nationalist Responses to Economic and Political Crises" will be hosted by the Nationalism Studies Program at Central European University (CEU) and the Association for the Study of Nationalities (ASN). The conference will take place at CEU, in Budapest, and will focus on ethnic conflict in Central Europe, the Balkans, the former Soviet Union, the Middle East, and Central Eurasia. Attention will be given to presentations discussing links between economic crises, nationalism and politicized ethnicity. Consult the conference website for further details: <http://nationalism.ceu.hu/Conference2014>
+
+A conference on "Human Rights and Change" will be held from June 16-18, 2014, at Kadir Has Üniversitesi (Istanbul). Organized by the Human Rights Sections of the International Studies Association and American Political Science Association, as well as the Human Rights Research Committee of the International Political Science Association and the Standing Group on Human Rights and Transition of the European Consortium for Political Research, this conference will address questions such as the following: how do we understand change in the realm of human rights? What theoretical/conceptual perspectives help us analyze change? What is the relationship between broader geopolitical change and human rights development? How do we explain changes in norms, laws and societies? Is human rights expansion a teleological process? What role do human rights play in transitional justice processes? How does the Arab Spring confirm or challenge current approaches to human rights development? Details about the event can be found at: <http://www.isanet.org/Conferences/HRIstanbul2014.aspx> or by contacting the program chairs at the following email address: <humanrightsandchangeprogram@gmail.com>
+
+The Institute for Research into Superdiversity (IRiS) at the University of Birmingham is organizing the First International Interdisciplinary Conference on "Superdiversity: Theory, Method and Practice", from June 23-24, 2014\. Speakers will include Jan Blommaert (Babylon Centre for the Study of Superdiversity, University of Tilberg), Gill Valentine (Sheffield), James Nazroo, Manchester), Steven Vertovec (Max Planck Institute for the Study of Religious and Ethnic Diversity). For further information contact Ann Bolstridge at the following email address: <a.bolstridge@bham.ac.uk> or visit the following website: <http://www.birmingham.ac.uk/schools/social-policy/departments/applied-social-studies/news-and-events/2013/10/iris-international-conference-call-for-papers.aspx>
+
+A panel entitled "Immigration in the Sub-State Level: Politics and Policies" is being organized for the next conference of the European Consortium for Political Research (ECPR), at the University of Innsbruck (Austria) July 3-5, 2014\. Those wishing to attend should contact the Panel organizers at one of the following emails addresses: <verena.wisthaler@eurac.edu> or <nuria.franco@upf.edu>. Information is also posted on the following website: <http://www.upf.edu/gritim/actualitat/CfpECPR.html>
+
+An event on "Emergencies and Affected Peoples: Philosophy, Policy and Practice" will be held on July 4, 2014 at the University of Birmingham's Edgbaston Campus. The purpose is to engage theorists and practitioners in debate on the topic of informing and improving the lives of affected peoples in emergencies brought about by political conflict, war, humanitarian or natural disasters. A keynote address will be delivered by David Alexander (UCL). The deadline for submission of abstracts is February 15\. Contact Lauren Traczykowski (<lxt837@bham.ac.uk>) for more information or visit the following website: <http://www.birmingham.ac.uk/research/activity/globalethics/events/Seminars-2014/emergency-conference.aspx>
+
+The Eleventh Conference of the International Association of Genocide Scholars will be held on July 16-19, 2014 in Winnipeg-Canada on the theme "Time, Movement, and Space: Genocide Studies and Indigenous Peoples". Papers and sessions that consider the spatial and temporal issues as applied to Indigenous genocide and its commemoration are particularly encouraged, as are comparative studies. While our theme is centered on Indigenous issues, we also encourage innovative and original papers about other genocides. As 2014 marks the 20th anniversary of the Rwandan genocide, we are eager to accept papers on this genocide. For more information, visit the conference website: <http://www.genocidescholars.org/news/fourth-and-final-call-papers-iags-2014-conference-winnipeg-canada>
+
+The 17th Nordic Migration Conference will be held in Denmark from August 13-15, 2014, hosted by Centre for Advanced Migration Studies of the Faculty of Humanities, University of Copenhagen. Entitled "Flows, Places and Boundaries: Migratory Challenges and New Agendas", the event will assess migration tendencies and research, and explore what lies ahead around these contentious questions. For questions, contact the Conference organizers at this email address: <nordicmigration-conf@sfi.dk> or visit the Conference website: <http://www.sfi.dk/17th_nordic_migration_conference-12235.aspx>
+
+A conference on "Social Equality" is being organized by the Department of Philosophy at the University of Cape Town (South Africa), from August 15-17, 2014\. Contemporary societies are strikingly unequal and social inequality is frequently a visible aspect of daily life; but there are forms of inequality and disadvantage not immediately obvious to casual observers. It would be naive to think philosophy on its own could do anything to alleviate inequality. This event will attempt to increase our understanding of inequality in contemporary societies. Keynote speakers will include: Miranda Fricker (University of Sheffield), Charles W. Mills (Northwestern University), and Jonathan Wolff (UCL). Researchers (including postgraduate students) wishing to present papers are asked to send abstracts by email to: <SocialEqualityUCT@gmail.com> by February 18\. Information on this event is posted on the following website: <http://web.uct.ac.za/depts/philosophy/events_conferencesSocialEquality.htm>
+
+An international conference on "Multidisciplinary Approaches in Language Policy and Planning" is being organized at the University of Calgary from September 4-6, 2014\. Proposals are welcome on topics such as: language policy and political theory, official language policies, heritage language policies, language policy and globalization, ideologies and language policies, language policies in school settings, national identities and language policies, language policies and social mobility, language attrition and revitalization, and language policies and transnational communities. Plenary speakers will include: Jan Blommaert (Tilburg), Fernand de Varennes (University of Hong Kong) and Eve Haque (York University). The deadline for submissions is February 28\. For further information, visit the event website at: <http://www.educ.ucalgary.ca/lpp> or contact conference organizer Tom Ricento by e-mail: <lpp@ucalgary.ca>
+
+#### 3\. Recent Publications
+
+##### Books (prices in Canadian Dollars)
+
+- Aas, Katja and Mary Bosworth (eds) (2013) Borders of punishment: migration, citizenship, and social exclusion (Oxford UP)
+- Anthony, Thalia, Larissa Behrendt and Ben Saul (eds) (2013) Indigenous Peoples in International and Comparative Law (Hart)
+- Balint, Peter & Sophie Guérard de Latour (2013) Liberal Multiculturalism and the Fair Terms of Integration (Palgrave Macmillan)
+- Bell, Daniel A. and Li, Chenyang (2013), The East Asian Challenge for Democracy: Political Meritocracy in Comparative Perspective (Cambridge University Press).
+- Berthoud, Anne-Claude, François Grin & Georges Lüdi (eds) (2013) Exploring the Dynamics of Multilingualism (Benjamins).
+- Buchan, Russell (2013) International law and the construction of the liberal peace (Hart).
+- Carens, Joseph (2013) The Ethics of Immigration (Oxford UP).
+- Carey J. and J. Lydon (ed) (2013) Indigenous Networks: Mobility, Connections, and Exchange (Routledge)
+- Chen Y.W. (2014) The Uyghur Lobby. Global Networks, Coalitions and Strategies of the World Uyghur Congress (Routledge).
+- Conaghan, Joanne (2013) Law and Gender (Oxford UP)
+- Cortina, Regina (ed) (2014) The Education of Indigenous Citizens in Latin America (Multilingual Matters).
+- Ferrari, Alessandro and Sandra Pastorelli (eds) (2013) Burqa affair across Europe : between public and private space (Ashgate)
+- Flynn, Jeffrey (2014) Reframing the Intercultural Dialogue on Human Rights: A Philosophical Approach (Routledge).
+- Ghai, Y. & S. Woodman (eds) (2013) Practising Self-Government: A Comparative Study Of Autonomous Regions (Cambridge UP).
+- Goldring, Luin and Patricia Landolt (eds) (2013) Producing and Negotiating Non-Citizenship: Precarious Legal Status in Canada (University of Toronto Press).
+- Haljan, David (2014) Constitutionalising Secession (Hart).
+- Hayward, Clarissa (2013) How Americans Make Race: Stories, Institutions, Spaces (Cambridge UP).
+- Hinton, Alexander, Thomas La Pointe and Douglas Irvin-Erickson (eds) (2013) Hidden Genocides: Power, Knowledge, Memory (Rutgers University Press)
+- Icard, Phillipe (2013) Les minorites dans l'Union Européenne (Eska)
+- Keil S. (2013) Multinational Federalism in Bosnia and Herzegovina (Ashgate).
+- Libesman T. (2013) Decolonizing Indigenous Child Welfare. Comparative Perspectives (Routledge)
+- Lantschner, Emma, Sergui Constantin & Joseph Marko (eds) Practice of Minority Protection in Central Europe (Nomos Verlagsgesellschaft).
+- Little, David, Constant Leung & Piet van Avermaet (eds) (2013) Managing Diversity in Education: Languages, Policies, Pedagogies (Multilingual Matters).
+- Malloy, Tove H. (2013) Minority Issues in Europe: Rights, Concepts, Policy (Frank & Timme).
+- Marine C., Kanungo P., Toffin G. (eds) (2013) Politics of Ethnicity in India, Nepal and China (Primus Books).
+- Nimni, Ephraim, Alexander Osipov & David Smith (eds.) (2013) The Challenge of Non-Territorial Autonomy: Theory and Practice (Peter Lang).
+- Pavkovic, Aleksandar & Peter Radan (eds) (2013) The Ashgate Research Companion to Secession (Ashgate).
+- Pavkovic, Aleksandar & Jean-Pierre Cabestan (eds) (2013) Secessionism and Separatism in Europe and Asia: To Have a State of One's Own (Routledge).
+- Pries, L. (ed) (2013) Shifting Boundaries of Belonging and New Migration Dynamics in Europe and China (Palgrave).
+- Ramanathan, Vaidehi (ed) (2013) Language Policies and (Dis)Citizenship: Rights, Access, Pedagogies (Multilingual Matters).
+- Ruhs, M. (2013) The Price of Rights: Regulating International Labor Migration (Princeton UP).
+- Schrover, Marlou & Deirdre M. Moloney (eds) (2013) Gender, Migration and Categorisation: Making Distinctions between Migrants in Western Countries, 1945-2010 (Amsterdam University Press).
+- Shadian J. M. (2014) The Politics of Arctic Sovereignty: Oil, Ice, and Inuit Governance (Routledge).
+- Shi, Jingxia (2013) Free Trade and Cultural Diversity in International Law (Hart)
+- Stachowska Z. (2013) The Rights of National Minorities in International Law (Wolf).
+- Sterio, Milena (2012) The Right to Self-determination Under International Law: "Selfistans," Secession, and the Rule of the Great Powers (Routledge)
+- Taras, R. (ed) (2012) Challenging Multiculturalism: European Models of Diversity (Edinburgh UP)
+- Vrdoljak, Ana (ed) (2013) The Cultural Dimension of Human Rights (Oxford UP)
+- Waglé, Udaya R. (2013) The Heterogeneity Link of the Welfare State and Redistribution: Ethnic Heterogeneity, Welfare State Policies, Poverty, and Inequality in High Income Countries (Springer).
+- Wellman, Christopher Heath (2013) Liberal Rights and Responsibilities: Essays on Citizenship and Sovereignty (Oxford UP).
+- Wiley T. G., Peyton J. K., Christian D., Moore S. C. K., Liu N. (ed) (2014) Handbook of Heritage, Community, and Native American Languages in the United State (Routledge).
+- Williams, Colin H. (2013) Minority Language Promotion, Protection and Regulation: The Mask of Piety (Palgrave Macmillan).
+
+##### Journal Special Issues
+
+The journal Critical Review of International Social and Political Philosophy has published a special issue on "Domination, Migration and Non-citizens" (Vol. 17, Issue 1, 2014). A thematic introduction by Iseult Honohan & Marit Hovdal-Moan precedes essays by Sarah Fine, Meghan Benton, David Owen, Lubomira Radoilska, and Christopher Bertram.
+
+The Journal of Ethnic and Migration Studies recently published a special issue on the theme "Regulation of Speech in Multicultural Societies" (Vol. 40, No. 2, Nov. 2013). An introductory article by Marcel Maussen and Ralph Grillo precedes essays by Signe Engelbreth Larsen, Clifford Bob, Ulrika Mårtensson, Marloes van Noorloos, Sindre Bangstad, Erik Bleich, Arturs Kucs and Veit Bader.
+
+A special issue of European Psychologist is focused on "Multiculturalism in Europe" (Vol. 18, No. 3, 2013). Following an introductory article by John W. Berry and David L. Sam on psychological dimensions of multiculturalism, this issue explores: immigrant youth in Germany, Post-Soviet immigration and multiculturalism, integrative aspects of sport, and religious accommodation.
+
+The International Journal of Intercultural Relations has published a special issue entitled "Multiculturalism: Beyond Ethnocultural Diversity and Contestations" (Vol. 37, Issue 6, November 2013). Edited by Chan-Hoony Leong and James H. Liu, the issue contains several essays on topics such as global identities, multicultural research in Canada, and also studies of multicultural models in New Zealand, Malaysia/Singapore and Mauritius.
+
+The journal Identities: Global Studies in Culture and Power has published a special issue on the theme "Transnational Citizenship across the Americas" (Vol. 20, Issue 6, 2013). An introduction by Ulla Dalum Berg and Robyn Magalit Rodriguez precedes essays by Carlos Vargas-Ramos, Connie McGuire & Susan Bibler Coutin, Georges E. Fouron, Alyshia Gálvez and Robyn Magalit Rodriguez. A more recent issue of Identities (Vol.21/1, 2014) focuses on "Artistic Separation versus Artistic Mixing in European multicultural cities".
+
+The Canadian Journal of Sociology has published secial issue on the topic "The Labour of Race" (Vol. 38, No. 4, 2013). An introduction by Augustine S.J. Park is followed by articles by Jeffrey Monaghan, Colleen D. Bell, Madalena Santos, Dana M. Olwan, Daphne Jeyapal and others.
+
+A recent issue of the journal Seminar draws together essays from a symposium held in Venice in November 2012 (Issue #649, 2013). Entitled "Living Together, Differently", the issue considers issues of cultural diversity during periods of economic turbulence. Essays by Giancarlo Bosetti, Roberto Toscano, Michel Danino, Jürgen Habermas, Mani Shankar Aiyar, Raj Liberhan, Nilüfer Göle and others are included.
+
+A recent issue of Ethnopolitics (Vol. 13/1, 2014) is a special issue on "Segment States in the Developing World: Conflict's Cause or Cure?", guest-edited by Matthew Hodie, with articles on Tibet, Cameroon, India, Nicaragua.
+
+The Journal of Organizational Behavior has a special issue (Volume 34, Number 6, 2013) on "Collaboration in multicultural environments", guest-edited by Eduardo Salas and Michele Gelfand.
+
+#### 4\. Call for Papers
+
+A special issue of American Behavioral Scientist on the theme "Multiculturalism during Challenging Times" will consider a broad set of issues, from multiculturalism policies and practices in organizations or local communities to cross-national or between region analyses. Submissions that highlight the significance of context in shaping conceptualizations and approaches to multiculturalism are particularly welcome. Submissions should be sent prior to November 30, 2013\. For more information, visit: <http://esomi.es/index.php/en/migrationgenderanddevelopmentnetwork/research/2-uncategorised/730-call-for-papers-for-a-special-issue>. Inquiries and submissions should be sent to: <edng@dal.ca>.
+
+Contributions are being sought for the special edition of the Journal of Religion and Popular Culture entitled "Popular Culture, Multiculturalism, and Religion in Canada". The deadline for submissions is September 1, 2013\. For more information, click here: <http://bit.ly/17kYB9S>.
+
+A special issue of Global Justice: Theory, Practice, Rhetoric will be dedicated to the theme "Women's Bodies and Global Poverty Eradication". Edited by Peter Balint, Eszter Kollar, Patti Tamara Lenard and Tiziana Torresi, this issue will focus on how women, and their bodies, are targets of attempts to sustain women's position, while attempts to improve their status are often unfairly burdensome. Papers that combine normative and empirical elements are welcome. The deadline for submission is November 30, 2013\. For questions or expressions of interest, please contact Patti Tamara Lenard, <patti.lenard@uottawa.ca>. For details about this special issue and the submission process, go to: <http://www.theglobaljusticenetwork.org/events/call-for-papers-womens-bodies-and-global-poverty-eradication>.
+
+The Western Political Science Association has announced a new journal called "Politics, Groups, and Identities." According to its Editors, the journal will reflect "a willingness to cross borders, to provide a space for discussion on issues across sub-disciplinary lines". The recently published Vol. 1 contains essays on political power, representation, and identity politics, along with a Mini-Symposium on the topics "Identity Politics and the American Presidential Election of 2012." Full articles can be downloaded from this website: <http://www.tandfonline.com/loi/rpgi20>.
+
+A new journal published with the Regional Studies Association is entitled "Territory, Politics, Governance." The inaugural Vol. 1 contains essays by Saskia Sassen, Stuart Elden, Kevin Cox, and Anastassia Obvdenkova & Wilfred Swenden, after an introductory essay by John A. Agnew. Full articles are downloadable from the following website: <http://www.tandfonline.com/loi/rtep20>.
+
+#### 5\. Courses and Summer Schools
+
+A new Master of Arts in Advanced Migration Studies program has been established at the University of Copenhagen. The degree involves an interdisciplinary two-year degree, offered in English, providing students with an understanding of the opportunities and challenges presented by international migration. It combines approaches from the humanities and social science, including ethnology, anthropology, sociology, sociology of religion, history, philosophy, political science, sociolinguistics, education, and literary and media studies. <http://studies.ku.dk/masters/migration-studies/>
+
+The Summer School on "Human Rights, Minorities and Diversity Management" (Focus: Political Participation) is taking place in Bolzano/Bozen (Italy) and St. Moritz (Switzerland) from 23 June 2014 – 02 July 2014\. The summer school will explore challenges to the political participation of national minorities, indigenous peoples and migrants, and introduce participants to the standards, laws and institutions that support the participation of minority groups. Participants will critically examine their effectiveness, and assess what alternative tools and strategies are available to members of a minority seeking political participation. The summer school is organized by the European Academy of Bozen/Bolzano (EURAC) in collaboration with the Foundation Convivenza, Middlesex University School of Law, and University of Graz. Application deadline: 10 April 2014\. Scholarships are available. For the application and for further information see <http://www.eurac.edu/summerschool>.
+
+#### 6\. Internet Resources
+
+The International Network of Civil Liberties Organizations' (INCLO) has just launched a newsletter entitled "Global Developments in Religious Freedom and Equal Treatment". The newsletter highlights significant international developments, including cases and legislation, concerning religious freedom, equal treatment, and the intersection of the two. This first issue discusses cases of particular significance concerning the following topics: Religious freedom and reproductive rights; religious freedom and LGBT rights; and Religious expression. TO receive the newsletter, send an email to: <INCLONewsletter@aclu.org>.
+
+The "Multicultural Education Internet Resource Guide" was updated last month to reflect the changing landscape of available resources on the WWW for multicultural educators. The available resources cover a very wide range of areas, but many outstanding new resources will be applicable for either academics or educators in the classroom searching for lesson plans and thematic units. <http://jan.ucc.nau.edu/~jar/Multi.html>
+
+The Critical Multicultural Pavilion is a website designed by Paul Gorski designed to provide a variety of projects and resources, workshops and consulting services, and scholarship to enhance the quality of schools and communities. A host of workshops and training tools, awareness activities, equity and diversity quizzes, printable handouts and other teaching resources are available for downloading. <http://www.edchange.org/multicultural/>
+
+---
+
+### Announcements
+
+If you would like to announce a new research project, publication, call for papers, or upcoming conference in a future issue of this newsletter, please contact us at [cded@post.queensu.ca](mailto:cded@post.queesu.ca), or you can write to the Forum for Philosophy and Public Policy, Department of Philosophy, Queen's University, Watson Hall 313, Kingston Ontario K7L 3N6, Canada. Fax: 613-533-6545.
+
+Special thanks to Michael Kocsis for research help, and to Lise Charlebois for help with the distribution of the newsletter.

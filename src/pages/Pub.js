@@ -63,7 +63,6 @@ export default function Pub() {
   }
   let { BCLevel2, BCLevel3, BCLevel4 } = BreadCrumbs(params, location, title);
   const BCS = getBCS(location, BCLevel2, BCLevel3, BCLevel4);
-  console.log(location.pathname);
   return (
     <Container>
       <Helmet>

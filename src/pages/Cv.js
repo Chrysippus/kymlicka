@@ -14,7 +14,7 @@ export default function Cv() {
         />
       </Helmet>
       <PdfComponent
-        src={`${process.env.PUBLIC_URL}/contents/docs/CV-web.pdf`}
+        src={process.env.PUBLIC_URL + "/contents/docs/CV-web.pdf"}
       />
     </Container>
   );

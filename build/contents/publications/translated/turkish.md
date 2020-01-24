@@ -1,0 +1,11 @@
+# Turkish
+
+- **Zoopolis: A Political Theory of Animal Rights** translated into Turkish as _Zoopolis: Hayvan Haklarının Siyasal Kuramı_ by Koc University Press, Istanbul, 2016, 358 pp.
+- **Contemporary Political Philosophy: Second Edition** is translated into Turkish as **ÇagdaÕ Siyaset Felsefesine GiriÕ** (Bilgi University Press, Istanbul, 2004), 671 pp.
+- **Multicultural Citizenship** is translated into Turkish as **Çokkültürlü Yurttaslik**, by Ayrinti Yayinlari (Istanbul, 1998) (with new preface).
+- _"The Essentialist Critique of Multiculturalism: Theory, Policies and Ethos"_ translated into Turkish as "Will Kymlicka'dan: Bir "Deli Gömleği" Olarak Çokkültürcülük" in _Sosyal Bilimler: Kayda Değer Akademik Metinler_ (Social Science: Noted Academic Texts, 2016). Click [here](http://www.sosyalbilimler.org/will-kymlickadan-bir-deli-gomlegi-olarak-cokkulturluluk-ceviri/).
+- _"Transitional Justice, Federalism, and the Accommodation of Minority Nationalism"_ translated into Turkish as "Geçiş Dönemi Adaleti, Federalizm Ve Azinlik Milliyetçiliğinin İçselleştirilmesi" in Elçin Aktoprak and Celil Kaya (eds) _21\. Yüzyilda Milliyetçilik: Teori Ve Siyaset_ (İLETİŞİM, Istanbul, 2016), 47-94.
+- _"Multiculturalism: Success, Failure, and the Future"_ translated into Turkish as _"Çok Kültürlülük: Başari, Başarisizlik ve Gelecek"_ in Fatih Öztürk (ed.) _Yeni Anayasa Için Yol Haritasi_ [A Route Map for a New Constitution For Turkey] (Adalet ve Hukuk Derneği, Istanbul, 2012), pp. 219-54\. Also in _İstanbul Üniversitesi Hukuk Fakültesi Mecmuası_ (Journal of the Faculty of Law at Istanbul University), Vol 70/2 (2012): 297-332.
+- _"The Futures of Nationalism"_ translated into Turkish as _"Sonuc: Milliyetciligin Gelecegi"_, in Umut Ozkirimli (ed.) _21\. Yuzyilda Milliyetcilik_ (Istanbul Bilgi University Press, 2008), pp. 159-66.
+- _"Community"_ (chapter 6 of _Contemporary Political Philosophy_) excerpted and translated into Turkish as _"Yükümsüz Özne"_ in _Liberaller ve Cemaatçiler_, eds. Andre Berten, Pablo da Silveira, Herve Pourtois (Dost Kitabevi, Ankara 2006).
+- _"Return of the Citizen"_, translated into Turkish as _"Vatandasin Dönüsü"_, in Ayse Kadioglu (ed.) _Vatandasligin Donüsümü: Üyelikten Haklara_ (_The Transformation of Citizenship: From Membership to Rights_) (Metis, Istanbul, 2008), pp. 185-217.

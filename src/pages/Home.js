@@ -22,7 +22,7 @@ export default function Home() {
           className="shadow-lg mb-5 bg-white"
         >
           <source
-            srcSet={ImgURL + i + ".webP"}
+            srcSet={ImgURL + i + ".webp"}
             loading="lazy"
             width="301"
             type="image/webp"

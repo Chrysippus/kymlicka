@@ -16,12 +16,12 @@ import { Row } from "react-bootstrap";
 pdfjs.GlobalWorkerOptions.workerSrc = pdfjsWorker;
 const PdfComponent = ({ src }) => {
   const params = useParams();
-  let p = parseInt(params.id);
+  // let p = parseInt(params.id);
   const history = useHistory();
   const [allpages, setAllpages] = useState();
-  const [pg, setPg] = useState(parseInt(p) || 1);
+  const [pg, setPg] = useState(parseInt(params.id) || 1);
   const canvasRef = useRef(null);
-  const [state, setState] = useState({ value: parseInt(p) });
+  const [state, setState] = useState({ value: pg });
   function handleChange(e) {
     setState({ value: e.target.value });
     e.preventDefault();
@@ -39,9 +39,9 @@ const PdfComponent = ({ src }) => {
       const loadingTask = pdfjs.getDocument(src);
       const pdf = await loadingTask.promise;
       const firstPageNumber =
-        p > pdf.numPages || p < 1 || !Number.isInteger(p)
-          ? (window.location.href = "/cv/" + 1)
-          : p;
+        pg > pdf.numPages || pg < 1 || !Number.isInteger(pg)
+          ? (window.location.href = "/#/cv/" + 1)
+          : pg;
       const page = await pdf.getPage(firstPageNumber || 1);
 
       setAllpages(pdf.numPages);
@@ -64,28 +64,36 @@ const PdfComponent = ({ src }) => {
     };
 
     fetchPdf();
-  }, [p, pg, src]);
+  }, [pg, src]);
 
   return (
     <>
       <Container className="text-center w-100 justify-content-center">
         <Row
           className="justify-content-center sticky-top bg-white pt-2 pb-0"
-          style={{ top: 48, zIndex:10 }}
+          style={{ top: 48, zIndex: 10 }}
         >
-          <Pagination className="p-0 m-0" style={{ whiteSpace: "nowrap", overflow: "none" }}>
+          <Pagination
+            className="p-0 m-0"
+            style={{ whiteSpace: "nowrap", overflow: "none" }}
+          >
             <Pagination.First
               title="First"
               disabled={pg === 1 ? "disabled" : null}
               onClick={e =>
-                pg !== 1 ? (window.location.href = "/cv/" + 1) : null
+                pg !== 1
+                  ? setPg(parseInt(1)) & (window.location.href = "/#/cv/" + 1)
+                  : null
               }
             />
             <Pagination.Prev
               title="Previous"
               disabled={pg <= 1 ? "disabled" : null}
               onClick={e =>
-                pg > 1 ? (window.location.href = "/cv/" + (pg - 1)) : null
+                pg > 1
+                  ? setPg(parseInt(pg - 1)) &
+                    (window.location.href = "/#/cv/" + (pg - 1))
+                  : null
               }
             />
             {pg > 3 ? (
@@ -94,7 +102,10 @@ const PdfComponent = ({ src }) => {
             {pg > 2 ? (
               <Pagination.Item
                 className="d-none d-sm-block"
-                onClick={e => (window.location.href = "/cv/" + (pg - 2))}
+                onClick={e =>
+                  setPg(parseInt(pg - 2)) &
+                  (window.location.href = "/#/cv/" + (pg - 2))
+                }
               >
                 {pg - 2}
               </Pagination.Item>
@@ -102,7 +113,10 @@ const PdfComponent = ({ src }) => {
             {pg > 1 ? (
               <Pagination.Item
                 className="d-none d-sm-block"
-                onClick={e => (window.location.href = "/cv/" + (pg - 1))}
+                onClick={e =>
+                  setPg(parseInt(pg - 1)) &
+                  (window.location.href = "/#/cv/" + (pg - 1))
+                }
               >
                 {pg - 1}
               </Pagination.Item>
@@ -111,7 +125,10 @@ const PdfComponent = ({ src }) => {
             {pg < allpages - 1 ? (
               <Pagination.Item
                 className="d-none d-sm-block"
-                onClick={e => (window.location.href = "/cv/" + (pg + 1))}
+                onClick={e =>
+                  setPg(parseInt(pg + 1)) &
+                  (window.location.href = "/#/cv/" + (pg + 1))
+                }
               >
                 {pg + 1}
               </Pagination.Item>
@@ -119,7 +136,10 @@ const PdfComponent = ({ src }) => {
             {pg < allpages - 2 ? (
               <Pagination.Item
                 className="d-none d-sm-block"
-                onClick={e => (window.location.href = "/cv/" + (pg + 2))}
+                onClick={e =>
+                  setPg(parseInt(pg + 2)) &
+                  (window.location.href = "/#/cv/" + (pg + 2))
+                }
               >
                 {pg + 2}
               </Pagination.Item>
@@ -130,14 +150,18 @@ const PdfComponent = ({ src }) => {
             <Pagination.Next
               title="Next"
               disabled={pg > allpages - 1 ? "disabled" : null}
-              onClick={e => (window.location.href = "/cv/" + (pg + 1))}
+              onClick={e =>
+                setPg(parseInt(pg + 1)) &
+                (window.location.href = "/#/cv/" + parseInt(pg + 1))
+              }
             />
             <Pagination.Last
               title="Last"
               disabled={pg === allpages ? "disabled" : null}
               onClick={e =>
                 pg !== allpages
-                  ? (window.location.href = "/cv/" + allpages)
+                  ? setPg(parseInt(allpages)) &
+                    (window.location.href = "/#/cv/" + allpages)
                   : null
               }
             />
@@ -177,7 +201,7 @@ const PdfComponent = ({ src }) => {
             <Pagination.Item
               as="a"
               title="View / Download PDF"
-              href={`${process.env.PUBLIC_URL}/contents/docs/cv-web.pdf`}
+              href={process.env.PUBLIC_URL + "/contents/docs/CV-web.pdf"}
             >
               ⤓
             </Pagination.Item>
@@ -203,7 +227,7 @@ PdfComponent.propTypes = {
 };
 
 PdfComponent.defaultProps = {
-  src: `${process.env.PUBLIC_URL}/contents/docs/cv-web.pdf`,
+  src: process.env.PUBLIC_URL + "/contents/docs/cv-web.pdf",
   allPages: PdfComponent.allPages
 };
 
