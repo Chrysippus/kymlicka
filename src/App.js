@@ -31,7 +31,7 @@ function App() {
         <WKNavbar />
         <main>
           <Switch>
-            <Route path="/animal-studies-fellowship" component={Waiting(Asf)} />
+            <Route exact path="/animal-studies-fellowship" component={Waiting(Asf)} />
             <Route
               path="/newsletter/:no/:year/:month/"
               component={Waiting(News)}
@@ -41,14 +41,14 @@ function App() {
               <Redirect to="/newsletter" />
             </Route>
             <Route exact path="/newsletter" component={Waiting(News)} />
-            <Route path="/affiliations" component={Waiting(Aff)} />
+            <Route exact path="/affiliations" component={Waiting(Aff)} />
             <Route path="/publications/:id/:sub" component={Waiting(Pub)} />
             <Route path="/publications/:id" component={Waiting(Pub)} />
-            <Route path="/publications" component={Waiting(Pub)} />
+            <Route exact path="/publications" component={Waiting(Pub)} />
             <Route path="/cv/:id" component={Waiting(Cv)} />
             <Route path="/cv" component={Waiting(Cv)} />
             <Route path="/biography" component={Waiting(Bio)} />
-            <Route path="/" component={Waiting(Home)} />
+            <Route exact path="/" component={Waiting(Home)} />
             <Route component={Waiting(Home)} />
           </Switch>
         </main>

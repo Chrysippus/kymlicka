@@ -20,7 +20,11 @@ export default function Tra() {
         : null
     ] +
     ".md";
-  let c = getFile(params.month && params.year ? a : "/contents/newsletter.md");
+  let c = getFile(
+    params.month && params.year
+      ? a
+      : process.env.PUBLIC_URL + "/contents/newsletter.md"
+  );
   let opts = {
     overrides: {
       // a: {
@@ -48,7 +52,7 @@ export default function Tra() {
           <BCS className="mb-0 pb-0" />
         </div>
         <div className="w-100 pt-0 mt-0 mx-auto justify-content-center">
-          <NavNewsletter />
+          <NavNewsletter style={{ zIndex: "3000" }} />
         </div>
       </Row>
       <Markdown options={opts}>{"" + (c ? c : "")}</Markdown>

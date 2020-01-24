@@ -4,11 +4,11 @@ import { RLink } from "../components/shared/RLink";
 import Markdown from "markdown-to-jsx";
 import { Container, Carousel } from "react-bootstrap";
 import { Helmet } from "react-helmet-async";
-const home = process.env.PUBLIC_URL + "contents/home.md";
+const home = process.env.PUBLIC_URL + "/contents/home.md";
 const filelist =
   process.env.PUBLIC_URL +
-  "contents/images/books/zoopolis-carousel/FileList.txt";
-const ImgURL = "contents/images/books/zoopolis-carousel/zoopolis-";
+  "/contents/images/books/zoopolis-carousel/FileList.txt";
+const ImgURL = process.env.PUBLIC_URL + "/contents/images/books/zoopolis-carousel/zoopolis-";
 export default function Home() {
   let c = getFile(home);
   let FileList = getFile(filelist);

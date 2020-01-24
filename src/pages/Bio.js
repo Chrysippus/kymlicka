@@ -5,8 +5,8 @@ import { Container, Image } from "react-bootstrap";
 import { RLink } from "../components/shared/RLink";
 import { Helmet } from "react-helmet-async";
 const bio = process.env.PUBLIC_URL + "/contents/biography.md";
-const PhotoWebP = process.env.PUBLIC_URL + "contents/images/photos/maRs.webp";
-const PhotoJpg = process.env.PUBLIC_URL + "contents/images/photos/maRs.jpg";
+const PhotoWebP = process.env.PUBLIC_URL + "/contents/images/photos/maRs.webp";
+const PhotoJpg = process.env.PUBLIC_URL + "/contents/images/photos/maRs.jpg";
 export default function Bio() {
   let c = getFile(bio);
   return (
