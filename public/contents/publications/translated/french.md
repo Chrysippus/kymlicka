@@ -1,0 +1,34 @@
+# French
+
+- **Zoopolis: A Political Theory of Animal Rights** translated into French as _Zoopolis: une théorie politique des droits des animaux_ by Alma Editeur, Paris, 2016, 408 pp. This translation was selected as a finalist for the 2017 Monaco Prix de Philosophie.
+- **Contemporary Political Philosophy** has been translated into French as **Les Theories de la Justice** (Editions la Decouverte, Paris, 1999).
+- **Multicultural Citizenship** has been translated into French as **La Citoyenneté Multiculturelle**, by Éditions La Découverte (Paris) and Éditions Boreal (Montreal, 2001) (with new preface).
+- **Finding Our Way: Rethinking Ethnocultural Relations in Canada** has been translated into French as **La Voie Canadienne: Repenser le multiculturalisme** (Editions Boreal, Montreal, 2002), 342 pp.
+- _"Human supremacism: why are animal rights activists still the "orphans of the left"?"_ , translated into French as "Pourquoi les animalistes sont-ils toujours les orphelins de la gauche? Le suprémacisme humain en question" in _l'Amorce_, June 21, 2019, available [here](https://lamorce.co/pourquoi-les-animalistes-sont-ils-toujours-les-orphelins-de-la-gauche/).
+- _"Zoopolis -- penser une société sans exploitation animale"_, _Revue Ballast_, Oct. 20, 2018 (with Sue Donaldson). For the interview, click [here](https://www.revue-ballast.fr/zoopolis-penser-une-societe-sans-exploitation-animale/).
+- _"Are identity politics emancipatory or regressive?"_ translated into French as «Les politiques identitaires sont-elles émancipatrices ou régressives?» _The Conversation_, May 9, 2018: posted [here](http://theconversation.com/les-politiques-identitaires-sont-elles-emancipatrices-ou-regressives-95391/).
+- _"Solidarity in Diverse Societies: Beyond Neoliberal Multiculturalism and Welfare Chauvinism"_ translated into French as _"Diversité et Solidarité"_,for Patrick Savidan (ed) _Dictionnaire des inégalités et de la justice sociale_ (Presses universitaires de France, 2018), pp. 344-357.
+- _"Domesticated Animal Citizens"_ (Chapter 5 of _Zoopolis_) excerpted and translated into French as _"Des productions animales sans exploitation des animaux?"_ in _Les Cahiers antispécistes_ numéro 38 (2016), pp. 1-9\. Posted at: [http://http://www.cahiers-antispecistes.org/spip.php?article431/](http://www.cahiers-antispecistes.org/spip.php?article431/)
+- _"Animals and the Frontiers of Citizenship"_ translated into French as _"Étendre la citoyenneté aux animaux"_, _Tracés: Revue de sciences humaines._ 2015, #15, pp. 139-66
+- _"Responsible Citizenship"_ translated into French as _"La citoyenneté responsable"_, _Les Cahiers de la Foundation Trudeau_ Vol. 4/2 (2012), pp. 66-104.
+- _"The Essentialist Critique of Multiculturalism: Theory, Policies and Ethos"_ translated into French as _"La Critique Essentialiste du Multiculturalisme: théorie, politiques et ethos"_ in Sophie Guérard-Latour (ed.) _Le multiculturalisme a-t-il un avenir?_ (Paris, Hermann, 2013), 29-75.
+- _"Cultural Rights and Social Democratic Principles"_ translated into French as _"Les droits culturels et les principes sociaux-démocrates"_, in Gabriel Rockhill and Alfredo Gomez-Miller (eds.) _Critique et subversion dans la pensée contemporaine américaine_ (Éditions du Félin, Paris, 2010), pp. 161-188.
+- _"Multiculturalism"_ expanded and translated into French as _"États du multiculturalisme"_ in _Raison Publique_, #9 (2008): pp. 31-44.
+- _"Tester les limites de multiculturalisme libéral? Le cas des tribunaux en droit familial"_, _Éthique publique_, Vol. 9/1 (2007), pp. 27-39.
+- _""Les normes de l'OSCE pour la protection des minorités s'appliquent-elles en Amérique du Nord?"_, _Annuaire français de relations internationales_, Vol. 8 (2007): 141-57.
+- _"Ethnocultural Diversity in a Liberal State: Making Sense of the Canadian Model(s)"_ abridged version is published in French as _"La diversité ethnoculturelle dans un État libéral: Donner sens au(x) modèle(s) canadien(s)"_, in Stéphan Gervais, Dimitrios Karmis, Diane Lamoureux (eds.) _Du tricoté serré au métissé serré? La culture publique commune au Québec en debats_ (Les Presses de l'Université Laval, 2008), pp. 109-37.
+- _"Multiculturalisme"_, in Syvlie Mesure et Patrick Savidan (eds.) _Le dictionaire des sciences humaines_ (Presses Universitaire de France, Paris, 2006), pp. 802-806 (an expanded version will also be published in _Raison Publique_).
+- _"Multiculturalism and Welfare"_ has been translated into French as _"Les politiques de multiculturalisme nuisent-elles à l'État-providence?"_ in _Lien Social et Politiques_, #53 (2005), pp. 119-128.
+- _"Le mythe de la citoyennete transnationale"_ in _Critique Internationale_ #23 (2004): 97-111.
+- _"La Justice et la Sécurité dans la prise en compte du nationalisme minoritaire"_, in Alain Dieckhoff (ed.) _La Constellation des Appartenances: Nationalisme, Libéralisme et Pluralisme_ (Presses de Sciences-Po, Paris, 2004), pp. 181-223.
+- _"Le Nouveau débat sur les droits des minorités"_ in Isabelle Schulte-Tenckhoff (ed.) _Altérité et Droit: Contributions à l'étude du rapport entre droit et culture_ (Bruylant, Brussels, 2002), pp. 91-116.
+- _"Droits de l'homme et justice ethnoculturelle"_ in Lukas Sosoe (ed.) _Diversité Humaine: Democratie, Multiculturalisme et Citoyenneté_ (L'Harmattan, Paris, 2002), pp. 387-406.
+- _"De Porto Rico au Kosovo en passpant par le Québec: les multiculturalistes américains devant le nationalisme de minorité"_ in _Argument_ 3/2 (2001): 102-16.
+- _"Les Droits des minorités et le multiculturalisme: lévolution du débate anglo-américan"_ in _Comprendre: Revue de philosophie et de sciences sociales_ Vol. 1 (2000), pp. 141-172.
+- _"Penser le multiculturalisme: Entretien avec Will Kymlicka"_ in _Mouvements (Paris)_, #7 (Janvier 2000), pp. 111-22.
+- _"Le fédéralisme multinational au Canada: un partenariat à repenser"_ in Guy Laforest and Roger Gibbins (eds.) _Sortir de l'impasse: les voies de la réconciliation_ (IRPP, Montreal, 1998), pp. 15-54.
+- _"Vie commune: aspects internationaux des fédéralismes"_ in _Études Internationales_, Vol. 28/4 (1997), pp. 779-843\. [co-authored with Jean-Robert Raviot]
+- _"Démocratie libérale et droits des cultures minoritaires"_ in France Gagnon, Marie McAndrew and M. Pagé (eds.) _Pluralisme, citoyenneté et Éducation_ (L'Harmattan, Montreal, 1996), pp. 25-51.
+- _"Communautarisme"_ in Monique Canto-Sperber (ed.) _Dictionnaire d'ethique et de Philosophie Morale_ (Presses Universitaires de France, 1996).
+- _"La Libéralisme et la Politisation de la Culture"_ in _Philosophiques_, Vol. 19/2, 1992, pp. 93-115, and in Michel Seymour (ed.) _Une Nation Peut-Elle Se Donner La Constitution De Son Choix?_ (Éditions Bellarmin, Montreal, 1995).
+- _"Le Sujet Désengagé"_ in André Berten, Pablo da Silveira et Hervé Pourtois (eds.) _Libéraux et Communautariens_ (Presses Universitaries de France, 1997), pp. 275-86.

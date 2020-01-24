@@ -1,0 +1,22 @@
+# German
+
+- _Zoopolis_ translated into German as _Zoopolis: Eine politische Theorie der Tierrechte by Suhrkamp_, Berlin, 2013, 608 pp.
+- _Contemporary Political Philosophy: Second Edition_ translated into German by Campus Verlag, Frankfurt, forthcoming.
+- _States, Nations and Cultures_ has been translated as: **Multikulturalismus und Demokratie: Uber Minderheiten in Staaten und Nationen** (Rotbuch Verlag, Hamburg, 1999). This volume also includes a translation of _"American Multiculturalism in the International Arena"_.
+- _Contemporary Political Philosophy_ has been translated into German as **Politische Philosophie heute** (Campus-Verlag Frankfurt 1996)
+- _"Multiculturalism without Citizenship?"_ translated into German in _Philosophie des Migrationsrechts_, ed. Jekaterina Markow and Frederik von Harbou (Mohr-Siebeck, Tübingen), forthcoming.
+- _"Animals and the Frontiers of Citizenship"_ translated into German as _"Bill und Lou in der Zoopolis: Über Tiere als Mitbürger"_, in _Mittelweg 36_ (Hamburg) Volume 23 (2014): 5-26 [co-authored with Sue Donaldson].
+- _"Animal Citizenship"_ translated into German as "Staatsbürgerschaft" in Arianna Ferrari and Klaus Petrus (eds.) _Lexikon der Mensch/Tier-Beziehungen_ (Transcript Publishers, Bielefeld, 2015), 329-333 [co-authored with Sue Donaldson].
+- _"Die Theorie multikultureller Bürgerrechte eröffnet auch eine spannende Perspektive auf die Frage der Tierrechte"_, _Deutsche Zeitschrift für Philosophie_, Vol. 62/1 (2014): 108–119 (Sue Donaldson and Will Kymlicka interviewed by Hilal Sezgin).
+- _"Philosoph Kymlicka: `Tiere sind keine Protein-Fabriken'"_, _Süddeutsche Zeitung_ June 2, 2015, interviewed by Karin Janker, [here](http://www.sueddeutsche.de/politik/philosoph-will-kymlicka-tiere-sind-nicht-unsere-sklaven-1.2466112/).
+- _"Tier-Philosoph Will Kymlicka: Auch Ratten haben ein Recht auf Leben"_ (interviewed by Lukas Ondreka) Spiegel Online, October 22, 2013\. For the interview, click [here](http://www.spiegel.de/kultur/literatur/zoopolis-will-kymlicka-ueber-rechte-fuer-tiere-a-928603.html).
+- _"From Polis to Zoopolis: A Political Theory of Animal Rights"_ translated into German as _"Von der Polis zur Zoopolis: Eine politische Theorie der Tierrechte"_, in Friederike Schmitz (ed) _Tierethik: Grundlagentexte_ (Suhrkamp, Berlin, 2014), 548-583 [co-authored with Sue Donaldson].
+- _"Multiculturalism: Success, Failure, and the Future"_ translated into German as _"Multikulturalismus: Erfolg, Scheitern und Perspektiven"_, in Bertelsmann Stiftung (ed) _Vielfältiges Deutschland: Bausteine für eine zukunftsfähige Gesellschaft_ (Verlag Beterlsmann Stiftung, Berlin, 2014), pp, 121-75.
+- _"Menschenfleisch als Dünger"_, _Ausgeschlachtet das fleisch-dossier_, August 2012, posted at: <http://fleisch.ifp-kma.de/2012/08/kein-fleisch-von-unseren-mitburgern/>. (interview)
+- _"Unsere Mitbürger"_, Die Zeit (Hamburg), July 5, 2012, p. 50 (in German) – interview with Hilal Sezgin.
+- _"Liberal Nationalism and Cosmopolitan Justice"_ translated into German as _"Liberale Nationalstaatlichkeit und kosmopolitische Gerechtigkeit"_ in Seyla Benhabib, _Kosmopolitismus und Demokratie_, (Campus Verlag, Frankfurt am Main 2008 Campus Verlag, Frankfurt am Main, 2008), pp. 111-127.
+- _"The New Debate on Minority Rights"_ translated into German as _"Die Neue Debatte über Minderheitenrechte"_, in Jürgen Mackert and Hans-Peter Müller (eds.) _Moderne (Staats)Bürgerschaft: Nationals Staatsbürgerschaft und die Debatten der Citizenship Studies_ (Wiesbaden: VS Verlag für Sozialwissenschaften, 2007), pp. 323-44
+- _"Territorial Boundaries: A Liberal Egalitarian Perspective"_ translated into German as _"Staatsgrenzen: Eine liberal-egalitäre Perspektive"_ in _Deutsche Zeitschrift für Philosophie_, Vol. 54/4 (2006): 549-75.
+- _"Multicultural Citizenship"_ (excerpt) translated into German as _"Multikulturelle Staatsbürgerschaft"_, in Lars Allolio-Näcke, Britta Kalscheuer, Arne Manzeschke (eds.) _Differenzen anders denken: Bausteine zu einer Kulturtheorie der Transdifferenz_(Campus Verlag, Frankfurt, 2005), pp. 157-85.
+- _"Moralphilosophie und Staatstatigkeit: das Beispiel der neuen Reproduktionstechnologien"_ in Matthias Kettner (ed.) _Angewandte Ethik als Politikum_ (Suhrkamp Verlag, Frankfurt, 2000, pp. 193-225.
+- _"Drei Formen gruppen-differenzierter Staatsburgerschaft in Kanada"_ in _Peripherie: Zeitschrift für Politik und Ökonomie in der Dritten Welt_, No. 64, 1996, pp. 5-25.

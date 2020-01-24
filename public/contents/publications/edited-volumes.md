@@ -1,0 +1,25 @@
+# Edited Volumes
+
+---
+
+- [Gender Parity and Multicultural Feminism: Towards a New Synthesis](/publications/edited-volumes\gender-parity)
+- [Federalism and the Welfare State in a Multicultural World](/publications/edited-volumes\federalism-welfare-state)
+- [The Strains of Commitment: The Political Sources of Solidarity in Diverse Societies](/publications/edited-volumes\strains-of-commitment)
+- [International Approaches to Governing Ethnic Diversity](/publications/edited-volumes\international-approaches-governing)
+- [Criminal Law and Cultural Diversity](/publications/edited-volumes\criminal-law)
+- [Multiculturalism and Minority Rights in the Arab World](/publications/edited-volumes\multiculturalism-minority-rights)
+- [Rooted Cosmopolitanism: Canada and the World](/publications/edited-volumes\rooted-cosmopolitanism)
+- [Identity Politics in the Public Realm: Bringing Institutions Back In](/publications/edited-volumes\identity-politics)
+- [The Broadview Anthology of Social and Political Thought](/publications/edited-volumes\broadview-anthology-social)
+- [The Politics of Reconciliation in Multicultural Societies](/publications/edited-volumes\politics-reconciliation-multicultural)
+- [The Globalization of Ethics: Religious and Secular Perspectives](/publications/edited-volumes\globalization-ethics)
+- [Multiculturalism and the Welfare State: Recognition and Redistribution in Contemporary Democracies](/publications/edited-volumes\multiculturalism-welfare-state)
+- [Multiculturalism in Asia](/publications/edited-volumes\multiculturalism-asia)
+- [Ethnicity and Democracy in Africa](/publications/edited-volumes\ethnicity-democracy-africa)
+- [Language Rights and Political Theory](/publications/edited-volumes\language-rights-political)
+- [Can Liberal Pluralism be Exported? Western Political Theory and Ethnic Relations in Eastern Europe](/publications/edited-volumes\liberal-pluralism-exported)
+- [Alternative Conceptions of Civil Society](/publications/edited-volumes\alternative-conceptions-civil)
+- [Citizenship in Diverse Societies](/publications/edited-volumes\citizenship-diverse-societies)
+- [NOMOS 39: Ethnicity and Group Rights](/publications/edited-volumes\nomos-39-ethnicity)
+- [The Rights of Minority Cultures](/publications/edited-volumes\rights-minority-cultures)
+- [Justice in Political Philosophy](/publications/edited-volumes\justice-political-philosophy)
