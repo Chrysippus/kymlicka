@@ -1,5 +1,6 @@
 {
   "name": "kymlicka",
+  "homepage": "https://chrysippus.github.io/kymlicka/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -26,6 +27,8 @@
     "typescript": "^3.7.5"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d --expose-gc --max-old-space-size=8192 build",
     "start": "react-scripts --expose-gc --max-old-space-size=8192 start",
     "build": "react-scripts --expose-gc --max-old-space-size=8192 build",
     "test": "react-scripts test",
