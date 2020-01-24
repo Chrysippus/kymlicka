@@ -43,7 +43,8 @@ export default function Bio() {
               props: { className: "text-left" }
             },
             a: {
-              component: RLink
+              component: RLink,
+              props: { target: "_blank" }
             }
           }
         }}

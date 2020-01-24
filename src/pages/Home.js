@@ -50,7 +50,8 @@ export default function Home() {
         props: { className: "d-none" }
       },
       a: {
-        component: RLink
+        component: RLink,
+        props: { target: "_blank"}
       }
     }
   };

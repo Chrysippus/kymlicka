@@ -20,7 +20,7 @@ export default function WKNavbar() {
           <Nav.Link eventKey={2} as={Link} to="/biography">
             Biography
           </Nav.Link>
-          <Nav.Link eventKey={3} as={Link} to="/cv">
+          <Nav.Link eventKey={3} target="_blank" href={process.env.PUBLIC_URL + "/contents/docs/CV-web.pdf"}>
             CV
           </Nav.Link>
           <Nav.Link eventKey={4} as={Link} to="/publications">

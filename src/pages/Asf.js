@@ -21,7 +21,17 @@ export default function Asf() {
           able to participate constructively in departmental and collegial activities."
         />
       </Helmet>
-      <Markdown>{"" + (c ? c : "")}</Markdown>
+      <Markdown
+        options={{
+          overrides: {
+            a: {
+              props: { target: "_blank" }
+            }
+          }
+        }}
+      >
+        {"" + (c ? c : "")}
+      </Markdown>
     </Container>
   );
 }

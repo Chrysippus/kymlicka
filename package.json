@@ -2,9 +2,8 @@
   "name": "kymlicka",
   "homepage": "http://www.willkymlicka.ca",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
-    "@popperjs/core": "^2.0.0",
     "@testing-library/dom": "^6.11.0",
     "@testing-library/jest-dom": "^5.0.2",
     "@testing-library/react": "^9.3.2",
@@ -15,7 +14,6 @@
     "bootstrap": "^4.4.1",
     "markdown-to-jsx": "^6.10.3",
     "node-sass": "^4.13.1",
-    "pdfjs-dist": "^2.2.228",
     "react": "^16.12.0",
     "react-bootstrap": "^1.0.0-beta.16",
     "react-dom": "^16.12.0",
@@ -25,7 +23,7 @@
     "typescript": "^3.7.5"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts --expose-gc --max-old-space-size=8192 start",
     "build": "react-scripts --expose-gc --max-old-space-size=8192 build",

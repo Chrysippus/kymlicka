@@ -1,6 +1,6 @@
 import React from "react";
 import { Container } from "react-bootstrap";
-import PdfComponent from "./PdfComponent";
+// import PdfComponent from "./PdfComponent";
 import { Helmet } from "react-helmet-async";
 
 export default function Cv() {
@@ -13,9 +13,10 @@ export default function Cv() {
           content="Will Kymlicka's Curriculum Vitae in PDF and browsable format."
         />
       </Helmet>
-      <PdfComponent
+      
+      {/* <PdfComponent
         src={process.env.PUBLIC_URL + "/contents/docs/CV-web.pdf"}
-      />
+      /> */}
     </Container>
   );
 }

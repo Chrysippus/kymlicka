@@ -51,6 +51,9 @@ export default function Aff() {
             },
             li: {
               props: { className: "text-left" }
+            },
+            a: {
+              props: { target: "_blank" }
             }
           }
         }}

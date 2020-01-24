@@ -8,7 +8,7 @@ import WKNavbar from "./components/shared/WKNavbar";
 import { Head } from "./components/shared/Head";
 import { Foot } from "./components/shared/Foot";
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Switch,
   Route,
   Redirect
@@ -17,14 +17,14 @@ import { Waiting } from "./components/shared/waiting";
 import { HelmetProvider } from "react-helmet-async";
 const Home = lazy(() => import("./pages/Home"));
 const Bio = lazy(() => import("./pages/Bio"));
-const Cv = lazy(() => import("./pages/Cv"));
+// const Cv = lazy(() => import("./pages/Cv"));
 const Asf = lazy(() => import("./pages/Asf"));
 const Aff = lazy(() => import("./pages/Aff"));
 const News = lazy(() => import("./pages/News"));
 const Pub = lazy(() => import("./pages/Pub"));
 function App() {
   return (
-    <Router basename="/">
+    <Router basename={process.env.PUBLIC_URL}>
       <HelmetProvider>
       <div className="App">
         <Head />
@@ -45,8 +45,6 @@ function App() {
             <Route path="/publications/:id/:sub" component={Waiting(Pub)} />
             <Route path="/publications/:id" component={Waiting(Pub)} />
             <Route exact path="/publications" component={Waiting(Pub)} />
-            <Route path="/cv/:id" component={Waiting(Cv)} />
-            <Route path="/cv" component={Waiting(Cv)} />
             <Route path="/biography" component={Waiting(Bio)} />
             <Route exact path="/" component={Waiting(Home)} />
             <Route component={Waiting(Home)} />
