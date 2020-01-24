@@ -1,0 +1,33 @@
+# Chinese
+
+- **Zoopolis: A Political Theory of Animal Rights** translated into simplified Chinese by Guangxi Normal University Press,forthcoming.
+- **Zoopolis: A Political Theory of Animal Rights** translated into (complex) Chinese by Owl Publishing, Taipei, forthcoming.
+- **Multicultural Odysseys** translated into simplified Chinese by Shandong Peoples Publishing Company, forthcoming
+- **Multicultural Citizenship** translated into Chinese by China Minzu University Press, _Ethnology and Anthropology Translation Series_ (Beijing, 2009), 300 pp.
+- **Politics in the Vernacular** has been translated into (complex) Chinese by Rive Gauche Publishing (Taipei, 2004), 588 pp.
+- **Multicultural Citizenship** translated into Chinese by Shanghai Translations Publishing House, (Shanghai 2009), 312 pp.
+- **Politics in the Vernacular**, has been translated into (simplified) Chinese by Shanghai Translation Publishing House (Shanghai, 2005), 409 pp.
+- **Liberalism, Community and Culture** has been translated into (simplified) Chinese by Shanghai Translation Publishing House (2005), 315 pp.
+- **Contemporary Political Philosophy**, Second Edition, has been translated into (complex-character) Chinese by Linking Publishing Company (Taipei, 2003).
+- **Contemporary Political Philosophy**, Second Edition, has been translated into (simplified) Chinese by Shanghai Joint Publishing (Shanghai, 2003), 893 pp.
+- _"Minority Rights in Political Philosophy and International Law"_, translated into Chinese in _World Ethno-National Studies_ (Institute of Ethnology and Anthropology, Chinese Academy of Social Science), forthcoming.
+- _"Multicultural citizenship within multination states"_ translated into Chinese in _World Ethno-National Studies_ (Institute of Ethnology and Anthropology, Chinese Academy of Social Science) #6 (2014).
+- _"Testing the Liberal Multiculturalist Hypothesis: Normative Theories and Social Science Evidence"_, translated into Chinese in _Journal of Guangxi University for Nationalities_ (Philosophy and Social Sciences Edition), Vol. 37/2 (2015), 9-16.
+- _"Frontiers of Contemporary Political Philosophy: Pluralism Citizenship and Global Vision"_, _Marxism and Reality_, Issue No. 2, 2013, pp. 90-99 (interviewed by Bian Shaobin).
+- _"Identity Politics in Multination States"_ translated into Chinese in Yu Keping and Li Yitian (eds.) Community and Political Solidarity (special issue of Marxism and Reality, Social Sciences Academic Press, Beijing, 2010), pp. 136-47.
+- _"Social Unity in a Liberal State"_ translated into Chinese in Marxism and Reality, special issue on "Community and Political Solidarity" (Social Sciences Academic Press), 2010, pp. 285-326.
+- _"The Rights of Minority Cultures: Reply to Kukathas"_ translated into Chinese in Li Li-Hong (ed.) _Multiculturalism: A Political Theory Reader_ (Zhejiang University Press), forthcoming.
+- _"Return of the Citizen: A Survey of Recent Work on Citizenship Theory"_, translated into (simplified) Chinese in Li Li-Hong (ed.) _Multiculturalism: A Political Theory Reader_ (Zhejiang University Press), forthcoming.
+- _"The Rise and Fall of Multiculturalism? New Debates on Inclusion and Accommodation in Diverse Societies"_ translated into Chinese in _International Social Science Journal: Chinese Edition 28/1_ (2011): 101-117.
+- _"The Internationalization of Minority Rights"_ translated into Chinese in _Journal of the History of Political Thought_ (Tianjin), Vol 1/2 (2010), 149-81.
+- _"Return of the Citizen"_ translated into (complex) Chinese in Fu-kien Chang (ed.) in _Citizenship and Political Action: A Dialogue between Empirical Inquiries and Normative Reflections_ (Academica Sinica, Taipei, 2008), pp. 243-83.
+- _"Language Rights and Political Theory"_ (co-authored with Alan Patten) translated into Chinese in _Collected Works on Sino-Western Political Culture_ (Tianjin People's Press), Volume 6, 2007, pp. 581-610.
+- _"Liberal Multiculturalism: Western Models, Global Trends and Asian Debates"_ translated into Chinese in _Marxism and Reality_ (2006), #1.
+- _"Identity Politics in Multination States"_ translated into Chinese in Prof. Yu Keping (ed.) _Community, Identity and Solidarity_ (Social Sciences Academic Press, Beijing), forthcoming.
+- _"Citizenship, Communities and Identity in Canada"_ translated into Chinese in Prof. Yu Keping (ed.) _Community, Identity and Solidarity_ (Social Sciences Academic Press, Beijing), forthcoming.
+- _"The Social Contract Tradition"_ has been translated into Chinese in Xunlian Liu (ed.) _Social Contract_ (Jiangsu People's Press, Nanjing, 2004), pp. 379-99.
+- _"Cosmopolitanism, Nation-States and Minority Nationalism"_ translated into Chinese in _Collected Works on Sino-Western Political Culture_, Vol. 4 (Tianjin People's Press, 2004), pp. 290-326.
+- _"Return of the Citizen"_ translated into Chinese in Qing Lui (ed.) _Citizenship, Community and Republicanism_ (Jiangsu People's Press, Nanjing, 2004), pp. 235-73.
+- _"From Enlightenment Cosmpolitanism to Liberal Nationalism"_, translated into Chinese in _Collected Works on Sino-Western Political Culture_, Vol.3 (Tianjin People's Press, 2003), pp. 57-81.
+- _"Education for Citizenship"_ translated into Chinese in _Collected Works on Sino-Western Political Culture_, Vol. 3 (Tianjin People's Press, 2003), pp. 276-308.
+- _"Liberal Egalitarianism and Civic Republicanism: Friends or Enemies?"_, translated into Chinese in _Collected Works on Sino-Western Political Culture_ Vol. 2 (Tianjin People's Press, 2002) pp. 207-34.

@@ -1,0 +1,15 @@
+# Home
+
+Will Kymlicka is the Canada Research Chair in Political Philosophy in the [Philosophy Department](http://www.queensu.ca/philosophy) at Queen's University in Kingston, Canada, where he has taught since 1998\. His research interests focus on issues of democracy and diversity, and in particular on models of citizenship and social justice within multicultural societies. He has published eight books and over 200 articles, which have been translated into 34 languages, and has received several awards, most recently, Honorary Doctorates from the University of Copenhagen in 2013 and KU Leuven in 2014, and the 2019 Gold Medal from the Social Sciences and Humanities Research Council of Canada.
+
+He is co-director, with Irene Bloemraad, of a new CIFAR program on [Boundaries, Membership and Belonging](https://www.cifar.ca/research/programs/boundaries-membership-belonging), which brings together leading social scientists and political and legal theorists to explore how the boundaries of social and political membership are drawn in the contemporary world, and whether we can re-draw these boundaries in a way that is more inclusive without losing solidarity and the possibility of collective action.
+
+He is also the co-director, along with Keith Banting, of the [Multiculturalism Policy Index](http://www.queensu.ca/mcp) project, which monitors the evolution of multiculturalism policies across the Western democracies. The MCP Index project is designed to provide information about multiculturalism policies in a standardized format that aids comparative research and contributes to the understanding of state-minority relations. Will's most recent work in this field focuses on issues of [solidarity in multicultural societies](https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-015-0017-4/).
+
+Born and raised in Canada, he was educated at Queen's and Oxford University, and has held positions at various Canadian, American and European universities before moving to Queen's. He is also a recurrent visiting professor in the [Nationalism Studies](http://web.ceu.hu/nation/) program at the Central European University in Budapest.
+
+He is married to the author [Sue Donaldson](http://www.writersunion.ca/member/sue-donaldson), with whom he has co-authored _Zoopolis: A Political Theory of Animal Rights_ (Oxford UP, 2011), which was awarded the 2013 Biennial Book Prize from the Canadian Philosophical Association, and is translated into Chinese, French, German, Greek, Japanese, Polish, Spanish and Turkish. For information on several new initiatives at Queen's relating to animal ethics, including a postdoctoral fellowship that Will is directing, please visit the [Animals in Philosophy, Politics, Law and Ethics page](http://animalpolitics.queensu.ca).
+
+Some of Will's recent and forthcoming papers are available on [<i class="ai ai-academia" />cademia.edu](http://queensu.academia.edu/WillKymlicka/).
+
+In his spare time, Will is a distance runner, most recently running the 2016 New York City Marathon and 2017 and 2018 PEC County Marathon.
