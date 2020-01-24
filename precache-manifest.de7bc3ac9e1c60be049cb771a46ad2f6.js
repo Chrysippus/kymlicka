@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e926fc0b75c7aa82ad619991576dad8",
+    "revision": "0c7b5d3ceed62674788ae00933b5be2c",
     "url": "/kymlicka/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kymlicka/static/css/4.a8067d4d.chunk.css"
   },
   {
-    "revision": "baaa82ed09352e900a57",
+    "revision": "86c27f5953fb5d43d032",
     "url": "/kymlicka/static/css/main.a395425b.chunk.css"
   },
   {
@@ -64,20 +64,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kymlicka/static/js/7.3e8248e0.chunk.js"
   },
   {
-    "revision": "cdbf96cc070c87936e7d",
-    "url": "/kymlicka/static/js/8.c9319b42.chunk.js"
+    "revision": "2a131bca55a9f7171f5e",
+    "url": "/kymlicka/static/js/8.55fc1aea.chunk.js"
   },
   {
     "revision": "0a93d9e5c7d35f45854c",
     "url": "/kymlicka/static/js/9.2b4d749f.chunk.js"
   },
   {
-    "revision": "baaa82ed09352e900a57",
-    "url": "/kymlicka/static/js/main.4db9e357.chunk.js"
+    "revision": "86c27f5953fb5d43d032",
+    "url": "/kymlicka/static/js/main.5d8aa60f.chunk.js"
   },
   {
-    "revision": "5d22bd9bd5178a981af2",
-    "url": "/kymlicka/static/js/runtime-main.60e2c711.js"
+    "revision": "708e9fb461f676ea5d31",
+    "url": "/kymlicka/static/js/runtime-main.a953667a.js"
   },
   {
     "revision": "1afcbd6a1c454e7b7f0bc58155558b9d",
