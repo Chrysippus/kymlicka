@@ -28,7 +28,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d --expose-gc --max-old-space-size=8192 build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts --expose-gc --max-old-space-size=8192 start",
     "build": "react-scripts --expose-gc --max-old-space-size=8192 build",
     "test": "react-scripts test",
@@ -48,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
