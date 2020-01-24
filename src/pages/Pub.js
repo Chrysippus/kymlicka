@@ -45,7 +45,8 @@ export default function Pub() {
         props: { className: "w-100" }
       },
       a: {
-        component: RLink
+        component: RLink,
+        props: { target: "_blank"}
       }
     }
   };
