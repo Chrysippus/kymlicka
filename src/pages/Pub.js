@@ -93,18 +93,22 @@ export default function Pub() {
       <Helmet>
         <title>
           {title + " - "}
-          {locPath[3] && !title.includes(locPath[3].substr(0, 3)) ? locPath[3] + " - " : ""}
+          {locPath[3] && !title.includes(locPath[3].substr(0, 3))
+            ? locPath[3] + " - "
+            : ""}
           {locPath[2] && !title.includes(locPath[2].substr(0, 3))
             ? locPath[2] + " - "
             : ""}
-          {locPath[1] && !title.includes(locPath[1].substr(0, 3)) ? locPath[1] + " - " : ""}
+          {locPath[1] && !title.includes(locPath[1].substr(0, 3))
+            ? locPath[1] + " - "
+            : ""}
           Will Kymlicka
         </title>
         <meta
           name="description"
           content="Listings and detailed content of Will Kymlicka's publications. 
           Sections include: Books, Edited Volumes, Articles / Chapters, Interviews, 
-          Reviews, Related, Art / Travel, Translated, and Citations"
+          Reviews, Related, Art / Travel, Translated, and Citations."
         />
       </Helmet>
       <Row className="sticky-top bg-white" style={{ top: "45px", zIndex: 10 }}>

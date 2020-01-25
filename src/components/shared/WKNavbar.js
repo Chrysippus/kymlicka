@@ -5,7 +5,7 @@ export default function WKNavbar() {
   return (
     <Navbar collapseOnSelect className="sticky-top" bg="white" expand="lg">
       <Navbar.Brand
-        href="/#/"
+        href="/"
         className="d-lg-none"
         style={{ textDecoration: "none" }}
       >
