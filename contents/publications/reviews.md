@@ -1,4 +1,4 @@
-# Book Reviews
+# Reviews
 
 - ["Is there a Christian Pluralist Approach to Immigraton?", _Comment: Public theology for the common good_, April 2018 (Review of Matthew Kaemingk's _Christian Hospitality and Muslim Immigration in an Age of Fear_).](https://www.cardus.ca/comment/article/5205/is-there-a-christian-pluralist-approach-to-immigration/)
 - "Connecting Domination Contracts", _Ethnic and Racial Studies_, Vol. 41/3, 2018: 532-40 (part of review symposium on Charles Mills' _Black Rights/White Wrongs: The Critique of Racial Liberalism_).
