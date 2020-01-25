@@ -71,7 +71,6 @@ export default function Pub() {
   let { BCLevel2, BCLevel3, BCLevel4 } = BreadCrumbs(params, location, title);
   const BCS = getBCS(location, BCLevel2, BCLevel3, BCLevel4);
   let locPath = location.pathname.split(/[/\\-]/);
-  console.log(locPath)
   locPath =
     locPath.length >= 4
       ? [
@@ -85,28 +84,21 @@ export default function Pub() {
         ]
       : [
           "",
-          locPath[1] ? locPath[1].toUpperCase()[0] + locPath[1].substr(1): "",
-          locPath[2] ? locPath[2].toUpperCase()[0] + locPath[2].substr(1): "",
-          locPath[3] ? locPath[3].toUpperCase()[0] + locPath[3].substr(1): "",
-          // locPath[4].toUpperCase()[0] + locPath[4].substr(1)
+          locPath[1] ? locPath[1].toUpperCase()[0] + locPath[1].substr(1) : "",
+          locPath[2] ? locPath[2].toUpperCase()[0] + locPath[2].substr(1) : "",
+          locPath[3] ? locPath[3].toUpperCase()[0] + locPath[3].substr(1) : ""
         ];
-  console.log(locPath);
-  // console.log(title);
   return (
     <Container>
       <Helmet>
         <title>
           {title + " - "}
-          {locPath[3] && !title.includes(locPath[3])
-            ? locPath[3] + " - "
-            : ""}
-          {locPath[2] && !title.includes(locPath[2])
+          {locPath[3] && !title.includes(locPath[3].substr(0, 3)) ? locPath[3] + " - " : ""}
+          {locPath[2] && !title.includes(locPath[2].substr(0, 3))
             ? locPath[2] + " - "
             : ""}
-          {locPath[1] && !title.includes(locPath[1])
-            ? locPath[1] + " - "
-            : ""}
-          Will Kymlicka's Website
+          {locPath[1] && !title.includes(locPath[1].substr(0, 3)) ? locPath[1] + " - " : ""}
+          Will Kymlicka
         </title>
         <meta
           name="description"

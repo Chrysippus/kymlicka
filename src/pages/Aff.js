@@ -9,7 +9,7 @@ export default function Aff() {
   return (
     <Container>
       <Helmet>
-        <title>Affiliations - Will Kymlicka's Website</title>
+        <title>Affiliations - Will Kymlicka</title>
         <meta
           name="description"
           content="Listing of Will Kymlicka's membership in Professional Organizations, 

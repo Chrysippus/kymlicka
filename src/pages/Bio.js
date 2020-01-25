@@ -12,7 +12,7 @@ export default function Bio() {
   return (
     <Container>
       <Helmet>
-        <title>Biography - Will Kymlicka's Website</title>
+        <title>Biography - Will Kymlicka</title>
         <meta
           name="description"
           content="Will Kymlicka received his B.A. in philosophy and politics from Queen's University in 1984, 

@@ -7,7 +7,7 @@ export default function Cv() {
   return (
     <Container className="w-100 text-center">
       <Helmet>
-        <title>CV - Will Kymlicka's Website</title>
+        <title>CV - Will Kymlicka</title>
         <meta
           name="description"
           content="Will Kymlicka's Curriculum Vitae in PDF and browsable format."

@@ -58,7 +58,7 @@ export default function Home() {
   return (
     <Container>
       <Helmet>
-        <title>Home - Will Kymlicka's Website</title>
+        <title>Home - Will Kymlicka</title>
         <meta
           name="description"
           content="Will Kymlicka is the Canada Research Chair in Political Philosophy in the Philosophy Department at Queen's University in Kingston, Canada, where he has taught since 1998. His research interests focus on issues of democracy and diversity, and in particular on models of citizenship and social justice within multicultural societies. He has published eight books and over 200 articles, which have been translated into 34 languages, and has received several awards, most recently, Honorary Doctorates from the University of Copenhagen in 2013 and KU Leuven in 2014, and the 2019 Gold Medal from the Social Sciences and Humanities Research Council of Canada."

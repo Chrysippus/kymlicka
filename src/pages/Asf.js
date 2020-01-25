@@ -10,7 +10,7 @@ export default function Asf() {
     <Container>
       <Helmet>
         <title>
-          Postdoctoral Fellowship in Animal Studies - Will Kymlicka's Website
+          Postdoctoral Fellowship in Animal Studies - Will Kymlicka
         </title>
         <meta
           name="description"
