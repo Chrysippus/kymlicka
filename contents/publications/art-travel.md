@@ -1,4 +1,4 @@
-# Art and Travel Publications
+# Art and Travel
 
 - "What Would Jesus Do?" in _Queen's Quarterly_ Vol. 111/3 (Fall 2004): pp. 381-94 (co-authored with Sue Donaldson).
 - "Sex and Heaven in Upstate New York" in _Queen's Quarterly_, Vol. 110/3 (Fall 2003): pp. 354-67 (co-authored with Sue Donaldson).
