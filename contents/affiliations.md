@@ -71,7 +71,7 @@
   - _Critique Internationale_ (Paris)
   - _I-CON: The International Journal of Constitutional Law_
   - _Idees: Revista de temes contemporanis_ (Barcelona)
-  - International advisory board for _Ethiek & Maatschappij_(Belgium)
+  - International advisory board for _Ethiek & Maatschappij_ (Belgium)
   - _Review of Constitutional Studies_
 
 ## Visiting Professorships
