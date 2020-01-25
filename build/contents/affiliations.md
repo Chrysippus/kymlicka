@@ -68,11 +68,10 @@
 - Associate Editor, [_Ethics_: An International Journal of Social, Political and Legal Philosophy. (1991-97)](http://www.journals.uchicago.edu/Ethics/)
 - Nominating Board, _Philosophers' Annual_ (1997-98)
 - I have also served terms on the editorial boards of several other journals, including:
-
   - _Critique Internationale_ (Paris)
   - _I-CON: The International Journal of Constitutional Law_
   - _Idees: Revista de temes contemporanis_ (Barcelona)
-  - International advisory board for _Ethiek & Maatschappij_(Belgium)
+  - International advisory board for _Ethiek & Maatschappij_ (Belgium)
   - _Review of Constitutional Studies_
 
 ## Visiting Professorships

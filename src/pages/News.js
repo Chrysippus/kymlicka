@@ -52,7 +52,7 @@ export default function Tra() {
           <BCS className="mb-0 pb-0" />
         </div>
         <div className="w-100 pt-0 mt-0 mx-auto justify-content-center">
-          <NavNewsletter style={{ zIndex: "3000" }} />
+          <NavNewsletter />
         </div>
       </Row>
       <Markdown options={opts}>{"" + (c ? c : "")}</Markdown>
