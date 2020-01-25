@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 export function BreadCrumbs(params, location, title) {
   let locPath = location.pathname.replace("\\", "/");
   let Level = locPath.split("/").length;
+  // console.log(Level)
   let BCLevel4 = props =>
     locPath ? (
       Level === 4 || Level === 5 ? (
@@ -33,6 +34,7 @@ export function BreadCrumbs(params, location, title) {
         </>
       ) : null
     ) : null;
+    // console.log(locPath)
   let BCLevel3 = () =>
     locPath ? (
       Level !== 3 && title ? (

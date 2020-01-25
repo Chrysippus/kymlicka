@@ -2,7 +2,13 @@ import React from "react";
 import getFile from "../components/shared/getFile";
 import { RLink } from "../components/shared/RLink";
 import Markdown from "markdown-to-jsx";
-import { Container, Breadcrumb, BreadcrumbItem, Row, Col } from "react-bootstrap";
+import {
+  Container,
+  Breadcrumb,
+  BreadcrumbItem,
+  Row,
+  Col
+} from "react-bootstrap";
 import { useParams, useLocation } from "react-router-dom";
 import { BookCover } from "../components/Publications/BookCover";
 import { BreadCrumbs } from "../components/shared/BreadCrumbs";
@@ -46,7 +52,7 @@ export default function Pub() {
       },
       a: {
         component: RLink,
-        props: { target: "_blank"}
+        props: { target: "_blank" }
       }
     }
   };
@@ -64,23 +70,43 @@ export default function Pub() {
   }
   let { BCLevel2, BCLevel3, BCLevel4 } = BreadCrumbs(params, location, title);
   const BCS = getBCS(location, BCLevel2, BCLevel3, BCLevel4);
+  let locPath = location.pathname.split(/[/\\-]/);
+  console.log(locPath)
+  locPath =
+    locPath.length >= 4
+      ? [
+          "",
+          locPath[1].toUpperCase()[0] + locPath[1].substr(1),
+          locPath[2].toUpperCase()[0] +
+            locPath[2].substr(1) +
+            " " +
+            locPath[3].toUpperCase()[0] +
+            locPath[3].substr(1)
+        ]
+      : [
+          "",
+          locPath[1] ? locPath[1].toUpperCase()[0] + locPath[1].substr(1): "",
+          locPath[2] ? locPath[2].toUpperCase()[0] + locPath[2].substr(1): "",
+          locPath[3] ? locPath[3].toUpperCase()[0] + locPath[3].substr(1): "",
+          // locPath[4].toUpperCase()[0] + locPath[4].substr(1)
+        ];
+  console.log(locPath);
+  // console.log(title);
   return (
     <Container>
       <Helmet>
         <title>
-          {(location.pathname.split("/")[3]
-            ? location.pathname.split("/")[3].toUpperCase()[0] +
-              location.pathname.split("/")[3].substr(1) +
-              " - "
-            : "") +
-            (location.pathname.split("/")[2]
-              ? location.pathname.split("/")[2].toUpperCase()[0] +
-                location.pathname.split("/")[2].substr(1) +
-                " - "
-              : "") +
-            (location.pathname.split("/")[1].toUpperCase()[0] +
-              location.pathname.split("/")[1].substr(1)) +
-            " - Will Kymlicka's Website"}
+          {title + " - "}
+          {locPath[3] && !title.includes(locPath[3])
+            ? locPath[3] + " - "
+            : ""}
+          {locPath[2] && !title.includes(locPath[2])
+            ? locPath[2] + " - "
+            : ""}
+          {locPath[1] && !title.includes(locPath[1])
+            ? locPath[1] + " - "
+            : ""}
+          Will Kymlicka's Website
         </title>
         <meta
           name="description"
