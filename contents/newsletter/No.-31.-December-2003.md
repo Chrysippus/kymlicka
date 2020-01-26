@@ -1,6 +1,6 @@
 # **Citizenship, Democracy and Ethnocultural Diversity**
 
-## Newsletter of the Queen's Forum for Philosophy and Public Policy\*\*
+## Newsletter of the Queen's Forum for Philosophy and Public Policy
 
 ### **No. 31, December 2003**
 

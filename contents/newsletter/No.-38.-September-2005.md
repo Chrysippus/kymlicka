@@ -2,7 +2,7 @@
 
 ## Newsletter of the Queen's Forum for Philosophy and Public Policy
 
-### No. 38, September 2005\*\*
+### No. 38, September 2005
 
 ---
 

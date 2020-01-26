@@ -1,18 +1,20 @@
-# Citizenship, Democracy and Ethnocultural Diversity Newsletter 
+# Citizenship, Democracy and Ethnocultural Diversity Newsletter
 
-## _Of the Queen's Forum for Philosophy and Public Policy_ 
+## _Of the Queen's Forum for Philosophy and Public Policy_
 
 ### _No. 17, June 2000_
 
 ---
 
 ### Contents
+
 - [1\. Introduction](#1-introduction)
 - [2\. Upcoming Conferences](#2-upcoming-conferences)
 - [3\. NEW JOURNAL](#3-new-journal)
 - [4\. Recent Publications](#4-recent-publications)
 - [5\. Internet Resources](#5-internet-resources)
 - [6\. Related Research Programs](#6-related-research-programs)
+  - [**Summer Schools**](#summer-schools)
 - [7\. INTERNATIONAL DOCTORAL PRIZE](#7-international-doctoral-prize)
 
 #### 1\. Introduction
@@ -65,89 +67,89 @@ _Ab Imperio_ is a new international multidisciplinary journal dedicated to acade
 
 To keep our list manageable, we are listing only books and journal symposia, not individual journal articles. All prices are in US dollars.
 
-Alexander Aleinikoff and Douglas Klusmeyer (eds) _From Migrants to Citizens: Membership in a Changing World_ (Carnegie Endowment for International Peace, Brooking Institution 2000), $24.95.
+Alexander Aleinikoff and Douglas Klusmeyer (eds) _From Migrants to Citizens: Membership in a Changing World_ (Carnegie Endowment for International Peace, Brooking Institution 2000), \$24.95.
 
-Robert Audi, _Religious Commitment and Secular Reason_ (Cambridge University Press, 2000), $18.95.
+Robert Audi, _Religious Commitment and Secular Reason_ (Cambridge University Press, 2000), \$18.95.
 
 Francois Audigier (ed) _L'Education a la citoyennete: synthese et mise en debat_ (Paris, INRP, 1999)
 
 Sandor Balogh, _Autonomy and the new World Order_ (can be downloaded from <http://www.hungary.com/corvinus> or ordered from Magy@globalserve.net)
 
-Viva Ona Bartkus, _The Dynamic of Secession_ (Cambridge University Press, 1999), $22.95.
+Viva Ona Bartkus, _The Dynamic of Secession_ (Cambridge University Press, 1999), \$22.95.
 
-Daniel Bell, _East Meets West: Human Rights and Democracy in East Asia_ (Princeton University Press, 2000), $15.96.
+Daniel Bell, _East Meets West: Human Rights and Democracy in East Asia_ (Princeton University Press, 2000), \$15.96.
 
 Jerome Black, Patrick Glenn, Danielle Juteau and Daniel Weinstock, _Les enjeux de la citoyennete: Un bilan interdisciplinaire / A Multidisciplinary Approach_ (Working Papers from the Montreal Metropolis Centre, 1998) The publication presents five papers by the authors and can be obtained from the Montreal Centre at metropolis@ere.umontreal.ca
 
-Charles Blattberg, _From Pluralist to Patriotic Politics: Putting Practices First_ (Oxford UP, 2000), $85.00.
+Charles Blattberg, _From Pluralist to Patriotic Politics: Putting Practices First_ (Oxford UP, 2000), \$85.00.
 
 Ekkehard Borntrager, Borders, _Ethnicity and National Self-Determination_(Ethnos 1999)
 
 Gerard Bouchard, _Genese des nations et cultures du Nouveau Monde_ (Boreal, 2000).
 
-Alan Cairns, _Citizens Plus: Aboriginal Peoples and the Canadian State_ (UBC Press, 2000), $39.95.
+Alan Cairns, _Citizens Plus: Aboriginal Peoples and the Canadian State_ (UBC Press, 2000), \$39.95.
 
-Joseph H. Carens, _Culture, Citizenship, and Community: A Contextual Exploration of Justice as Evenhandedness_ (OUP, 2000), $24.95.
+Joseph H. Carens, _Culture, Citizenship, and Community: A Contextual Exploration of Justice as Evenhandedness_ (OUP, 2000), \$24.95.
 
-Claude Couture, _Paddling with the Current: Pierre Eliott Trudeau, Etienne Parent, Liberalism, and Nationalism in Canada_ (University of Alberta Press, 1998), $14.95
+Claude Couture, _Paddling with the Current: Pierre Eliott Trudeau, Etienne Parent, Liberalism, and Nationalism in Canada_ (University of Alberta Press, 1998), \$14.95
 
 Alain Dieckhoff, _La nation dans tous ses etats. Les identites nationales en mouvement_ (Flammarion, 2000).
 
-Thomas Faist, _The Volume and Dynamics of International Migration_ (OUP, 2000), $35.00.
+Thomas Faist, _The Volume and Dynamics of International Migration_ (OUP, 2000), \$35.00.
 
-Joshua Fishman (ed) _Handbook of Language and Ethnic Identity_ (OUP, 1999), $65.00.
+Joshua Fishman (ed) _Handbook of Language and Ethnic Identity_ (OUP, 1999), \$65.00.
 
-Thomas Franck, _The Empowered Self: Law and Society in the Age of Individualism_ (OUP, 2000), $45.00.
+Thomas Franck, _The Empowered Self: Law and Society in the Age of Individualism_ (OUP, 2000), \$45.00.
 
-Elizabeth Frazer, _The Problems of Communitarian Politics: Unity and Conflict_ (OUP 1999), $24.95.
+Elizabeth Frazer, _The Problems of Communitarian Politics: Unity and Conflict_ (OUP 1999), \$24.95.
 
-Timothy J. Gaffaney, _Freedom for the Poor: Welfare and the Foundations of Democratic Citizenship_ (Westview, 2000), $65.00.
+Timothy J. Gaffaney, _Freedom for the Poor: Welfare and the Foundations of Democratic Citizenship_ (Westview, 2000), \$65.00.
 
-Margaret Gilbert, _Sociality and Responsibility: New Essays in Plural Subject Theory_ (Rowman & Littlefield, 2000), $19.95.
+Margaret Gilbert, _Sociality and Responsibility: New Essays in Plural Subject Theory_ (Rowman & Littlefield, 2000), \$19.95.
 
-Tuula Gordon, Janet Holland, and Elina Lahelma (eds) _Making Spaces: Citizenship and Difference in Schools_ (St. Martin's Press, 2000), $65.00.
+Tuula Gordon, Janet Holland, and Elina Lahelma (eds) _Making Spaces: Citizenship and Difference in Schools_ (St. Martin's Press, 2000), \$65.00.
 
 Herve Guillorel et Genevieve Koubi, _Langues et droits. Langues du droit, droit des langues_ (Bruylant, 1999).
 
-Govert den Hartogh (ed) _The Good Life as a Public Good_ (Kluwer Academic Publishers, 2000), $77.00.
+Govert den Hartogh (ed) _The Good Life as a Public Good_ (Kluwer Academic Publishers, 2000), \$77.00.
 
-Baogang He and Yingjie Guo, _Nationalism, National Identity and Democratization in China_ (Ashgate, 2000), $69.95.
+Baogang He and Yingjie Guo, _Nationalism, National Identity and Democratization in China_ (Ashgate, 2000), \$69.95.
 
-Derek Heater, _What is Citizenship_ (Blackwell, 2000), $26.95.
+Derek Heater, _What is Citizenship_ (Blackwell, 2000), \$26.95.
 
-Michael Hechter, _Containing Nationalism_ (OUP, 2000) $29.95.
+Michael Hechter, _Containing Nationalism_ (OUP, 2000) \$29.95.
 
-Laura Hein and Mark Selden (eds) _Censoring History: Perspectives on Nationalism and War in the Twentieth Century_ (M.E. Sharpe, 2000), $24.95.
+Laura Hein and Mark Selden (eds) _Censoring History: Perspectives on Nationalism and War in the Twentieth Century_ (M.E. Sharpe, 2000), \$24.95.
 
-Monica Heller, Mark Campbell, Phyllis Dalley, and Donna Patrick, _Linguistic Minorities and Modernity: A Sociolinguistic Ethnography_ (Longman, 1999), $31.20.
+Monica Heller, Mark Campbell, Phyllis Dalley, and Donna Patrick, _Linguistic Minorities and Modernity: A Sociolinguistic Ethnography_ (Longman, 1999), \$31.20.
 
-Wsevolod Isajiw, _Understanding Diversity: Ethnicity and Race in the Canadian Context_ (Thompson Educational Publishing, 1999), $36.95.
+Wsevolod Isajiw, _Understanding Diversity: Ethnicity and Race in the Canadian Context_ (Thompson Educational Publishing, 1999), \$36.95.
 
-Richard King (ed) _Postcolonial America_ (University of Illinois Press, 2000), $23.95.
+Richard King (ed) _Postcolonial America_ (University of Illinois Press, 2000), \$23.95.
 
-Pal Kolsto, _Political Construction Sites: Nation Building in Russia and the Post-Soviet States_ (Westview Press, 2000) $24.00.
+Pal Kolsto, _Political Construction Sites: Nation Building in Russia and the Post-Soviet States_ (Westview Press, 2000) \$24.00.
 
-Michael Mandelbaum (ed) _New European Diasporas_ (Council on Foreign Relations, 2000), $15.96.
+Michael Mandelbaum (ed) _New European Diasporas_ (Council on Foreign Relations, 2000), \$15.96.
 
-Jon Mandle, _What's Left of Liberalism?: An Interpretation and Defense of Justice as Fairness_ (Lexington Books, 1999), $26.95.
+Jon Mandle, _What's Left of Liberalism?: An Interpretation and Defense of Justice as Fairness_ (Lexington Books, 1999), \$26.95.
 
-Susan Mendus (ed), _The Politics of Toleration: Tolerance and Intolerance in Modern Life_ (Duke UP, 2000), $16.95.
+Susan Mendus (ed), _The Politics of Toleration: Tolerance and Intolerance in Modern Life_ (Duke UP, 2000), \$16.95.
 
-Uma Narayan and Sandra Harding (ed) _Decentering the Center: Philosophy for a Multicultural, Postcolonial and Feminist World_ (Indiana UP, 2000), $13.56.
+Uma Narayan and Sandra Harding (ed) _Decentering the Center: Philosophy for a Multicultural, Postcolonial and Feminist World_ (Indiana UP, 2000), \$13.56.
 
-Umut Ozkirimli, _Theories of Nationalism: A Critical Introduction_ (St. Martin's Press, 2000), $21.95.
+Umut Ozkirimli, _Theories of Nationalism: A Critical Introduction_ (St. Martin's Press, 2000), \$21.95.
 
-Nicola Piper, _Racism, Nationalism and Citizenship: Ethnic Minorities in Britain and Germany_ (Ashgate 1998), $67.95.
+Nicola Piper, _Racism, Nationalism and Citizenship: Ethnic Minorities in Britain and Germany_ (Ashgate 1998), \$67.95.
 
-Nancy L. Rosenblum (ed) _Obligations of Citizenship and Demands of Faith: Religious Accommodation in Pluralist Democracies_ (Princeton UP, 2000), $15.96.
+Nancy L. Rosenblum (ed) _Obligations of Citizenship and Demands of Faith: Religious Accommodation in Pluralist Democracies_ (Princeton UP, 2000), \$15.96.
 
-David Schneiderman, _The Quebec Decision_ (James Lorimer &Company Ltd., 1999), $19.95.
+David Schneiderman, _The Quebec Decision_ (James Lorimer &Company Ltd., 1999), \$19.95.
 
-Piotr Sztompka, _Trust: A Sociological Theory_ (Cambridge University Press, 2000) $24.95.
+Piotr Sztompka, _Trust: A Sociological Theory_ (Cambridge University Press, 2000) \$24.95.
 
 Felisa Tibbits and Judith Torney-Purt, _Preparing for the Future: Citizenship Education in Latin America_ (Social Programs Division, Inter-American Development Bank, 1999), (can be downloaded from <http://www.hrea.org/pubs/IDB-> monograph/index.html)
 
-Ellie Vasta (ed) _Citizenship, Community, and Democracy_ (St. Martin's Press, 2000), $65.00.
+Ellie Vasta (ed) _Citizenship, Community, and Democracy_ (St. Martin's Press, 2000), \$65.00.
 
 **Journal Symposia:**
 
@@ -201,7 +203,7 @@ The Institute for Intercultural and International Studies (InIIS) is an interdis
 
 <http://www.uni-bremen.de/~iniis/>
 
-**Summer Schools**
+##### **Summer Schools**
 
 There are two summer schools which may be of interest to our readers:
 
@@ -217,8 +219,8 @@ In its meeting of May 1999, the Union of International Associations' Council dec
 
 <http://www.uia.org/prize/prizndx.htm>
 
------------------------------------------------------------------------------------
+---
 
-** ANNOUNCEMENTS:** If you would like to announce a new research project, publication, call for papers, or upcoming conference in a future issue of this newsletter, please contact us at <cded@post.queensu.ca> , or you can write to the Forum for Philosophy and Public Policy, Department of Philosophy, Queen's University, Watson Hall 313, Kingston Ontario K7L 3N6, Canada. Fax: 613-533-6545.
+**ANNOUNCEMENTS:** If you would like to announce a new research project, publication, call for papers, or upcoming conference in a future issue of this newsletter, please contact us at <cded@post.queensu.ca> , or you can write to the Forum for Philosophy and Public Policy, Department of Philosophy, Queen's University, Watson Hall 313, Kingston Ontario K7L 3N6, Canada. Fax: 613-533-6545.
 
 The Forum gratefully acknowledges the assistance of the Social Sciences and Humanities Research Council of Canada in funding this newsletter. Special thanks to Idil Boran for research help, and to Lise Charlebois for help with the distribution of the newsletter.
