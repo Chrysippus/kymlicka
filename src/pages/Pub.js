@@ -52,7 +52,7 @@ export default function Pub() {
       },
       a: {
         component: RLink,
-        props: { target: "_blank", rel: "noopener" }
+        props: { target: "_blank", rel: "noopener noreferrer" }
       }
     }
   };

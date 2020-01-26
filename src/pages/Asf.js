@@ -25,7 +25,7 @@ export default function Asf() {
         options={{
           overrides: {
             a: {
-              props: { target: "_blank", rel:"noopener" }
+              props: { target: "_blank", rel:"noopener noreferrer" }
             }
           }
         }}

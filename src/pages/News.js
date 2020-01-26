@@ -7,6 +7,7 @@ import { NavNewsletter } from "../components/navbar/navNewsletter";
 import { BreadCrumbs } from "../components/shared/BreadCrumbs";
 import { getBCS } from "../components/shared/getBCS";
 import { Helmet } from "react-helmet-async";
+import { RLink } from "../components/shared/RLink";
 
 export default function Tra() {
   const params = useParams();
@@ -27,9 +28,10 @@ export default function Tra() {
   );
   let opts = {
     overrides: {
-      // a: {
-      //   component: RLink
-      // }
+      a: {
+        component: RLink,
+        props: { target: "_blank", rel: "noopener noreferrer" }
+      }
     }
   };
   let title = c ? c.match(/$(.*)/)[1] : null;

@@ -53,7 +53,7 @@ export default function Aff() {
               props: { className: "text-left" }
             },
             a: {
-              props: { target: "_blank", rel:"noopener" }
+              props: { target: "_blank", rel:"noopener noreferrer" }
             }
           }
         }}
