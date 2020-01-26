@@ -2,7 +2,7 @@
 
 ## Newsletter of the Queen's Forum for Philosophy and Public Policy
 
-### No. 40, March 2006\*\*
+### No. 40, March 2006
 
 ---
 

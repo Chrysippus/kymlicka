@@ -1,10 +1,13 @@
-# Citizenship, Democracy and Ethnocultural Diversity Newsletter 
-## _Of the Queen's Forum for Philosophy and Public Policy_ 
+# Citizenship, Democracy and Ethnocultural Diversity Newsletter
+
+## _Of the Queen's Forum for Philosophy and Public Policy_
+
 ### **No. 20, March 2001**
 
 ---
 
 ### Contents
+
 - [1\. Introduction](#1-introduction)
 - [2\. Upcoming Conferences](#2-upcoming-conferences)
 - [3\. Recent Publications](#3-recent-publications)
@@ -15,9 +18,9 @@
 
 #### 1\. Introduction
 
-  The Forum for Philosophy and Public Policy at Queen's University is organizing a multi-year research project on citizenship, democracy and minority rights in multiethnic states, under the direction of Prof. Will Kymlicka. As part of this project, the Forum distributes a quarterly newsletter updating recent developments in the field, of which this is the twentieth issue. We hope that it will be of interest to anyone working in the field, whether in academia, public service, or various non-governmental organizations.
+The Forum for Philosophy and Public Policy at Queen's University is organizing a multi-year research project on citizenship, democracy and minority rights in multiethnic states, under the direction of Prof. Will Kymlicka. As part of this project, the Forum distributes a quarterly newsletter updating recent developments in the field, of which this is the twentieth issue. We hope that it will be of interest to anyone working in the field, whether in academia, public service, or various non-governmental organizations.
 
-  If you know anyone who would like to be added to the mailing list for this newsletter, or if you would like copies of the back-issues, please contact us at cded@post.queensu.ca. For further information about the research project, you can also reach us by fax at 613-533-6545\. Back-issues of the newsletter are posted on the Web on Will Kymlicka's homepage: <http://www.queensu.ca/cded/newsletter.html>
+If you know anyone who would like to be added to the mailing list for this newsletter, or if you would like copies of the back-issues, please contact us at cded@post.queensu.ca. For further information about the research project, you can also reach us by fax at 613-533-6545\. Back-issues of the newsletter are posted on the Web on Will Kymlicka's homepage: <http://www.queensu.ca/cded/newsletter.html>
 
 #### 2\. Upcoming Conferences
 
@@ -29,127 +32,127 @@ The Lipman-Miliband Trust for Socialist Education and Research is sponsoring a c
 
 1. For programme and other information contact John Schwarzmantel, POLIS, The University of Leeds, Leeds LS2 9JT; tel: (0113) 233 4396, e-mail: j.j.schwarzmantel@leeds.ac.uk or Susannah Lane, tel: (0113) 230 2821, e-mail: ipi9srl@leeds.ac.uk
 
-  The Center for Law and Philosophy at Columbia University will be holding a conference on April 28-29, 2001, to discuss some of the issues arising from the contemporary debate about multiculturalism among political philosophers. Attendance is by invitation only and the topic of discussion will be a selection of papers to be included in the upcoming volume Multiculturalism Revisited. For more information contact Jeremy Waldron, Columbia University Law School, Jerome L. Greene Hall, 435 West 116th Street, New York, NY 10027; e-mail: jwaldron@law.columbia.edu
+The Center for Law and Philosophy at Columbia University will be holding a conference on April 28-29, 2001, to discuss some of the issues arising from the contemporary debate about multiculturalism among political philosophers. Attendance is by invitation only and the topic of discussion will be a selection of papers to be included in the upcoming volume Multiculturalism Revisited. For more information contact Jeremy Waldron, Columbia University Law School, Jerome L. Greene Hall, 435 West 116th Street, New York, NY 10027; e-mail: jwaldron@law.columbia.edu
 
-  There will be a seminar on "Tolerance, Respect and Human Rights" focusing on racism and discrimination in post totalitarian countries in Europe and South Africa. The seminar will be held in Prague on May 27-21, 2001\. The seminar themes include prejudice and racism, forms of discrimination, human rights and minorities, multicultural and antiracist education. The working languages of the seminar will be Czech and English. For further information, contact Laura Laubeova, Globea, Kettnerova 2052, 155 00 Praha 5, Czech Republic; e-mail: laubeova@quick.cz or visit: <http://www.tolerance.cz>
+There will be a seminar on "Tolerance, Respect and Human Rights" focusing on racism and discrimination in post totalitarian countries in Europe and South Africa. The seminar will be held in Prague on May 27-21, 2001\. The seminar themes include prejudice and racism, forms of discrimination, human rights and minorities, multicultural and antiracist education. The working languages of the seminar will be Czech and English. For further information, contact Laura Laubeova, Globea, Kettnerova 2052, 155 00 Praha 5, Czech Republic; e-mail: laubeova@quick.cz or visit: <http://www.tolerance.cz>
 
-  The 33rd EUROFOR Conference will take place in Maratea (Potenza) Basilicata, Italy from May 24-27, 2001\. The conference theme is "The Integration of Refugees into the European Union". For more information on the conference e-mail emz@compuserve.com or visit the website: <http://www.emz-berlin.de>
+The 33rd EUROFOR Conference will take place in Maratea (Potenza) Basilicata, Italy from May 24-27, 2001\. The conference theme is "The Integration of Refugees into the European Union". For more information on the conference e-mail emz@compuserve.com or visit the website: <http://www.emz-berlin.de>
 
-  The Institute for Research and Education on Negotiation in Europe (IRENE) will be organising the 14th annual conference of the International Association for Conflict Management (IACM), June 24-27, 2001\. The conference will be held at the ESSEC Business School Campus, Cergy (near Paris), France and will be on the theme "Towards a Dialogue Between Conflict Theories and Practices Across Paradigms and Cultures". For conference information and programme e-mail: IACM@mail.olin.wustl.edu or iacm-irene@essec.fr or see the IACM web page <http://www.iacm-conflict.org>
+The Institute for Research and Education on Negotiation in Europe (IRENE) will be organising the 14th annual conference of the International Association for Conflict Management (IACM), June 24-27, 2001\. The conference will be held at the ESSEC Business School Campus, Cergy (near Paris), France and will be on the theme "Towards a Dialogue Between Conflict Theories and Practices Across Paradigms and Cultures". For conference information and programme e-mail: IACM@mail.olin.wustl.edu or iacm-irene@essec.fr or see the IACM web page <http://www.iacm-conflict.org>
 
-  The Instituto de Historia Social Valentin de Foronda of the Basque Country University in Spain is organising its 7th symposium under on the theme "Citizenship, Nation and Nations in Contemporary Spain", to be held in Vitoria, on July 4-6, 2001\. The symposium will focus on the relationship between autonomy and independence, diverse national identities in Spain and their historical development. For more information, contact Jose M. Portillo, e-mail: portival@wanadoo.es
+The Instituto de Historia Social Valentin de Foronda of the Basque Country University in Spain is organising its 7th symposium under on the theme "Citizenship, Nation and Nations in Contemporary Spain", to be held in Vitoria, on July 4-6, 2001\. The symposium will focus on the relationship between autonomy and independence, diverse national identities in Spain and their historical development. For more information, contact Jose M. Portillo, e-mail: portival@wanadoo.es
 
-  There will be a workshop on "Historical Justice" at the Einstein Forum in Berlin-Potsdam, on July 13-14, 2001\. The workshop is organized by Lukas Meyer and Chaim Gans. For more information, contact Lukas Meyer, Universitaet Bremen, Fb 8, InIIS, Linzerstr. 4, D 28359 Bremen; tel: 49-421-218 7598; fax: 49-421-218 7248; e-mail: lhmeyer@barkhof.uni-bremen.de
+There will be a workshop on "Historical Justice" at the Einstein Forum in Berlin-Potsdam, on July 13-14, 2001\. The workshop is organized by Lukas Meyer and Chaim Gans. For more information, contact Lukas Meyer, Universitaet Bremen, Fb 8, InIIS, Linzerstr. 4, D 28359 Bremen; tel: 49-421-218 7598; fax: 49-421-218 7248; e-mail: lhmeyer@barkhof.uni-bremen.de
 
-  There will be a conference on "Rethinking Citizenship in the Canadian Federation", held in honour of the work of Alan Cairns, at the University of British Columbia, Vancouver on October 11-13, 2001\. Conference themes include federalism, Aboriginal rights, the Charter of Rights, multiculturalism and social cohesion. The deadline for paper proposals is April 30th. For more information, contact Philip Resnick, Dept. of Political Science, UBC, 1866 Main Mall C472, Vancouver, BC V6T 1Z1; e-mail: resnick@unixg.ubc.ca
+There will be a conference on "Rethinking Citizenship in the Canadian Federation", held in honour of the work of Alan Cairns, at the University of British Columbia, Vancouver on October 11-13, 2001\. Conference themes include federalism, Aboriginal rights, the Charter of Rights, multiculturalism and social cohesion. The deadline for paper proposals is April 30th. For more information, contact Philip Resnick, Dept. of Political Science, UBC, 1866 Main Mall C472, Vancouver, BC V6T 1Z1; e-mail: resnick@unixg.ubc.ca
 
-  The 21st-Century Trust is organizing a conference on "Human Rights as Collective Rights: Benefits and Pitfalls", at Madingley Hall, Cambridge UK, from 28 October to 4 November 2001\. The conference is being led by author and columnist Neal Ascherson. Like all Trust conferences, the aim is to bring together younger people (under 40) from a wide range of countries and professional backgrounds to exchange ideas on important contemporary issues. For more information about the conference, or the Trust, contact John Lotherington, 21st Century Trust, 25 Museum Street, London WC1A 1JT UK; tel: 44-2073232099; e-mail: trust@tfct.demon.co.uk. Or visit the Trust's website at: <http://www.21stCenturyTrust.org>
+The 21st-Century Trust is organizing a conference on "Human Rights as Collective Rights: Benefits and Pitfalls", at Madingley Hall, Cambridge UK, from 28 October to 4 November 2001\. The conference is being led by author and columnist Neal Ascherson. Like all Trust conferences, the aim is to bring together younger people (under 40) from a wide range of countries and professional backgrounds to exchange ideas on important contemporary issues. For more information about the conference, or the Trust, contact John Lotherington, 21st Century Trust, 25 Museum Street, London WC1A 1JT UK; tel: 44-2073232099; e-mail: trust@tfct.demon.co.uk. Or visit the Trust's website at: <http://www.21stCenturyTrust.org>
 
-  The Canadian Ethnic Studies' Sixteenth Biennial Conference will be on "Ethnicizing the Nation" and will take place in Halifax, November 2-4,
+The Canadian Ethnic Studies' Sixteenth Biennial Conference will be on "Ethnicizing the Nation" and will take place in Halifax, November 2-4,
 
 2. For more information, contact Multicultural History Society of Ontario, e-mail: mhso.mail@utoronto.ca
 
-  An international conference on national identities and national movements in European history will be held on Friday 15 and Saturday 16 March 2002 in Ghent and Leuven (Belgium). Three themes will be addressed by the following key-note speakers: "Nation formation and national identity" (Montserrat Guibernau, Michael Hechter, Jan Penrose), "National identities in pre-modern and modern times" (Rees Davies; Joep Leerssen; Piet Leupen); "Elite agitation and mass support in nationalist movements" (Ulf Hedetoft; Miroslav Hroch; Brendan O Leary). The conference is only open to invited speakers. The conference language is English. For more information, check the website at: <http://onyx.arts.kuleuven.ac.be/nationalism/> Or contact: Maarten Van Ginderachter, Vakgroep Nieuwste Geschiedenis, Blandijnberg 2 9000 Gent Belgium Tel: +/32/9/264 40 05 Fax: +/32/9/264 41 89 Email: congress.nationalism@rug.ac.be
+An international conference on national identities and national movements in European history will be held on Friday 15 and Saturday 16 March 2002 in Ghent and Leuven (Belgium). Three themes will be addressed by the following key-note speakers: "Nation formation and national identity" (Montserrat Guibernau, Michael Hechter, Jan Penrose), "National identities in pre-modern and modern times" (Rees Davies; Joep Leerssen; Piet Leupen); "Elite agitation and mass support in nationalist movements" (Ulf Hedetoft; Miroslav Hroch; Brendan O Leary). The conference is only open to invited speakers. The conference language is English. For more information, check the website at: <http://onyx.arts.kuleuven.ac.be/nationalism/> Or contact: Maarten Van Ginderachter, Vakgroep Nieuwste Geschiedenis, Blandijnberg 2 9000 Gent Belgium Tel: +/32/9/264 40 05 Fax: +/32/9/264 41 89 Email: congress.nationalism@rug.ac.be
 
 #### 3\. Recent Publications
 
 To keep our listing manageable, we are listing only books and journal symposia, not individual journal articles. All prices in U.S. dollars, unless otherwise noted.
 
-Madeleine Arnot and Jo-Anne Dillabough (eds), Challenging Democracy: International Perspectives on Gender, Education and Citizenship (Falmer, 2000) $27.95.
+Madeleine Arnot and Jo-Anne Dillabough (eds), Challenging Democracy: International Perspectives on Gender, Education and Citizenship (Falmer, 2000) \$27.95.
 
-Stephen Barbour and Cathie Carmichael (eds) Language and Nationalism in Europe (Oxford University Press, 2001) $70.00.
+Stephen Barbour and Cathie Carmichael (eds) Language and Nationalism in Europe (Oxford University Press, 2001) \$70.00.
 
-Brian Barry, Culture and Equality: An Egalitarian Critique of Multiculturalism (Harvard UP, 2001) $35.00.
+Brian Barry, Culture and Equality: An Egalitarian Critique of Multiculturalism (Harvard UP, 2001) \$35.00.
 
-Peter Dennis Bathory and Nancy L. Schwartz (eds) Friends and Citizens: Essays in Honor of Wilson Carey McWilliams (Rowman and Littlefield, 2000) $40.00.
+Peter Dennis Bathory and Nancy L. Schwartz (eds) Friends and Citizens: Essays in Honor of Wilson Carey McWilliams (Rowman and Littlefield, 2000) \$40.00.
 
-Otto Bauer, The Question of Nationalities and Social Democracy [Volume editor: Ephraim Nimni; translated by Joseph O'Donnell] (University of Minnesota Press, 2000) $60.00\. [This is the first full English translation of Bauer's classic text].
+Otto Bauer, The Question of Nationalities and Social Democracy [Volume editor: Ephraim Nimni; translated by Joseph O'Donnell] (University of Minnesota Press, 2000) \$60.00\. [This is the first full English translation of Bauer's classic text].
 
-David Bell and Jon Binnie, The Sexual Citizen: Queer Politics and Beyond (Polity Press, 2000) $24.95.
+David Bell and Jon Binnie, The Sexual Citizen: Queer Politics and Beyond (Polity Press, 2000) \$24.95.
 
-Michael Bommes and Andrew Geddes (eds) Immigration and Welfare: Challenging the Borders of the Welfare State (Routledge, 2001) $100.00.
+Michael Bommes and Andrew Geddes (eds) Immigration and Welfare: Challenging the Borders of the Welfare State (Routledge, 2001) \$100.00.
 
-David Brown, Contemporary Nationalism: Civic, Ethnocultural and Multicultural Politics (Routledge, 2000) $27.99.
+David Brown, Contemporary Nationalism: Civic, Ethnocultural and Multicultural Politics (Routledge, 2000) \$27.99.
 
-Simon Caney and Peter Jones (eds), Human Rights and Global Diversity (Frank Cass Publishers, 2001) $24.50.
+Simon Caney and Peter Jones (eds), Human Rights and Global Diversity (Frank Cass Publishers, 2001) \$24.50.
 
-Stephen Castles and Alastair Davidson (eds) Citizenship and Migration: Globalization and the Politics of Belonging, (Routledge, 2000), $22.99.
+Stephen Castles and Alastair Davidson (eds) Citizenship and Migration: Globalization and the Politics of Belonging, (Routledge, 2000), \$22.99.
 
-Youssef Choueiri, Arab Nationalism: A History (Blackwell, 2001) $26.95.
+Youssef Choueiri, Arab Nationalism: A History (Blackwell, 2001) \$26.95.
 
-Grant H. Cornwell and Eve Walsch Stoddard (eds) Global Multiculturalism: Comparative Perspectives on Ethnicity, Race, and Nation (Rowman and Littlefield, 2000) $29.95.
+Grant H. Cornwell and Eve Walsch Stoddard (eds) Global Multiculturalism: Comparative Perspectives on Ethnicity, Race, and Nation (Rowman and Littlefield, 2000) \$29.95.
 
-Jane Cowan (ed) Macedonia: the Politics of Identity and Difference (Pluto Press, 2000) $15.96.
+Jane Cowan (ed) Macedonia: the Politics of Identity and Difference (Pluto Press, 2000) \$15.96.
 
-Micheal Cox, John Ikenberry and Takashi Inoguchi (eds) American Democracy Promotion: Impulses, Strategies, and Impacts (Oxford University Press, 2000) $24.95.
+Micheal Cox, John Ikenberry and Takashi Inoguchi (eds) American Democracy Promotion: Impulses, Strategies, and Impacts (Oxford University Press, 2000) \$24.95.
 
-Colin Crouch, Klaus Eder, and Damian Tambini (eds) Citizenship, Markets and the State, (Oxford University Press, 2000) $70.00.
+Colin Crouch, Klaus Eder, and Damian Tambini (eds) Citizenship, Markets and the State, (Oxford University Press, 2000) \$70.00.
 
-Monique Deveaux, Cultural Pluralism and Dilemmas of Justice (Cornell UP, 2001) $35.00.
+Monique Deveaux, Cultural Pluralism and Dilemmas of Justice (Cornell UP, 2001) \$35.00.
 
 Margit Feischmidt (ed) Bibliography on Ethnic Relations in Eastern Europe (MMCP Publications, Budapest, 2001) (order by e-mail: kovacsp@osi.hu).
 
-Joel Fetzer, Public Attitudes Toward Immigration in the United States, France, and Germany (Cambridge University Press, 2000) $19.95.
+Joel Fetzer, Public Attitudes Toward Immigration in the United States, France, and Germany (Cambridge University Press, 2000) \$19.95.
 
-Nancy Foner, Ruben Rumbaut, and Steven J. Gold (eds) Immigration Research for a New Century: Multidisciplinary Perspectives (Russell Sage Foundation, 2000) $49.95.
+Nancy Foner, Ruben Rumbaut, and Steven J. Gold (eds) Immigration Research for a New Century: Multidisciplinary Perspectives (Russell Sage Foundation, 2000) \$49.95.
 
-Elizabeth Frazer, The Problems of Communitarian Politics: Unity and Conflict (Oxford University Press, 1999) $24.95.
+Elizabeth Frazer, The Problems of Communitarian Politics: Unity and Conflict (Oxford University Press, 1999) \$24.95.
 
-Jane Freedman and Carrie Tarr (eds) Women, Immigration and Identities in France (Berg, 2001) $19.50.
+Jane Freedman and Carrie Tarr (eds) Women, Immigration and Identities in France (Berg, 2001) \$19.50.
 
-Yash Ghai (ed) Autonomy and Ethnicity: Negotiating Competing Claims in Multi-Ethnic States (Cambridge University Press, 2001) $64.95.
+Yash Ghai (ed) Autonomy and Ethnicity: Negotiating Competing Claims in Multi-Ethnic States (Cambridge University Press, 2001) \$64.95.
 
-Tedd Gurr, Peoples versus States: Minorities at Risk in the New Century (United States Institute of Peace, 2000) $29.95.
+Tedd Gurr, Peoples versus States: Minorities at Risk in the New Century (United States Institute of Peace, 2000) \$29.95.
 
-A. Hagendoorn, G. Csepeli, H. Dekker (eds) European Nations and Nationalism: Theoretical and Historical Perspectives (Ashgate 2000) $99.95.
+A. Hagendoorn, G. Csepeli, H. Dekker (eds) European Nations and Nationalism: Theoretical and Historical Perspectives (Ashgate 2000) \$99.95.
 
-Randall Hansen, Citizenship and Immigration in Post-War Britain: The Institutional Origins of a Multicultural Nation (Oxford University Press, 2000) $29.95.
+Randall Hansen, Citizenship and Immigration in Post-War Britain: The Institutional Origins of a Multicultural Nation (Oxford University Press, 2000) \$29.95.
 
-Dieter Haselbach (ed) Multiculturalism in a World of Leaking Boundaries (Lit Verlag 1999), $32.95.
+Dieter Haselbach (ed) Multiculturalism in a World of Leaking Boundaries (Lit Verlag 1999), \$32.95.
 
-Wayne Hudson and John Kane (eds) Rethinking Australian Citizenship (Cambridge University Press, 2000) $24.95.
+Wayne Hudson and John Kane (eds) Rethinking Australian Citizenship (Cambridge University Press, 2000) \$24.95.
 
-Aleksandar Jokic (ed) War Crimes and Collective Wrongdoing: a Reader (Blackwell, 2001) $24.95.
+Aleksandar Jokic (ed) War Crimes and Collective Wrongdoing: a Reader (Blackwell, 2001) \$24.95.
 
-Suad Joseph (ed) Gender and Citizenship in the Middle East (Syracuse University Press, 2000) $29.95.
+Suad Joseph (ed) Gender and Citizenship in the Middle East (Syracuse University Press, 2000) \$29.95.
 
-Gregory Jusdanis, The Necessary Nation (Princeton UP, 2001) $15.96.
+Gregory Jusdanis, The Necessary Nation (Princeton UP, 2001) \$15.96.
 
-Will Kymlicka, Politics in the Vernacular: Nationalism, Multiculturalism and Citizenship (Oxford University Press, 2001) $18.95.
+Will Kymlicka, Politics in the Vernacular: Nationalism, Multiculturalism and Citizenship (Oxford University Press, 2001) \$18.95.
 
-Gisele Legault (ed) L'intervention interculturelle (Gaeten Morin Editeur), Cdn $39.00.
+Gisele Legault (ed) L'intervention interculturelle (Gaeten Morin Editeur), Cdn \$39.00.
 
-Jocelyn Maclure, Recits identitaires. Le Quebec a L'epreuve du pluralisme (Quebec-Amerique, 2000) Cdn $21.00.
+Jocelyn Maclure, Recits identitaires. Le Quebec a L'epreuve du pluralisme (Quebec-Amerique, 2000) Cdn \$21.00.
 
-Andrew Mason, Community, Solidarity and Belonging: Levels of Community and their Normative Significance (Cambridge University Press, 2000) $21.95.
+Andrew Mason, Community, Solidarity and Belonging: Levels of Community and their Normative Significance (Cambridge University Press, 2000) \$21.95.
 
 Marie McAndrew & France Gagnon (ed) Relations ethniques et education dans les societes divisees (Quebec, Irelande du Nord, Catalogne et Belgique) (L'Harmattan, 2000).
 
-Maurizio Passerin D'Entreves and Ursula Vogel (eds) Public and Private: Legal, Political and Philosophical Perspectives (Routledge, 2001) $22.99.
+Maurizio Passerin D'Entreves and Ursula Vogel (eds) Public and Private: Legal, Political and Philosophical Perspectives (Routledge, 2001) \$22.99.
 
-Vincent P. Pecora (ed) Nations and Identities: Classic Readings (Blackwell, 2001) $29.95.
+Vincent P. Pecora (ed) Nations and Identities: Classic Readings (Blackwell, 2001) \$29.95.
 
-Shane Phelan, Sexual Strangers: Gays, Lesbians, and Dilemmas of Citizenship (Temple University Press, 2001) $15.16.
+Shane Phelan, Sexual Strangers: Gays, Lesbians, and Dilemmas of Citizenship (Temple University Press, 2001) \$15.16.
 
-Robert Putnam, Bowling Alone: The Collapse and Revival of American Community (Simon & Schuster, 2000) $20.80.
+Robert Putnam, Bowling Alone: The Collapse and Revival of American Community (Simon & Schuster, 2000) \$20.80.
 
-Michael Saward (ed) Democratic Innovation: Deliberation, Representation and Association (Routledge, 2001) $90.00.
+Michael Saward (ed) Democratic Innovation: Deliberation, Representation and Association (Routledge, 2001) \$90.00.
 
-David Selbourne, The principle of Duty: An Essay on the Foundations of the Civic Order (University of Notre Dame Press, 2000) $18.00.
+David Selbourne, The principle of Duty: An Essay on the Foundations of the Civic Order (University of Notre Dame Press, 2000) \$18.00.
 
-Christopher Shannon, A World Made Safe for Differences (Rowman and Littlefield, 2000) $29.95.
+Christopher Shannon, A World Made Safe for Differences (Rowman and Littlefield, 2000) \$29.95.
 
-Ida Susser and Thomas C. Patterson (eds) Cultural Diversity in the United States: A Critical Reader (Blackwell, 2000) $34.95.
+Ida Susser and Thomas C. Patterson (eds) Cultural Diversity in the United States: A Critical Reader (Blackwell, 2000) \$34.95.
 
-Ruti G. Teitel, Transitional Justice (Oxford University Press, 2000) $35.00.
+Ruti G. Teitel, Transitional Justice (Oxford University Press, 2000) \$35.00.
 
-John Tomasi, Liberalism Beyond Justice: Citizens, Society, and the Boundaries of Political Theory (Princeton UP, 2001) $12.76.
+John Tomasi, Liberalism Beyond Justice: Citizens, Society, and the Boundaries of Political Theory (Princeton UP, 2001) \$12.76.
 
-Luan-Vu N. Tran, Human Rights and Federalism: A Comparative Study on Freedom, Democracy and Cultural Diversity (Kluwer Law International, 2000) $105.00.
+Luan-Vu N. Tran, Human Rights and Federalism: A Comparative Study on Freedom, Democracy and Cultural Diversity (Kluwer Law International, 2000) \$105.00.
 
-Jorge M. Valadez, Deliberative Democracy, Political Legitimacy, and Self Determination in Multicultural Societies Westview Press, 2000) $40.00.
+Jorge M. Valadez, Deliberative Democracy, Political Legitimacy, and Self Determination in Multicultural Societies Westview Press, 2000) \$40.00.
 
-Katie Willis and Brenda Yeoh (eds) Gender and Migration (Edward Edgar, 2000) $200.00.
+Katie Willis and Brenda Yeoh (eds) Gender and Migration (Edward Edgar, 2000) \$200.00.
 
 Journal Symposia and Special Issues
 
@@ -197,7 +200,7 @@ A summer course in International Minority Rights Law in Ireland will be held at 
 
 1. For information contact Prof. Joshua Castellino, Irish Centre for Human Rights, National University of Ireland, Galway, Republic of Ireland; Tel: +353 91 512 193; Fax: +353 91 750 575; e-mail: joshua.castellino@nuigalway.ie. More information, application forms, and a preliminary programme are available at the website: <http://www.nuigalway.ie/human_rights>
 
------------------------------------------------------------------------------------
+---
 
 ** ANNOUNCEMENTS:** If you would like to announce a new research project, publication, call for papers, or upcoming conference in a future issue of this newsletter, please contact us at cded@post.queensu.ca , or you can write to the Forum for Philosophy and Public Policy, Department of Philosophy, Queen's University, Watson Hall 313, Kingston Ontario K7L 3N6, Canada. Fax: 613-533-6545.
 

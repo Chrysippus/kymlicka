@@ -1,4 +1,4 @@
-# \*\*Citizenship, Democracy and Ethnocultural Diversity
+# Citizenship, Democracy and Ethnocultural Diversity
 
 ## Newsletter of the Queen's Forum for Philosophy and Public Policy
 

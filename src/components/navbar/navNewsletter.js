@@ -11,7 +11,7 @@ export const NavNewsletter = () => (
     id="dropdown-news"
     variant="white"
     size="lg"
-    className="text-center"
+    className="text-center px-0"
   >
     <NavDropdown title="Select Issue">
       <div className="pre-scrollable w-100" style={{ minWidth: "100%" }}>

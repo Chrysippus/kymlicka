@@ -53,8 +53,8 @@ export default function Tra() {
         <div className="mb-0 pb-0">
           <BCS className="mb-0 pb-0" />
         </div>
-        <div className="w-100 pt-0 mt-0 mx-auto justify-content-center">
-          <NavNewsletter />
+        <div className="w-100 p-0 mx-0 mt-0 mx-auto justify-content-center">
+          <NavNewsletter/>
         </div>
       </Row>
       <Markdown options={opts}>{"" + (c ? c : "")}</Markdown>
