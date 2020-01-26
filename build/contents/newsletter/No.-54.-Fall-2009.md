@@ -8,7 +8,7 @@
 - [2\. [Postdoctoral Fellowship in Democracy and Diversity]](#2-postdoctoral-fellowship-in-democracy-and-diversity)
 - [3\. Upcoming Conferences](#3-upcoming-conferences)
 - [4\. Recent Publications](#4-recent-publications)
-- [Journal Special Issues](#journal-special-issues)
+  - [Journal Special Issues](#journal-special-issues)
 - [5\. Call for Papers](#5-call-for-papers)
 - [6\. Courses and Fellowships](#6-courses-and-fellowships)
 - [7\. Related Projects and Resources](#7-related-projects-and-resources)
@@ -103,7 +103,7 @@ Books (Prices in US\$)
 - Shaw, Karena (2008) Indigeneity and Political Theory: Sovereignty and the Limits of the Political (Routledge), \$44.95
 - Weber, Anne (2009) Manual on hate speech (Council of Europe)
 
-#### Journal Special Issues
+##### Journal Special Issues
 
 The current issue of "The Forum: A Journal of Applied Research in Contemporary Politics" (Vol. 7/3, 2009) focuses on "The Politics of Immigration Reform". Authors include Daniel Tichenor, Ben Marquez and John Witte, Randall Hansen, Peter Schuck, Peter Skerry, Jack Citrin and Matthew Wright, and Gary Freeman. See <http://www.bepress.com/forum>.
 

@@ -8,7 +8,7 @@
 - [2\. Upcoming Conferences](#2-upcoming-conferences)
 - [3\. Recent Publications](#3-recent-publications)
   - [Books](#books)
-- [Journal Special Issues](#journal-special-issues)
+  - [Journal Special Issues](#journal-special-issues)
 - [4\. Call for Papers](#4-call-for-papers)
 - [5\. Courses and Summer Schools](#5-courses-and-summer-schools)
 - [6\. Internet Resources](#6-internet-resources)
@@ -86,7 +86,7 @@ The Center for the Study of Citizenship at Wayne State University in Detroit is 
 - Winter, Stephen (2014) Transitional Justice in Established Democracies: A Political Theory (Palgrave).
 - Xiang, B., B.S.A. Yeoh and M. Toyota (eds.) (2013) Return: Nationalizing Transnational Mobility in Asia (Duke University Press)
 
-#### Journal Special Issues
+##### Journal Special Issues
 
 The Journal of Social Philosophy has just published a special issue on "Democratic Citizenship and the Recognition of Cultural Differences", edited by Carol Gould, Adam Etinson, and Joshua Keton (Volume 45/1, Spring 2014), with articles by Azizah al-Hibri, Akeel Bilgrami, Rainer Forst, Adam Etinson, Joshua Keton, Carol Gilligan, Virginia Held, Will Kymlicka and Sue Donaldson.
 

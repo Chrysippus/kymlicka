@@ -2,7 +2,7 @@
 
 ## Newsletter of the Queen's Forum for Philosophy and Public Policy
 
-### No. 43, December 2006\*\*
+### No. 43, December 2006
 
 ---
 
