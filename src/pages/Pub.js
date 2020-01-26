@@ -4,8 +4,6 @@ import { RLink } from "../components/shared/RLink";
 import Markdown from "markdown-to-jsx";
 import {
   Container,
-  Breadcrumb,
-  BreadcrumbItem,
   Row,
   Col
 } from "react-bootstrap";
@@ -41,12 +39,12 @@ export default function Pub() {
       h2: {
         props: { className: "small" }
       },
-      BCS: {
-        component: Breadcrumb
-      },
-      bc: {
-        component: BreadcrumbItem
-      },
+      // BCS: {
+      //   component: Breadcrumb
+      // },
+      // bc: {
+      //   component: BreadcrumbItem
+      // },
       tr: {
         props: { className: "w-100" }
       },

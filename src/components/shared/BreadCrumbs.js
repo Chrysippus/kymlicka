@@ -1,10 +1,9 @@
 import React from "react";
 import { BreadcrumbItem } from "react-bootstrap";
-import { Link } from "react-router-dom";
+import { LinkContainer } from "react-router-bootstrap";
 export function BreadCrumbs(params, location, title) {
   let locPath = location.pathname.replace("\\", "/");
   let Level = locPath.split("/").length;
-  // console.log(Level)
   let BCLevel4 = props =>
     locPath ? (
       Level === 4 || Level === 5 ? (
@@ -13,7 +12,7 @@ export function BreadCrumbs(params, location, title) {
             <BreadcrumbItem
               active
               style={{
-                maxWidth: "33vw",
+                maxWidth: "25vw",
                 display: "inline-block",
                 whiteSpace: "nowrap",
                 overflow: "hidden",
@@ -34,35 +33,36 @@ export function BreadCrumbs(params, location, title) {
         </>
       ) : null
     ) : null;
-    // console.log(locPath)
+  // console.log(locPath)
   let BCLevel3 = () =>
     locPath ? (
       Level !== 3 && title ? (
-        <Link
+        <LinkContainer
           to={"/" + locPath.split("/")[1] + "/" + locPath.split("/")[2]}
-          className={`breadcrumb-item`}
         >
-          {locPath.includes("edited-volumes")
-            ? locPath
-                .split("/")[2]
-                .split("-")[0][0]
-                .toUpperCase() +
-              locPath
-                .split("/")[2]
-                .split("-")[0]
-                .slice(1) +
-              " " +
-              locPath
-                .split("/")[2]
-                .split("-")[1][0]
-                .toUpperCase() +
-              locPath
-                .split("/")[2]
-                .split("-")[1]
-                .slice(1)
-            : locPath.split("/")[2][0].toUpperCase() +
-              locPath.split("/")[2].slice(1)}
-        </Link>
+          <BreadcrumbItem>
+            {locPath.includes("edited-volumes")
+              ? locPath
+                  .split("/")[2]
+                  .split("-")[0][0]
+                  .toUpperCase() +
+                locPath
+                  .split("/")[2]
+                  .split("-")[0]
+                  .slice(1) +
+                " " +
+                locPath
+                  .split("/")[2]
+                  .split("-")[1][0]
+                  .toUpperCase() +
+                locPath
+                  .split("/")[2]
+                  .split("-")[1]
+                  .slice(1)
+              : locPath.split("/")[2][0].toUpperCase() +
+                locPath.split("/")[2].slice(1)}
+          </BreadcrumbItem>
+        </LinkContainer>
       ) : (
         <BreadcrumbItem active>
           {title
@@ -76,10 +76,12 @@ export function BreadCrumbs(params, location, title) {
   let BCLevel2 = () =>
     locPath ? (
       Level !== 2 ? (
-        <Link to={"/" + locPath.split("/")[1]} className={`breadcrumb-item`}>
-          {locPath.split("/")[1][0].toUpperCase() +
-            locPath.split("/")[1].slice(1)}
-        </Link>
+        <LinkContainer to={"/" + locPath.split("/")[1]}>
+          <BreadcrumbItem>
+            {locPath.split("/")[1][0].toUpperCase() +
+              locPath.split("/")[1].slice(1)}
+          </BreadcrumbItem>
+        </LinkContainer>
       ) : (
         <BreadcrumbItem active>
           {locPath.split("/")[1][0].toUpperCase() +
