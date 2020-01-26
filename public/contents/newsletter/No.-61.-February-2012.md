@@ -9,7 +9,7 @@
 - [3\. Recent Publications](#3-recent-publications)
   - [Books](#books)
   - [Journal Special Issues](#journal-special-issues)
-- [4\. [Call for Papers and New Journals]](#4-call-for-papers-and-new-journals)
+- [4\. Call for Papers and New Journals](#4-call-for-papers-and-new-journals)
 - [5\. Related Research Projects](#5-related-research-projects)
 - [6\. Fellowships and Courses](#6-fellowships-and-courses)
 - [7\. Internet Resources](#7-internet-resources)
@@ -123,7 +123,7 @@ A recent issue of Issues in Legal Scholarship (Vol. 9 #1) contains a symposium e
 
 The International Community Law Review recently published a special issue (Volume 13, #4, 2011) focusing on "Minority Rights in International Law". Authors include, Tawhida Ahmed, Russell Buchan, Kristin Henrard, Roberta Medda-Windischer, Alexander Osipov, and Mauro Barelli.
 
-#### 4\. [Call for Papers and New Journals]
+#### 4\. Call for Papers and New Journals
 
 Diaspora, Indigenous, and Minority Education: An International Journal (Taylor & Francis) invites contributions for an upcoming guest-edited issue on "Migration, Religion, and Education". For more information, please contact Bruce Collet <colleba@bgsu.edu>.
 

@@ -9,8 +9,8 @@
 - [3\. Recent Publications](#3-recent-publications)
   - [Books (prices in US\$)](#books-prices-in-us)
   - [Journal Special Issues](#journal-special-issues)
-- [4\. [Call for Papers and New Journals]](#4-call-for-papers-and-new-journals)
-- [5\. [Fellowships and Courses]](#5-fellowships-and-courses)
+- [4\. Call for Papers and New Journals](#4-call-for-papers-and-new-journals)
+- [5\. Fellowships and Courses](#5-fellowships-and-courses)
 - [6\. Related Research Projects](#6-related-research-projects)
 - [7\. Internet Resources](#7-internet-resources)
 
@@ -104,13 +104,13 @@ The most recent issue of Diversities (Vol. 13, No. 1, 2011) is a special issue o
 
 Ethnic and Racial Studies has recently published a special issue (Vol 34/5, 2011) on "Ethnic and Racial Minorities in Asia: Inclusion or Exclusion?", guest edited by Michelle Miller, with articles by Damien Kingsbury, Stefan Ehrentraut, Michelle Ann Miller, Gabriele Marranci, Duncan McCargo, and Jacques Bertrand.
 
-#### 4\. [Call for Papers and New Journals]
+#### 4\. Call for Papers and New Journals
 
 In collaboration with the Centro de Estudios y Documentación Internacionales de Barcelona (CIDOB, [www.cidob.org](http://www.cidob.org/)), the Interdisciplinary Research Group on Immigration (GRITIM, [www.upf.edu/gritim](http://www.upf.edu/gritim)) is seeking chapters for "Spheres of Diversity", a book that focuses on the theme of diversity both as a concept and as a policy regarding private and public institutions in Europe. The book will be edited by Ricard Zapata-Barrero and Anne R. van Ewijk. Ihe book strives to enhance conceptual thinking on diversity, but also to facilitate policy thinking on the concept involved in novel policy orientations towards diversity. All those interested in collaborating in this book project are invited to submit a proposal (including a short motivation, a paper summary of max. 200 words, and your contact data). Selected chapters, that also pass the external review process, will be published in on-line book in the Autumn of 2011\. You can email your proposal to Anne van Ewijk: <annevanewijk@gmail.com>.
 
 Dr Anton Shekhovtsov will guest edit a special double issue of the journal Patterns of Prejudice on the role of music in the demonization of the Other, to be published at the beginning of 2013\. Since the end of the nineteenthth century, music has played an increasingly prominent role in constructing national identities and promoting various types of nationalist projects. This special issue will feature original research articles focusing on historical and contemporary instances of intersection of music and nationalism. We are particularly interested in contributions that address the following issues: musical works as lieux de memoire; appropriation of folk music in nationalist narratives; music and racial or ethnic conflict; the role of music in the demonization or stigmatization or ethnic, racial or national communities; xenophobic tendencies in contemporary musical genres such as Punk, Industrial, Hip-Hop, Neo-Folk, Dark Ambient, Black Metal and others; the use of music by historical and contemporary far right movements, organizations and parties. Proposals for articles (500 words) addressing these and related issues should be submitted by e-mail before 15 June 2011\. All final contributions must be the original work of the author/s; they will be subject to peer review and the editors' decisions will be final. Please send proposals to Anton Shekhovtsov (<anton.shekhovtsov@gmail.com>) and/or Barbara Rosenbaum (<b.rosenbaum@dsl.pipex.com>).
 
-#### 5\. [Fellowships and Courses]
+#### 5\. Fellowships and Courses
 
 "Rethinking International Migration" is a 2011 National Endowment for the Humanities Summer Seminar for College and University Teachers. The seminar will be directed by Roger Waldinger, Distinguished Professor of Sociology, University of California, Los Angeles. This five week summer seminar will be held at the UCLA campus from June 13 through July 15, 2011\. The seminar is open to 16 NEH summer scholars, from a broad range of disciplinary backgrounds. Principally oriented to teachers of American undergraduate students, the seminar is open to qualified independent scholars and will include two full-time graduate students. More information can be found at: <http://apply.international.ucla.edu/migration/>.
 

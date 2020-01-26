@@ -28,9 +28,7 @@ The International Scientific Conference Minorities for Europe of Tomorrow (ISCOM
 
 The Queen's Forum for Philosophy and Public Policy will be holding a workshop on Language Rights at Queen's University, Kingston on March 30-31, 2001, organized by Will Kymlicka and Idil Boran. The workshop will bring together political theorists and social scientists to discuss the challenges of linguistic diversity for normative political theory. Participants include Stephen May, John Edwards, David Laitin, Pierre Coulombe, Jacob Levy, Alan Patten, Denise Reaume, Ruth Rubio Marin, Francois Grin. For more information, contact Idil Boran, Philosophy Dept., Queen's University, Kingston, Canada, K7L 3N6; fax: 613-533-6545; e-mail: 8ib@qlink.queensu.ca
 
-The Lipman-Miliband Trust for Socialist Education and Research is sponsoring a conference on "Nationalism and the Left" to be held at The University of Leeds (U.K.) on April 20-21,
-
-1. For programme and other information contact John Schwarzmantel, POLIS, The University of Leeds, Leeds LS2 9JT; tel: (0113) 233 4396, e-mail: j.j.schwarzmantel@leeds.ac.uk or Susannah Lane, tel: (0113) 230 2821, e-mail: ipi9srl@leeds.ac.uk
+The Lipman-Miliband Trust for Socialist Education and Research is sponsoring a conference on "Nationalism and the Left" to be held at The University of Leeds (U.K.) on April 20-21, 2001. For programme and other information contact John Schwarzmantel, POLIS, The University of Leeds, Leeds LS2 9JT; tel: (0113) 233 4396, e-mail: j.j.schwarzmantel@leeds.ac.uk or Susannah Lane, tel: (0113) 230 2821, e-mail: ipi9srl@leeds.ac.uk
 
 The Center for Law and Philosophy at Columbia University will be holding a conference on April 28-29, 2001, to discuss some of the issues arising from the contemporary debate about multiculturalism among political philosophers. Attendance is by invitation only and the topic of discussion will be a selection of papers to be included in the upcoming volume Multiculturalism Revisited. For more information contact Jeremy Waldron, Columbia University Law School, Jerome L. Greene Hall, 435 West 116th Street, New York, NY 10027; e-mail: jwaldron@law.columbia.edu
 
@@ -48,9 +46,7 @@ There will be a conference on "Rethinking Citizenship in the Canadian Federation
 
 The 21st-Century Trust is organizing a conference on "Human Rights as Collective Rights: Benefits and Pitfalls", at Madingley Hall, Cambridge UK, from 28 October to 4 November 2001\. The conference is being led by author and columnist Neal Ascherson. Like all Trust conferences, the aim is to bring together younger people (under 40) from a wide range of countries and professional backgrounds to exchange ideas on important contemporary issues. For more information about the conference, or the Trust, contact John Lotherington, 21st Century Trust, 25 Museum Street, London WC1A 1JT UK; tel: 44-2073232099; e-mail: trust@tfct.demon.co.uk. Or visit the Trust's website at: <http://www.21stCenturyTrust.org>
 
-The Canadian Ethnic Studies' Sixteenth Biennial Conference will be on "Ethnicizing the Nation" and will take place in Halifax, November 2-4,
-
-2. For more information, contact Multicultural History Society of Ontario, e-mail: mhso.mail@utoronto.ca
+The Canadian Ethnic Studies' Sixteenth Biennial Conference will be on "Ethnicizing the Nation" and will take place in Halifax, November 2-4, 2001. For more information, contact Multicultural History Society of Ontario, e-mail: mhso.mail@utoronto.ca
 
 An international conference on national identities and national movements in European history will be held on Friday 15 and Saturday 16 March 2002 in Ghent and Leuven (Belgium). Three themes will be addressed by the following key-note speakers: "Nation formation and national identity" (Montserrat Guibernau, Michael Hechter, Jan Penrose), "National identities in pre-modern and modern times" (Rees Davies; Joep Leerssen; Piet Leupen); "Elite agitation and mass support in nationalist movements" (Ulf Hedetoft; Miroslav Hroch; Brendan O Leary). The conference is only open to invited speakers. The conference language is English. For more information, check the website at: <http://onyx.arts.kuleuven.ac.be/nationalism/> Or contact: Maarten Van Ginderachter, Vakgroep Nieuwste Geschiedenis, Blandijnberg 2 9000 Gent Belgium Tel: +/32/9/264 40 05 Fax: +/32/9/264 41 89 Email: congress.nationalism@rug.ac.be
 
@@ -156,9 +152,7 @@ Katie Willis and Brenda Yeoh (eds) Gender and Migration (Edward Edgar, 2000) \$2
 
 Journal Symposia and Special Issues
 
-The journal The School Field has a special double issue addressing the debate over the nature and goals of citizenship education (Volume 11,
-
-# 1/2, Spring/Summer 2000). The contributors
+The journal The School Field has a special double issue addressing the debate over the nature and goals of citizenship education (Volume 11, \# 1/2, Spring/Summer 2000). The contributors
 
 include Alisdair Ross, Joel Westheimer and Joseph Kahne, Tope Omoniyi, Helen Walkington and Chris Wilkins, Dieter Lenzen, Cathie Holden, and Paul Naylor and Helen Cowie. The issue also includes an interview with Kenneth A. Strike. This edition of The School Field is the third in a series from that journal on the subject of citizenship education, the most recent being the double issue Vol. X, number 3/4, Autumn/Winter 1999\. More information can be found at the journal's website: <http://www.theschoolfield.com>
 
@@ -196,12 +190,10 @@ The International Institute for the Sociology of Law (IISL) is holding its annua
 
 The Summer Courses of the University of the Basque Country, with the Support of the Urrutia Elejalde and Betiko/Ibarra Oriol Foundations, are organizing the fourth annual Summer School on Economy and Philosophy to be held in the city of San Sebastian between July 31 and August 4, 2001\. The summer school will focus on the importance of community dimension in the construction of social cohesion and the achievement of economic efficiency. The course is directed to graduates, doctors, researchers working on the foundations of economic analysis and political philosophy. For information contact Juan Urrutia Elejalde, Mendiola 42, 48220 Abadino, Bizkaia, Spain, telephone: 34.94.620.31.32, fax: 34.94.601.51.40, e-mail: zipibgup@lg.ehu.es or peibrr@teleline.es or contact Fernando Vallespin, e-mail: fvalles@pop.uam.es or fernando.vallespin@uam.es
 
-A summer course in International Minority Rights Law in Ireland will be held at the Irish Centre for Human rights, National University of Ireland, Galway, Ireland, between June 23 and 30,
-
-1. For information contact Prof. Joshua Castellino, Irish Centre for Human Rights, National University of Ireland, Galway, Republic of Ireland; Tel: +353 91 512 193; Fax: +353 91 750 575; e-mail: joshua.castellino@nuigalway.ie. More information, application forms, and a preliminary programme are available at the website: <http://www.nuigalway.ie/human_rights>
+A summer course in International Minority Rights Law in Ireland will be held at the Irish Centre for Human rights, National University of Ireland, Galway, Ireland, between June 23 and 30, 2001. For information contact Prof. Joshua Castellino, Irish Centre for Human Rights, National University of Ireland, Galway, Republic of Ireland; Tel: +353 91 512 193; Fax: +353 91 750 575; e-mail: joshua.castellino@nuigalway.ie. More information, application forms, and a preliminary programme are available at the website: <http://www.nuigalway.ie/human_rights>
 
 ---
 
-** ANNOUNCEMENTS:** If you would like to announce a new research project, publication, call for papers, or upcoming conference in a future issue of this newsletter, please contact us at cded@post.queensu.ca , or you can write to the Forum for Philosophy and Public Policy, Department of Philosophy, Queen's University, Watson Hall 313, Kingston Ontario K7L 3N6, Canada. Fax: 613-533-6545.
+**ANNOUNCEMENTS:** If you would like to announce a new research project, publication, call for papers, or upcoming conference in a future issue of this newsletter, please contact us at cded@post.queensu.ca , or you can write to the Forum for Philosophy and Public Policy, Department of Philosophy, Queen's University, Watson Hall 313, Kingston Ontario K7L 3N6, Canada. Fax: 613-533-6545.
 
 The Forum gratefully acknowledges the assistance of the Social Sciences and Humanities Research Council of Canada in funding this newsletter. Special thanks to Idil Boran for research help, and to Lise Charlebois for help with the distribution of the newsletter.
