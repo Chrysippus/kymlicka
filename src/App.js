@@ -1,4 +1,5 @@
 import React, { lazy } from "react";
+import "./css/normalize.css"
 import "bootstrap/dist/css/bootstrap.min.css";
 import "academicons";
 import "./css/main.css";
