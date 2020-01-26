@@ -43,7 +43,7 @@ export const Foot = () => (
         </a>
         {", " + date.getFullYear()}
         <br />
-        {"Last modified: " + date.toDateString() + " " + date.toTimeString()}
+        {"Last modified: " + document.lastModified}
       </p>
     </Container>
   </footer>
