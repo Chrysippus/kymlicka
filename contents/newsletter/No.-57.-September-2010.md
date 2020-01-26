@@ -8,9 +8,9 @@
 - [2\. Upcoming Conferences](#2-upcoming-conferences)
 - [3\. Recent Publications](#3-recent-publications)
   - [Journal Special Issues](#journal-special-issues)
-- [4\. [Call for Papers and New Journals]](#4-call-for-papers-and-new-journals)
-- [5\. [Fellowships and Courses]](#5-fellowships-and-courses)
-- [6\. [Related Research Projects]](#6-related-research-projects)
+- [4\. Call for Papers and New Journals](#4-call-for-papers-and-new-journals)
+- [5\. Fellowships and Courses](#5-fellowships-and-courses)
+- [6\. Related Research Projects](#6-related-research-projects)
 - [7\. Internet Resources](#7-internet-resources)
 
 #### 1\. Introduction
@@ -101,7 +101,7 @@ Interventions: International Journal of Postcolonial Studies (Volume 12, Issue 2
 
 There is a special issue of Citizenship Studies (Vol. 14/3, 2010) on "Cultural citizenship in Political Theory". It is guest-edited by Judith Vega and Pieter van Hensbroek and also includes articles by Nick Stevenson, Gijs van Oenen, Rene Boomkens, and Davina Bhandar.
 
-#### 4\. [Call for Papers and New Journals]
+#### 4\. Call for Papers and New Journals
 
 The journal The Monist has issued a call for appers on "Dilemmas of Multiculturalism", guest-edited by H. E. Baber, University of San Diego (<baber@sandiego.edu>). History shows that cultural diversity can enrich societies and lead to great flowerings of creativity and prosperity - but that it can also threaten social cohesion. This issue of The Monist is concerned with the dilemmas that arise when, for example, the cultural norms of minority communities conflict with the norms of the larger society. To what extent are liberal democracies obliged to accommodate illiberal communities whose policies and practices constrain the options of their members? Is multiculturalism bad for women insofar as traditional cultures promote practices and prescribe roles for women that are, by Western standards, restrictive or oppressive? Is there a conflict of interest between cultural preservationists and those individuals who would prefer to assimilate into the wider culture? Do individuals in minority communities have an obligation to identify with ancestral cultures? Contributors are invited to address these and related questions posed by multiculturalism. For more information, visit <http://monist.buffalo.edu/callsforpapers.html#Multiculturalism>
 
@@ -109,13 +109,13 @@ The journal Education Citizenship and Social Justice will publish a special issu
 
 The Max Planck Institute for the Study of Religious and Ethnic Diversity announces the launch of a new journal, DIVERSITIES, a combined effort with UNESCO's social sciences research and policy division. DIVERSITIES is an on-line journal publishing high quality, peer-reviewed articles concerning multiple forms of diversity. It carries on the work of its predecessor, The International Journal for the Study of Multicultural Societies (IJMS). DIVERSITIES presents new research on different kinds of social difference - including ethnicity, religion, language, gender, sexuality, disability, social status and age: how these notions are socially constructed, how they unfold in different contexts and how they are addressed in policy and practice. The journal provides a forum for discussion, debate, refinement of social theory and development of key ideas at the nexus of research and policy. Topics and contributors represent a range of global regions. Scholars interested in pursuing publication in the journal can write to the editors at diversities(at)[mmg.mpg.de](http://mmg.mpg.de/), or visit the website at: <http://www.unesco.org/shs/diversities>.
 
-#### 5\. [Fellowships and Courses]
+#### 5\. Fellowships and Courses
 
 The Centre for Citizenship and Public Policy, in Sydney, Australia has begun to offer a four year PhD in Political and Social Thought. In the first year candidates take four compulsory seminar-style courses, led by such academics as Anna Yeatman, Katherine Gibson, Nikolas Kompridis, Jack Barbalet, Lyn Carson and Tim Rowse. Generous scholarships are available to Domestic and International students. For profiles of the academics, information about 2011 units and procedures for application, visit our website at <http://www.uws.edu.au/ccpp>.
 
 The three-year English-taught Joint PhD Programme in Diversity Management and Governance offers specialized interdisciplinary and comparative academic training in the study of various forms of diversity, be it ethnic, cultural, linguistic, regional, religious, social or sexual, and its management. Conflict prevention and management theories, reconstruction and reconciliation of divided societies after violent conflicts and political tensions, integration policies and the establishment of good governance throughout Europe are in focus in this Joint PhD Programme. Partner Universities are University of Graz (Austria), University of Primorska (Slovenia), New Bulgarian University (Bulgaria), and University of Bologna (Italy). Students have to spend at least one academic year at one of the partner universities. Further information and application form available at: <http://www.jointdegree.eu/phd> or by contacting Ms Elisabeth Mueller at <elisabeth.mueller@uni-graz.at>.
 
-#### 6\. [Related Research Projects]
+#### 6\. Related Research Projects
 
 "Oecumene: Citizenship after Orientalism" is a new research project, led by Professor Engin Isin at the Centre for Citizenship, Identities and Goveranance (CCIG) at the Open University, and funded by the European Research Council. The project focuses on the interaction between two controversial and contested concepts: citizenship – the process by which belonging is recognised and enacted – and orientalism – the assertion of the superiority of western culture over its eastern counterparts. The purpose of the research programmes is to redefine European citizenship by developing, without the assumptions of orientalism and occidentalism, comparative insights on citizenship understood as political subjectivity in Asias, Africas, Australias or Americas. For more information, visit: <http://www.open.ac.uk/ccig/about/projects/oecumene-citizenship-after-orientalism>
 

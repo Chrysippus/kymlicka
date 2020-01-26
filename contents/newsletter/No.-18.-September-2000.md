@@ -7,10 +7,11 @@
 ---
 
 ### Contents
+
 - [1\. Introduction](#1-introduction)
 - [2\. Upcoming Conferences](#2-upcoming-conferences)
 - [3\. Recent Publications](#3-recent-publications)
-- [4\. New Journals AND BOOK SERIES:](#4-new-journals-and-book-series)
+- [4\. New Journals AND BOOK SERIES](#4-new-journals-and-book-series)
 - [5\. Internet Resources](#5-internet-resources)
 - [6\. Related Research Programs](#6-related-research-programs)
 
@@ -82,113 +83,113 @@ To keep our list manageable, we are listing only books and journal symposia, not
 
 <http://www.amazon.com>, which also contains more information about the contents of each book (eg., tables of contents):
 
-Jeffrey Anderson (ed) _Regional Integration and Democracy: Expanding on the European Experience_ (Rowman & Littlefield, 1999), $24.95.
+Jeffrey Anderson (ed) _Regional Integration and Democracy: Expanding on the European Experience_ (Rowman & Littlefield, 1999), \$24.95.
 
-Susan Babbitt and Sue Campbell (eds) _Racism and Philosophy_ (Cornell UP, 1999), $17.95.
+Susan Babbitt and Sue Campbell (eds) _Racism and Philosophy_ (Cornell UP, 1999), \$17.95.
 
-Les Back and John Solomos (eds) _Theories of Race and Racism_ (Routledge 2000), $23.96.
+Les Back and John Solomos (eds) _Theories of Race and Racism_ (Routledge 2000), \$23.96.
 
-Himani Bannerji, _The Dark Side of the Nation_ (Canadian Scholars Press, 2000), $14.95.
+Himani Bannerji, _The Dark Side of the Nation_ (Canadian Scholars Press, 2000), \$14.95.
 
-Elazar Barkan, _The Guilt of Nations: Restitution and Negotiating Historical Injustices_ (Norton, 2000), $23.96.
+Elazar Barkan, _The Guilt of Nations: Restitution and Negotiating Historical Injustices_ (Norton, 2000), \$23.96.
 
-Sophie Body-Gendrot and Marco Martiniello (eds) _Minorities in European Cities: The Dynamics of Social Integration and Social Exclusion at the Neighborhood Level_ (St Martin's Press, 2000), $65.00.
+Sophie Body-Gendrot and Marco Martiniello (eds) _Minorities in European Cities: The Dynamics of Social Integration and Social Exclusion at the Neighborhood Level_ (St Martin's Press, 2000), \$65.00.
 
-Harry Brighouse, _School Choice and Social Justice_ (Oxford UP, 2000), $29.95.
+Harry Brighouse, _School Choice and Social Justice_ (Oxford UP, 2000), \$29.95.
 
-Lea Brilmayer and Ian Shapiro (eds) _Global Justice_ (New York University Press, 1999), $50.00.
+Lea Brilmayer and Ian Shapiro (eds) _Global Justice_ (New York University Press, 1999), \$50.00.
 
-Roy L. Brooks (ed) _When Sorry Isn't Good Enough: The Controversy Over Apologies and Reparations for Human Injustice_ (New York University Press, 1999), $22.95.
+Roy L. Brooks (ed) _When Sorry Isn't Good Enough: The Controversy Over Apologies and Reparations for Human Injustice_ (New York University Press, 1999), \$22.95.
 
 Nils Butensch, Uri Davis, and Manuel Hassassian,
 
-_Citizenship and the State in the Middle East: Approaches and Applications_ (Syracuse UP, 2000), $39.95
+_Citizenship and the State in the Middle East: Approaches and Applications_ (Syracuse UP, 2000), \$39.95
 
-Raphael Cohen-Almagor (ed) _Liberal Democracy and the Limits of Tolerance_ (Michigan University Press, 2000), $54.40.
+Raphael Cohen-Almagor (ed) _Liberal Democracy and the Limits of Tolerance_ (Michigan University Press, 2000), \$54.40.
 
-Frederick Cooper, Thomas C. Holt, Rebecca J. Scott, _Beyond Slavery: Explorations of Race, Labor, and Citizenship in Post-emancipation Societies_ (University of North Carolina Press 2000), $14.35.
+Frederick Cooper, Thomas C. Holt, Rebecca J. Scott, _Beyond Slavery: Explorations of Race, Labor, and Citizenship in Post-emancipation Societies_ (University of North Carolina Press 2000), \$14.35.
 
-John Dryzek, _Deliberative Democracy and Beyond: Liberals, Critics, Contestations_ (Oxford UP, 2000), $29.95.
+John Dryzek, _Deliberative Democracy and Beyond: Liberals, Critics, Contestations_ (Oxford UP, 2000), \$29.95.
 
-Ronald Dworkin, _Sovereign Virtue: The Theory and Practice of Equality_ (Harvard UP, 2000), $28.00.
+Ronald Dworkin, _Sovereign Virtue: The Theory and Practice of Equality_ (Harvard UP, 2000), \$28.00.
 
-Tom Flanagan, _First Nations? Second Thoughts_ (McGill-Queen's UP, 2000), $24.95.
+Tom Flanagan, _First Nations? Second Thoughts_ (McGill-Queen's UP, 2000), \$24.95.
 
-Gerald Friesen, _Citizens and Nation: An Essay on History, Communication, and Canada_ (University of Toronto Press, 2000), $21.95.
+Gerald Friesen, _Citizens and Nation: An Essay on History, Communication, and Canada_ (University of Toronto Press, 2000), \$21.95.
 
-Louk Hagendoorn, Gyorgy Csepeli, Henk Dekker and R. Farnen (eds) _European Nations and Nationalism: Theoretical and Historical Perspectives_ (Ashgate, 2000) $99.95
+Louk Hagendoorn, Gyorgy Csepeli, Henk Dekker and R. Farnen (eds) _European Nations and Nationalism: Theoretical and Historical Perspectives_ (Ashgate, 2000) \$99.95
 
-David Held, Anthony McGrew, David Goldblatt, Jonathan Perraton, _Global Transformations: Politics, Economics and Culture_ (Stanford University Press, 1999), $23.96.
+David Held, Anthony McGrew, David Goldblatt, Jonathan Perraton, _Global Transformations: Politics, Economics and Culture_ (Stanford University Press, 1999), \$23.96.
 
-Kristin Henrard, _Devising an Adequate System of Minority Protection: Individual Rights, Human Rights, and the Right to Self-determination_ (Martinus Nijhoff, 2000), $133.00.
+Kristin Henrard, _Devising an Adequate System of Minority Protection: Individual Rights, Human Rights, and the Right to Self-determination_ (Martinus Nijhoff, 2000), \$133.00.
 
-Guntrum Herb and David Kaplan (eds) _Nested Identities: Nationalism, Territory and Scale_ (Rowman & Littlefield 1999), $29.95.
+Guntrum Herb and David Kaplan (eds) _Nested Identities: Nationalism, Territory and Scale_ (Rowman & Littlefield 1999), \$29.95.
 
-John Horton and Susan Mendus (eds) _Toleration, Identity and Difference_ (St. Martin's Press, 1999), $65.00.
+John Horton and Susan Mendus (eds) _Toleration, Identity and Difference_ (St. Martin's Press, 1999), \$65.00.
 
 Philip A. Klinkner and Rogers M. Smith,
 
-_The Unsteady March: The Rise and Decline of Racial Equality in America_ (University of Chicago Press, 1999), $26.00.
+_The Unsteady March: The Rise and Decline of Racial Equality in America_ (University of Chicago Press, 1999), \$26.00.
 
-Gurpreet Mahajan and D.L. Sheth (eds) _Minority Identities and the Nation State_ (Oxford UP, 2000), $29.95.
+Gurpreet Mahajan and D.L. Sheth (eds) _Minority Identities and the Nation State_ (Oxford UP, 2000), \$29.95.
 
 Ram Mahalingam and Cameron McCarthy (eds)
 
-_Multicultural Curriculum: New Directions for Social Theory, Practice and Policy_ (Falmer Press 2000), $22.99.
+_Multicultural Curriculum: New Directions for Social Theory, Practice and Policy_ (Falmer Press 2000), \$22.99.
 
-Ruth Rubio Marin, _Immigration as a Democratic Challenge: Citizenship and Inclusion in Germany and the US_ (Cambridge University Press, 2000), $21.95.
+Ruth Rubio Marin, _Immigration as a Democratic Challenge: Citizenship and Inclusion in Germany and the US_ (Cambridge University Press, 2000), \$21.95.
 
 Daphne Masliah-Romy, _L'Anglais et les cultures: analyse sociolinguistique des situations plurilingues et multiculturelles au Canada, en Australie et aux Etats-Unis_ (Presses Universitaires du Septentrion, 2000).
 
-David Miller, _Citizenship and National Identity_ (Polity Press, 2000), $27.95.
+David Miller, _Citizenship and National Identity_ (Polity Press, 2000), \$27.95.
 
-Nenad Miscevic (ed) _Nationalism and Ethnic Conflict: Philosophical Perspectives_ (Open Court, 2000), $31.96.
+Nenad Miscevic (ed) _Nationalism and Ethnic Conflict: Philosophical Perspectives_ (Open Court, 2000), \$31.96.
 
-Jan Nederveen Pieterse (ed) _Global Futures: Shaping Globalization_ (Zed Books, 2000), $25.00.
+Jan Nederveen Pieterse (ed) _Global Futures: Shaping Globalization_ (Zed Books, 2000), \$25.00.
 
-Daniel Nettle and Suzanne Romaine, _Vanishing Voices: The Extinction of the World's Languages_ (Oxford UP, 2000), $22.00.
+Daniel Nettle and Suzanne Romaine, _Vanishing Voices: The Extinction of the World's Languages_ (Oxford UP, 2000), \$22.00.
 
-Melissa Nobles, _Shades of Citizenship: Race and the Census in Modern Politics_ (Stanford UP 2000), $15.25.
+Melissa Nobles, _Shades of Citizenship: Race and the Census in Modern Politics_ (Stanford UP 2000), \$15.25.
 
-Martha Nussbaum, _Sex and Social Justice_ (Oxford UP, 2000), $16.95.
+Martha Nussbaum, _Sex and Social Justice_ (Oxford UP, 2000), \$16.95.
 
 Vladimir Ortakovski, _Minorities in the Balkans_ (Transnational Publishers 2000).
 
-Saskia Sassen, _Guests and Aliens_ (New Press, 2000), $15.25.
+Saskia Sassen, _Guests and Aliens_ (New Press, 2000), \$15.25.
 
-David Schlosberg, _Environmental Justice and the New Pluralism: The Challenge of Difference for Environmentalism_ (Oxford UP, 1999), $45.00.
+David Schlosberg, _Environmental Justice and the New Pluralism: The Challenge of Difference for Environmentalism_ (Oxford UP, 1999), \$45.00.
 
-George Schopflin, _Nation, Identity, Power_ (New York UP, 2000), $38.00.
+George Schopflin, _Nation, Identity, Power_ (New York UP, 2000), \$38.00.
 
-Leon Sheleff, _The Future of Tradition: Customary Law, Common Law and Legal Pluralism_ (Frank Cass, 2000), $64.50.
+Leon Sheleff, _The Future of Tradition: Customary Law, Common Law and Legal Pluralism_ (Frank Cass, 2000), \$64.50.
 
 Neil Smelser and Jeffrey Alexander (eds)
 
-_Diversity and its Discontents_ (Princeton UP, 1999), $17.95.
+_Diversity and its Discontents_ (Princeton UP, 1999), \$17.95.
 
-Anthony Smith, _The Nation in History: Historiographical Debates about Ethnicity and Nationalism_ (Brandeis UP, 2000), $14.95.
+Anthony Smith, _The Nation in History: Historiographical Debates about Ethnicity and Nationalism_ (Brandeis UP, 2000), \$14.95.
 
-Joseph Wayne Smith, Graham Lyons, Evonne Moore, _Global Meltdown: Immigration, Multiculturalism and National Breakdown in the New World Disorder_ (Greenwood 1998), $59.95.
+Joseph Wayne Smith, Graham Lyons, Evonne Moore, _Global Meltdown: Immigration, Multiculturalism and National Breakdown in the New World Disorder_ (Greenwood 1998), \$59.95.
 
-Jack Snyder, _From Voting to Violence: Democratization and Nationalist Conflict_ (Norton, 2000), $15.30.
+Jack Snyder, _From Voting to Violence: Democratization and Nationalist Conflict_ (Norton, 2000), \$15.30.
 
-Jeff Spinner-Halev, _Surviving Diversity: Religion and Democratic Citizenship_ (John Hopkins University Press, 2000), $36.50.
+Jeff Spinner-Halev, _Surviving Diversity: Religion and Democratic Citizenship_ (John Hopkins University Press, 2000), \$36.50.
 
-Zdenek Suda and Jiri Musil (eds) _The Meaning of Liberalism: East and West_ (Central European University Press, 2000), $22.95.
+Zdenek Suda and Jiri Musil (eds) _The Meaning of Liberalism: East and West_ (Central European University Press, 2000), \$22.95.
 
-Suwanda Sugunasiri, _How to Kick Multiculturalism in its Teeth_ (Village Publishing House, 1999), $17.95.
+Suwanda Sugunasiri, _How to Kick Multiculturalism in its Teeth_ (Village Publishing House, 1999), \$17.95.
 
 Jessica Ter Wal and M. Verkuyten (eds)
 
-_Comparative Perspectives on Racism_ (Ashgate, 2000), $74.95.
+_Comparative Perspectives on Racism_ (Ashgate, 2000), \$74.95.
 
 Max van der Stoel, _Peace and Stability through Human and Minority Rights_ (Nomos Verlagsgesellschaft, 1999).
 
-George White, _Nationalism and Territory: Constructing Group Identity in Southestern Europe_ (Rowman & Littlefield, 2000), $29.00.
+George White, _Nationalism and Territory: Constructing Group Identity in Southestern Europe_ (Rowman & Littlefield, 2000), \$29.00.
 
-Sue Wright, _Community and Communication: The Role of Language in Nation State Building and European Integration_ (Multilingual Matters, 2000), $50.00.
+Sue Wright, _Community and Communication: The Role of Language in Nation State Building and European Integration_ (Multilingual Matters, 2000), \$50.00.
 
-Nira Yuval-Davis and P. Werbner (eds) _Women, Citizenship, and Difference_ (Post-colonial Encounters) (Zed Books, 1999), $22.50.
+Nira Yuval-Davis and P. Werbner (eds) _Women, Citizenship, and Difference_ (Post-colonial Encounters) (Zed Books, 1999), \$22.50.
 
 Published Symposia and Special Issues
 
@@ -202,7 +203,7 @@ The September 2000 issue of the _Australasian Journal of Philosophy_ is on _Indi
 
 A recent issue of the _International Journal of the Sociology of Language_ is on "Languages of Former Colonial Powers and Former Colonies -- The Case of Puerto Rico" (2000, No. 142). This volume includes articles by Jorge Velez, Sharon Clampitt-Dunlap, Amparo Morales, C. William Schweers Jr. and Madelaine Hudders, Joan M. Fayer, Alicia Pousada, Miriam Eisentein Ebsworth and Timothy Ebsworth, Jose Solis Jordan, and Luisa Maffi.
 
-#### 4\. New Journals AND BOOK SERIES:
+#### 4\. New Journals AND BOOK SERIES
 
 _Race, Ethnicity and Education_ is a refereed interdisciplinary journal edited by David Gillborn, University of London, UK. It publishes research on the dynamics of race, racism, and ethnicity in education policy, theory and practice. The journal welcomes manuscripts that address the interconnections between race, ethnicity and multiple forms of oppression including class, gender, sexuality and disability. For further information, contact David Gillborn, Race, Ethnicity and Education,
 
@@ -250,8 +251,8 @@ The Key Centre for Ethics, Law, Justice and Governance in Queensland, Australia 
 
 <http://www.gu.edu.au/centre/kceljag/home.html>
 
------------------------------------------------------------------------------------
+---
 
-** ANNOUNCEMENTS:** If you would like to announce a new research project, publication, call for papers, or upcoming conference in a future issue of this newsletter, please contact us at <cded@post.queensu.ca> , or you can write to the Forum for Philosophy and Public Policy, Department of Philosophy, Queen's University, Watson Hall 313, Kingston Ontario K7L 3N6, Canada. Fax: 613-533-6545.
+**ANNOUNCEMENTS:** If you would like to announce a new research project, publication, call for papers, or upcoming conference in a future issue of this newsletter, please contact us at <cded@post.queensu.ca> , or you can write to the Forum for Philosophy and Public Policy, Department of Philosophy, Queen's University, Watson Hall 313, Kingston Ontario K7L 3N6, Canada. Fax: 613-533-6545.
 
 The Forum gratefully acknowledges the assistance of the Social Sciences and Humanities Research Council of Canada in funding this newsletter. Special thanks to Idil Boran for research help, and to Lise Charlebois for help with the distribution of the newsletter.

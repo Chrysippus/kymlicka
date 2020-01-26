@@ -13,7 +13,7 @@
 - [3\. Upcoming Conferences](#3-upcoming-conferences)
 - [4\. New Journals](#4-new-journals)
 - [5\. Recent Publications](#5-recent-publications)
-  - [Symposia and special issues:](#symposia-and-special-issues)
+  - [Symposia and special issues](#symposia-and-special-issues)
 - [6\. Internet Resources](#6-internet-resources)
 - [7\. Related Research Programs](#7-related-research-programs)
 - [8\. Upcoming Summer Schools](#8-upcoming-summer-schools)
@@ -144,7 +144,7 @@ All prices in U.S. dollars. Most of these books can be ordered through the Amazo
 - Catherine Withol de Wenden, _L'immigration en Europe_ (La documentation fran�aise, 1999).
 - Crawford Young (ed.) _The Accommodation of Cultural Diversity: Case-Studies_ (St. Martin's Press, 1999) \$65.00
 
-##### Symposia and special issues:
+##### Symposia and special issues
 
 The MOST Program has an electronic journal, the MOST _Journal on Multicultural Society_. The current issue is on "The Public Management of Religious Diversity", guest edited by Francoise Champion. For more information, visit: <http://www.unesco.org/most/jmshome.htm>
 

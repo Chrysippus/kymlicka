@@ -1,6 +1,6 @@
-# Citizenship, Democracy and Ethnocultural Diversity Newsletter 
+# Citizenship, Democracy and Ethnocultural Diversity Newsletter
 
-## _Of the Queen's Forum for Philosophy and Public Policy_ 
+## _Of the Queen's Forum for Philosophy and Public Policy_
 
 ### **No. 19, December 2000**
 
@@ -11,8 +11,8 @@
 - [1\. Introduction](#1-introduction)
 - [2\. Upcoming Conferences](#2-upcoming-conferences)
 - [3\. Recent Publications](#3-recent-publications)
-- [4\. NEW JOURNAL AND BOOK SERIES:](#4-new-journal-and-book-series)
-- [5\. Internet Resources:](#5-internet-resources)
+- [4\. NEW JOURNAL AND BOOK SERIES](#4-new-journal-and-book-series)
+- [5\. Internet Resources](#5-internet-resources)
 - [6\. Related Research Programs](#6-related-research-programs)
 - [7\. SUMMER SCHOOLS](#7-summer-schools)
 
@@ -70,129 +70,129 @@ The Fifth International conference of the Ethnic Studies Network will be on the 
 
 To keep our list manageable, we are listing only books and journal symposia, not individual journal articles. Prices are in US dollars.
 
-Andrea Baumeister, Liberalism and the Politics of Difference (Edinburgh U Press, 2000), $25.00.
+Andrea Baumeister, Liberalism and the Politics of Difference (Edinburgh U Press, 2000), \$25.00.
 
-Shlomo Ben-Ami, Yoav Peled and Alberto Spektorowski (eds) Ethnic Challenges to the Modern Nation State (Palgrave, 2000), $69.95.
+Shlomo Ben-Ami, Yoav Peled and Alberto Spektorowski (eds) Ethnic Challenges to the Modern Nation State (Palgrave, 2000), \$69.95.
 
-Caroline Brettell and James Hollifield (eds) Migration Theory: Talking Across Disciplines (Routledge, 2000), $19.95.
+Caroline Brettell and James Hollifield (eds) Migration Theory: Talking Across Disciplines (Routledge, 2000), \$19.95.
 
-David Brown, Contemporary Nationalism: Civic, Ethnocultural and Multicultural Politics (Routledge, 2000), $27.99.
+David Brown, Contemporary Nationalism: Civic, Ethnocultural and Multicultural Politics (Routledge, 2000), \$27.99.
 
-David Buckingham, The Making of Citizens: Young People, News and Politics (Routledge, 2000), $24.99.
+David Buckingham, The Making of Citizens: Young People, News and Politics (Routledge, 2000), \$24.99.
 
-Sean Byrne and Cynthia L. Irvin, Reconcilable Differences: Turning Points in Ethnopolitical Conflicts (Kumarian Press, 2000), $19.96.
+Sean Byrne and Cynthia L. Irvin, Reconcilable Differences: Turning Points in Ethnopolitical Conflicts (Kumarian Press, 2000), \$19.96.
 
-Joshua Castellino, International Law and Self-determination (Martinus Nijhoff, 2000), $90.50.
+Joshua Castellino, International Law and Self-determination (Martinus Nijhoff, 2000), \$90.50.
 
-Stephen Castles and Alastair Davidson (eds) Citizenship and Migration: Globalization and the Politics of Belonging (Routledge, 2000), $22.99.
+Stephen Castles and Alastair Davidson (eds) Citizenship and Migration: Globalization and the Politics of Belonging (Routledge, 2000), \$22.99.
 
-Martha Cottam and Richard Cottam, Nationalism and Politics: The Political Behavior of Nation States (Lynne Rienner Publishers, 2000), $59.95.
+Martha Cottam and Richard Cottam, Nationalism and Politics: The Political Behavior of Nation States (Lynne Rienner Publishers, 2000), \$59.95.
 
-Markus Crepaz, Thomas A. Koeble and David Wilsford (eds), Democracy and Institutions: The Life Work of Arend Lijphart (U Michigan Press, 2000), $49.50.
+Markus Crepaz, Thomas A. Koeble and David Wilsford (eds), Democracy and Institutions: The Life Work of Arend Lijphart (U Michigan Press, 2000), \$49.50.
 
-Hastings Donnan and Thomas Wilson, Borders: Frontiers of Identity, Nation and State (Berg, 2000), $19.50.
+Hastings Donnan and Thomas Wilson, Borders: Frontiers of Identity, Nation and State (Berg, 2000), \$19.50.
 
-Richard A. Falk, Human Rights Horizons: The Pursuit of Justice in a Globalizing World (Routledge, 2000), $19.95.
+Richard A. Falk, Human Rights Horizons: The Pursuit of Justice in a Globalizing World (Routledge, 2000), \$19.95.
 
-Steve Fenton, Ethnicity: Racism, Class, and Culture (Rowman & Littlefield, 1999), $29.95.
+Steve Fenton, Ethnicity: Racism, Class, and Culture (Rowman & Littlefield, 1999), \$29.95.
 
-Ann Florini (ed) The Third Force: The Rise of Transnational Civil Society (Carnegie Endowment for International Peace, 2000), $19.95.
+Ann Florini (ed) The Third Force: The Rise of Transnational Civil Society (Carnegie Endowment for International Peace, 2000), \$19.95.
 
-Thomas Franck, The Empowered Self: Law and Society in the Age of Individualism (Oxford UP, 2000), $45.00.
+Thomas Franck, The Empowered Self: Law and Society in the Age of Individualism (Oxford UP, 2000), \$45.00.
 
-Stephen E. Frantzich, Citizen Democracy: Political Activists in a Cynical Age (Rowman & Littlefield, 1999), $18.95.
+Stephen E. Frantzich, Citizen Democracy: Political Activists in a Cynical Age (Rowman & Littlefield, 1999), \$18.95.
 
-Robert Fullinwider (ed) Civil Society, Democracy and Civic Renewal (Rowman & Littlefield, 1999), $29.95.
+Robert Fullinwider (ed) Civil Society, Democracy and Civic Renewal (Rowman & Littlefield, 1999), \$29.95.
 
-Jorge Garcia and Pable de Grieff (eds) Hispanics/Latinos in the United States: Ethnicity, Race, and Rights (Routledge, 2000), $22.99.
+Jorge Garcia and Pable de Grieff (eds) Hispanics/Latinos in the United States: Ethnicity, Race, and Rights (Routledge, 2000), \$22.99.
 
-Paul Gilbert, Peoples, Cultures, and Nations in Political Philosophy (Georgetown UP, 2000), $19.95.
+Paul Gilbert, Peoples, Cultures, and Nations in Political Philosophy (Georgetown UP, 2000), \$19.95.
 
-Kjell Goldmann, Ulf Hannerz, and Charles Westin (eds) Nationalism and Internationalism in the Post-Cold-war Era (Routledge, 2000), $29.99.
+Kjell Goldmann, Ulf Hannerz, and Charles Westin (eds) Nationalism and Internationalism in the Post-Cold-war Era (Routledge, 2000), \$29.99.
 
-John Gray, Two Faces of Liberalism (New Press 2000), $20.00.
+John Gray, Two Faces of Liberalism (New Press 2000), \$20.00.
 
-Judith M. Green, Deep Democracy: Community, Diversity, and Transformation (Rowman & Littlefield, 1999), $17.95.
+Judith M. Green, Deep Democracy: Community, Diversity, and Transformation (Rowman & Littlefield, 1999), \$17.95.
 
-Ernst Haas and Peter J. Katzenstein (eds) Nationalism, Liberalism, and Progress, Volume2: The Dismal Fate of New Nations (Cornell UP, 2000), $45.00.
+Ernst Haas and Peter J. Katzenstein (eds) Nationalism, Liberalism, and Progress, Volume2: The Dismal Fate of New Nations (Cornell UP, 2000), \$45.00.
 
-Ghassan Hage, White Nation: Fantasies of White Supremacy in a Multicultural Society (Routledge, 2000), $24.00.
+Ghassan Hage, White Nation: Fantasies of White Supremacy in a Multicultural Society (Routledge, 2000), \$24.00.
 
-Jason D. Hill, Becoming a Cosmopolitan: What It Means to be a Human Being in the New Millenium (Rowman & Littlefield, 2000), $19.96.
+Jason D. Hill, Becoming a Cosmopolitan: What It Means to be a Human Being in the New Millenium (Rowman & Littlefield, 2000), \$19.96.
 
-Barry Holden (ed) Global Democracy: Key Debates (Routledge, 2000), $29.99.
+Barry Holden (ed) Global Democracy: Key Debates (Routledge, 2000), \$29.99.
 
-Douglas R. Holmes, Integral Europe: Fast-Capitalism, Multiculturalism, Neofascism (Princeton UP, 2000), $14.36.
+Douglas R. Holmes, Integral Europe: Fast-Capitalism, Multiculturalism, Neofascism (Princeton UP, 2000), \$14.36.
 
-John Hutchinson and Anthony Smith, Nationalism: Critical Concepts in Political Science (5 volumes) (Routledge, 2000), $815.00.
+John Hutchinson and Anthony Smith, Nationalism: Critical Concepts in Political Science (5 volumes) (Routledge, 2000), \$815.00.
 
-Michael Ignatieff, The Rights Revolution (Anansi, 2000). $21.00
+Michael Ignatieff, The Rights Revolution (Anansi, 2000). \$21.00
 
-Engin Isin (ed) Democracy, Citizenship and the Global City (Routledge, 2000), $29.99.
+Engin Isin (ed) Democracy, Citizenship and the Global City (Routledge, 2000), \$29.99.
 
-Richard Keiser and Katherine Underwood (eds) Minority Politics at the Millennium (Garland, 1999), $65.00.
+Richard Keiser and Katherine Underwood (eds) Minority Politics at the Millennium (Garland, 1999), \$65.00.
 
-Peter Kivisto and Georgeanne Rundblad (eds) Multiculturalism in the United States: Current Issues, Contemporary Voices (Pine Forge Press, 2000), $39.95.
+Peter Kivisto and Georgeanne Rundblad (eds) Multiculturalism in the United States: Current Issues, Contemporary Voices (Pine Forge Press, 2000), \$39.95.
 
-Rey Koslowski, Migrants and Citizens: Demographic Change in the European State System (Cornell UP, 2000), $39.95.
+Rey Koslowski, Migrants and Citizens: Demographic Change in the European State System (Cornell UP, 2000), \$39.95.
 
-Rob Kroes, Them and Us: Questions of Citizenship in a Globalizing World (University of Illinois Press, 2000), $18.95.
+Rob Kroes, Them and Us: Questions of Citizenship in a Globalizing World (University of Illinois Press, 2000), \$18.95.
 
-Edward W. Lehman (ed) Autonomy and Order: A Communitarian Anthology (Rowman & Littlefield, 2000), $27.95.
+Edward W. Lehman (ed) Autonomy and Order: A Communitarian Anthology (Rowman & Littlefield, 2000), \$27.95.
 
-Michael Leifer (ed) Asian Nationalism (Routledge 2000), $29.99.
+Michael Leifer (ed) Asian Nationalism (Routledge 2000), \$29.99.
 
-Jacob Levy, The Multiculturalism of Fear (Oxford UP, 2000), $29.95.
+Jacob Levy, The Multiculturalism of Fear (Oxford UP, 2000), \$29.95.
 
-Neil MacCormick, Questioning Sovereignty: Law, State and Nation in the European Commonwealth (Oxford UP, 2000), $72.00.
+Neil MacCormick, Questioning Sovereignty: Law, State and Nation in the European Commonwealth (Oxford UP, 2000), \$72.00.
 
-Gary Madison, Paul Fairfield, and Ingrid Harris, Is There a Canadian Philosophy? Reflections on the Canadian Identity (University of Ottawa Press, 2000), $28.00.
+Gary Madison, Paul Fairfield, and Ingrid Harris, Is There a Canadian Philosophy? Reflections on the Canadian Identity (University of Ottawa Press, 2000), \$28.00.
 
-Clare Mar-Molinero, The Politics of Language in the Spanish-Speaking World (Routledge, 2000), $30.99.
+Clare Mar-Molinero, The Politics of Language in the Spanish-Speaking World (Routledge, 2000), \$30.99.
 
-Catriona McKinnon and Iain Hampsher-Monk (eds) The Demands of Citizenship (Continuum, 2000) $27.95.
+Catriona McKinnon and Iain Hampsher-Monk (eds) The Demands of Citizenship (Continuum, 2000) \$27.95.
 
-Tamar Meyer (ed) Gender Ironies of Nationalism: Sexing the Nation (Routledge, 1999), $27.99.
+Tamar Meyer (ed) Gender Ironies of Nationalism: Sexing the Nation (Routledge, 1999), \$27.99.
 
-Alexander Motyl (ed) Encyclopedia of Nationalism (Academic Press, 2000), $350.00.
+Alexander Motyl (ed) Encyclopedia of Nationalism (Academic Press, 2000), \$350.00.
 
-Marina Ottaway and Thomas Carothers (eds) Funding Virtue: Civil Society Aid and Democracy Promotion (Carnegie Endowment for International Peace, 2000), $21.95.
+Marina Ottaway and Thomas Carothers (eds) Funding Virtue: Civil Society Aid and Democracy Promotion (Carnegie Endowment for International Peace, 2000), \$21.95.
 
-Bhikhu Parekh, Rethinking Multiculturalism: Cultural Diversity and Political Theory (Harvard University Press, 2000), $35.00.
+Bhikhu Parekh, Rethinking Multiculturalism: Cultural Diversity and Political Theory (Harvard University Press, 2000), \$35.00.
 
-Susan Pharr and Robert Putnam (eds) Disaffected Democracies: What's Troubling The Trilateral Countries? (Princeton UP, 2000), $15.96.
+Susan Pharr and Robert Putnam (eds) Disaffected Democracies: What's Troubling The Trilateral Countries? (Princeton UP, 2000), \$15.96.
 
-Adamantia Pollis and Peter Schwab (eds) Human Rights: New Perspectives, New Realities (Lynne Rienner, 2000), $55.00.
+Adamantia Pollis and Peter Schwab (eds) Human Rights: New Perspectives, New Realities (Lynne Rienner, 2000), \$55.00.
 
-Sita Ranchod-Nilsson and Mary Ann Tetreault, Women, States, and Nationalism: At Home in the Nation? (Routledge 2000), $27.99.
+Sita Ranchod-Nilsson and Mary Ann Tetreault, Women, States, and Nationalism: At Home in the Nation? (Routledge 2000), \$27.99.
 
-David A. J. Richards, Identity and the Case for Gay Rights: Race, Gender and Religion as Analogies (Chicago UP, 1999), $11.20.
+David A. J. Richards, Identity and the Case for Gay Rights: Race, Gender and Religion as Analogies (Chicago UP, 1999), \$11.20.
 
-Robert Rotberg and Dennis Thompson (eds) Truth vs. Justice: The Morality of Truth Commissions (Princeton UP, 2000), $15.16.
+Robert Rotberg and Dennis Thompson (eds) Truth vs. Justice: The Morality of Truth Commissions (Princeton UP, 2000), \$15.16.
 
-John Carlos Rowe (ed) Post-nationalist American Studies (University of California Press, 2000), $17.95.
+John Carlos Rowe (ed) Post-nationalist American Studies (University of California Press, 2000), \$17.95.
 
-Daniel Russell, A People's Dream: Aboriginal Self-Government in Canada (UBC Press 2000), $85.00.
+Daniel Russell, A People's Dream: Aboriginal Self-Government in Canada (UBC Press 2000), \$85.00.
 
-Ronald Schmidt, Sr., Language Policy and Identity Politics in the United States (Temple University Press, 2000), $17.56.
+Ronald Schmidt, Sr., Language Policy and Identity Politics in the United States (Temple University Press, 2000), \$17.56.
 
-Philippe C. Schmitter, How to Democratize the European Union... and Why Bother? (Rowman & Littlefield, 2000), $17.95.
+Philippe C. Schmitter, How to Democratize the European Union... and Why Bother? (Rowman & Littlefield, 2000), \$17.95.
 
-Ian Shapiro and Stephen Macedo (eds) Designing Democratic Institutions: Nomos 42 (New York University Press, 2000), $50.00.
+Ian Shapiro and Stephen Macedo (eds) Designing Democratic Institutions: Nomos 42 (New York University Press, 2000), \$50.00.
 
-Chris Shore, Building Europe: The Cultural Politics of European Integration (Routledge, 2000), $25.99
+Chris Shore, Building Europe: The Cultural Politics of European Integration (Routledge, 2000), \$25.99
 
-Birte Siim, Gender and Citizenship: Politics and Agency in France, Britain, and Denmark (Cambridge University Press, 2000), $22.95.
+Birte Siim, Gender and Citizenship: Politics and Agency in France, Britain, and Denmark (Cambridge University Press, 2000), \$22.95.
 
-Jonathan Stein (ed) The Politics of National Minority Participation in Post-Communist Europe: State-Building, Democracy and Ethnic Mobilization (M.E. Sharpe, 2000), $76.95.
+Jonathan Stein (ed) The Politics of National Minority Participation in Post-Communist Europe: State-Building, Democracy and Ethnic Mobilization (M.E. Sharpe, 2000), \$76.95.
 
-Stephen Tierney (ed) Accommodating National Identity: New Approaches in International and Domestic Law (Kluwer Law International, 2000), $115.00.
+Stephen Tierney (ed) Accommodating National Identity: New Approaches in International and Domestic Law (Kluwer Law International, 2000), \$115.00.
 
-Andrew Vandenberg (ed) Citizenship and Democracy in a Global Era (St. Martin's Press, 2000), $19.95.
+Andrew Vandenberg (ed) Citizenship and Democracy in a Global Era (St. Martin's Press, 2000), \$19.95.
 
-David Whittaker, Conflict and Reconciliation in the Contemporary World (Routledge, 1999), $15.99.
+David Whittaker, Conflict and Reconciliation in the Contemporary World (Routledge, 1999), \$15.99.
 
-Iris Marion Young, Inclusion and Democracy (Oxford UP, 2000), $29.95.
+Iris Marion Young, Inclusion and Democracy (Oxford UP, 2000), \$29.95.
 
 Journal symposia and special issues
 
@@ -216,13 +216,13 @@ One final publication worth noting is The Future of Multi-Ethnic Britain, the re
 
 A related publication is Jan Niessen, Diversity and Cohesion: New Challenges for the Integration of Immigrants and Minorities (Council of Europe, 2000). This report is intended to provide guidelines for the Council of Europe's work on immigrant and minority integration, and to assist the Council's member states to design and implement diversity and cohesion policies. It can be ordered in English or in French from Maria Ochoa-Llido at the Council of Europe. E-mail: Maria.Ochoa-Llido@coe.int
 
-#### 4\. NEW JOURNAL AND BOOK SERIES:
+#### 4\. NEW JOURNAL AND BOOK SERIES
 
 The International Journal of Politics and Ethics (IJPE) is a new journal published on behalf of the Center for International Politics and Ethics at New England College. IJPE is intended as a forum for diverse interests and attitudes in all matters relating to politics and ethics, including their possible intersections. The journal is designed to encourage the exploration of matters of theory as well as broad issues arising from empirical contexts and the practical application of theory. Within the purview of IJPE are comparative and international politics; political philosophy and ethical theory; intellectual, legal and political history; and interdisciplinary material that discusses substantive social, political, and ethical problems of public concern. The first issue of IJPE is scheduled for publication in March 2001\. The editors invite contributions from scholars working in any discipline engaged in research that examines politics and ethics. For more information, contact J.P. Hayden, Associate Editor, e-mail: phayden@bill.nec.edu or Wayne Lesperance, Associate Editor, e-mail: wlesperance@bill.nec.edu
 
 Temple University Press is launching a new book series called "Politics, History, and Social Change". The series will focus on a range of issues including immigration and citizenship, international migration patterns, refugees and international law, the history of prospects of human rights, genocide and human rights abuses, history and memory, past injustices and reparations, the nation-state in historical perspective, globalization and the future of the nation-state, national identity and democracy, histories of socialism and internationalism, decolonization and the legacy of imperialism, race and global inequality, critical theories of social change. To discuss proposals, contact the series editor, John Torpey, Department of Sociology and the Institute for European Studies, University of British Columbia, 6303 NW Marine Drive, Vancouver BC, V6T 1Z1, Canada; tel: 604-822-4837; fax: 604-822-6161; e-mail: torpey@interchange.ubc.ca or contact Micah Kleit, Temple University Press, e-mail: Kleit@mail.temple.edu
 
-#### 5\. Internet Resources:
+#### 5\. Internet Resources
 
 The Institute of Intergovernmental Relations at Queen's University (IIGR) has developed an extensive new on-line bibliography on federalism. The bibliography includes material on a wide range of countries, including Australia, Austria, Belgium, Britain, Canada, Czech and Slovak Republics, Germany, India, Malaysia, Nigeria, South Africa, Spain, Switzerland and the United States. The bibliography also includes entries covering the European Union, the Middle East, the former Soviet Union and the former Yugoslavia. Visit: <http://qsilver.queensu.ca/iigr/>
 
