@@ -44,7 +44,7 @@ export default function Bio() {
             },
             a: {
               component: RLink,
-              props: { target: "_blank" }
+              props: { target: "_blank", rel:"noopener" }
             }
           }
         }}

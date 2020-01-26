@@ -51,7 +51,7 @@ export default function Home() {
       },
       a: {
         component: RLink,
-        props: { target: "_blank"}
+        props: { target: "_blank", rel: "noopener"}
       }
     }
   };
