@@ -12,4 +12,4 @@ He is married to the author [Sue Donaldson](http://www.writersunion.ca/member/su
 
 Some of Will's recent and forthcoming papers are available on [<i class="ai ai-academia" />cademia.edu](http://queensu.academia.edu/WillKymlicka/).
 
-In his spare time, Will is a distance runner, most recently running the [2019 PEC County Marathon](http://thecountymarathon.ca/).
+In his spare time, Will is a distance runner, most recently running the 2019 PEC County Marathon.
