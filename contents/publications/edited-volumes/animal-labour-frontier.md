@@ -1,8 +1,6 @@
 # Animal Labour: A New Frontier of Interspecies Justice? 
 
-## Edited by Charlotte E. Blattner, Kendra Coulter, and Will Kymlicka
-
-[OUP, 2020](https://global.oup.com/academic/product/animal-labour-9780198846192?lang=en&cc=nl#)
+## Edited by Charlotte E. Blattner, Kendra Coulter, and Will Kymlicka, [OUP, 2020](https://global.oup.com/academic/product/animal-labour-9780198846192?lang=en&cc=nl#)
 
 ---
  
