@@ -20,14 +20,10 @@ export default function Home() {
         <picture>
           <source
             srcSet={ImgURL + i + ".webp"}
-            loading="lazy"
-            width="301"
             type="image/webp"
           />
           <source
             srcSet={ImgURL + i + ".png"}
-            loading="lazy"
-            width="301"
             type="image/jpeg"
           />
           <img
