@@ -2,11 +2,7 @@ import React from "react";
 import getFile from "../components/shared/getFile";
 import { RLink } from "../components/shared/RLink";
 import Markdown from "markdown-to-jsx";
-import {
-  Container,
-  Row,
-  Col
-} from "react-bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
 import { useParams, useLocation } from "react-router-dom";
 import { BookCover } from "../components/Publications/BookCover";
 import { BreadCrumbs } from "../components/shared/BreadCrumbs";
@@ -112,7 +108,7 @@ export default function Pub() {
       <Row className="sticky-top bg-white" style={{ top: "45px", zIndex: 10 }}>
         <BCS />
       </Row>
-      <Row className="pt-5">
+      <Row>
         <Col>
           <Cover />
           <Markdown options={opts}>{"" + (a ? a : "")}</Markdown>

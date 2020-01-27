@@ -10,7 +10,8 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+.display-1 {
   display: block;
   width: 100%;
   font-family: "Playfair Display", sans-serif;
@@ -130,7 +131,7 @@ blockquote p {
   border-bottom: 3px solid darkgoldenrod;
 }
 
-#page-top h1 {
+#page-top h1, .display-1 {
   margin-top: 0;
   margin-bottom: 0;
   padding-bottom: 0;
