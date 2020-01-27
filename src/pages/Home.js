@@ -8,7 +8,8 @@ const home = process.env.PUBLIC_URL + "/contents/home.md";
 const filelist =
   process.env.PUBLIC_URL +
   "/contents/images/books/zoopolis-carousel/FileList.txt";
-const ImgURL = process.env.PUBLIC_URL + "/contents/images/books/zoopolis-carousel/zoopolis-";
+const ImgURL =
+  process.env.PUBLIC_URL + "/contents/images/books/zoopolis-carousel/zoopolis-";
 export default function Home() {
   let c = getFile(home);
   let FileList = getFile(filelist);
@@ -16,11 +17,7 @@ export default function Home() {
   for (let i = 1; i <= FileList; i++) {
     CarItems[i] = (
       <Carousel.Item key={i}>
-        <picture
-          alt="Book Cover"
-          width="301"
-          className="shadow-lg mb-5 bg-white"
-        >
+        <picture>
           <source
             srcSet={ImgURL + i + ".webp"}
             loading="lazy"
@@ -51,7 +48,7 @@ export default function Home() {
       },
       a: {
         component: RLink,
-        props: { target: "_blank", rel: "noopener noreferrer"}
+        props: { target: "_blank", rel: "noopener noreferrer" }
       }
     }
   };

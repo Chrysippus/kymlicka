@@ -2,8 +2,8 @@ import React from "react";
 import { Image } from "react-bootstrap";
 export const BookCover = props => (
   <picture onError={i => (i.target.style.display = "none")}>
-    <source width="301" loading="lazy" srcSet={props.ImgURL + ".webp"} type="image/webp" />
-    <source width="301" loading="lazy" srcSet={props.ImgURL + ".jpg"} type="image/jpeg" />
+    <source srcSet={props.ImgURL + ".webp"} type="image/webp" />
+    <source srcSet={props.ImgURL + ".jpg"} type="image/jpeg" />
     <Image
       loading="lazy"
       src={props.ImgURL + ".jpg"}
