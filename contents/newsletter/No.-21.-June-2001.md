@@ -153,7 +153,7 @@ The Nationalism Project at the University of Wisconsin-Madison is a resource int
 
 "Citizenship Central" is a clearinghouse for citizenship education affiliated with the National Council for the Social Studies. <http://www.ncss.org/citizenship/home.shtml>
 
-The American Society for Political and Legal Philosophy has moved and updated its website. The new site includes some of the papers from the 45th Annual meeting of the ASPLP in San Francisco California, (January 2-3, 2001), which focused on theories of self-determination: <http://www.political.theory.org>
+The American Society for Political and Legal Philosophy has moved and updated its website. The new site includes some of the papers from the 45th Annual meeting of the ASPLP in San Francisco California, (January 2-3, 2001), which focused on theories of self-determination: <http://www.political-theory.org>
 
 The papers and proceedings of the panel on "Cultural Diversity and Social Cohesion" of the 2000 National Policy Research Conference (November 2000) can be found at the following web site: <http://theworld.ca>
 
