@@ -19,7 +19,7 @@
 - "Entrevista a Will Kymlicka" _Mugak_ (San Sebastian), #44 (Sept. 2008), pp. 28-33\. [in [Spanish](/publications/translated/spanish)]
 - "Multiculturalism in Theory and Practice" _Rerum Causae_, Vol. 1/3 (2008), pp. 62-70.
 - ["Will Kymlicka on Minority Rights" a _Philosophy Bites_ audio interview with Nigel Warburton, (posted June 2008)](http://nigelwarburton.typepad.com/philosophy_bites/2008/06/will-kymlicka-o.html).
-- ["Four Questions for Will Kymlicka" _Cogito_ (Athens), issue #8 (July 2008), pp. 13-15](http://www.nnet.gr/cogitoENfiles/cogito08-kymlicka.htm), (in [Greek](/publications/translated/greek)).
+- ["Four Questions for Will Kymlicka" _Cogito_ (Athens), issue #8 (July 2008), pp. 13-15](https://www.eurozine.com/multiculturalism-and-liberal-democracy-2/), (in [Greek](/publications/translated/greek)).
 - "Intervju: Will Kymlicka" _Odijek_ (Sarajevo), Ljejto 2002, pp. 56-63\. [in [Bosnian](/publications/translated/bosnian)]
 - "Gringos, pachucos y latinos: una entrevista con Will Kymlicka por Abelardo Sánchez León" _Quehacer_ #138 (Sept. 2002), Lima. pp. 71-77\. [in [Spanish](/publications/translated/spanish)]
 - "Entrevista: Will Kymlicka" _La Gaceta de los Negocios_ (Madrid), Sabado, April 20th, 2002, pp. 60-61\. [in [Spanish](/publications/translated/spanish)]

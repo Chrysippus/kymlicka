@@ -8,4 +8,4 @@
 - _"Liberalism and Ethnic Diversity"_ (Chapter 1 of Multicultural Citizenship) translated into Persian in _Goftegu Journal_, No. 43, Mehr 1384 [October 2005], pp. 65-76.
 - _"Two Models of Pluralism and Tolerance"_ translated into Persian in _Toleration_ (Pazhukeshkadaye Motaleate Rahbordi. Tehran, 2004), pp. 101-139.
 - _"Communitarianism"_ (chapter 6 of Contemporary Political Philosophy) translated into Persian in _Ghabasat Journal_, No. 5, Spring 1377 [1998], translated by Fahad Moshtaghefat.
-- _"Minority Rights"_ translated into Persian in _NNS Roj_ <http://www.nnsroj.com/fa/detiles.aspx?id=100811>.
+- _"Minority Rights"_ translated into Persian in _NNS Roj_ <http://www.nnsroj.net/fa/detiles.aspx?id=100811>.

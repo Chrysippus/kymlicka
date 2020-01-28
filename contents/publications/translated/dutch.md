@@ -1,7 +1,7 @@
 # Dutch
 
 - **Finding Our Way** translated into Dutch by _VUB Press_ (Brussels, forthcoming).
-- _"Waarom huisdieren onze medeburgers moeten worden"_, _Filosofie_ (Netherlands), May 2017\. [here](https://www.filosofie.nl/nl/artikel/47602/waarom-huisdieren-onze-medeburgers-moeten-worden.html/).
+- _"Waarom huisdieren onze medeburgers moeten worden"_, _Filosofie_ (Netherlands), May 2017\. [here](https://www.filosofie.nl/nl/artikel/47602/waarom-huisdieren-onze-medeburgers-moeten-worden.html).
 - _"Eén met de dieren"_, _De Volkskrant_, November 18, 2016, pp. 47-49.
 - _"Filosoof en Eredoctor Will Kymlicka: Dierproven: de verboden vrucht?"_, _Campuskrant_, 19 November 2014, p. 6\. (Interview in KU Leuven official newspaper, in Flemish).
 - _"Eredoctoraat Voor Will Kymlicka: West-Europeanen zien migranten te veel als bedreiging"_, _Veto_ 41/10, November 10, 2014, p. 13 (interview in KU Leuven student newspaper, in Flemish).
