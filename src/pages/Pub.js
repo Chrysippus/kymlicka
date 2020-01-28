@@ -56,6 +56,10 @@ export default function Pub() {
   if (ImgURL.includes("undefined") || ImgURL.split("/")[6].length < 1) {
     Cover = () => <></>;
   }
+  location.pathname =
+    location.pathname[location.pathname.length - 1] === "/"
+      ? location.pathname.substr(0, location.pathname.length - 1)
+      : location.pathname;
   let { BCLevel2, BCLevel3, BCLevel4 } = BreadCrumbs(params, location, title);
   const BCS = getBCS(location, BCLevel2, BCLevel3, BCLevel4);
   let locPath = location.pathname.split(/[/\\-]/);
@@ -76,22 +80,26 @@ export default function Pub() {
           locPath[2] ? locPath[2].toUpperCase()[0] + locPath[2].substr(1) : "",
           locPath[3] ? locPath[3].toUpperCase()[0] + locPath[3].substr(1) : ""
         ];
+
+  let helmTitle = (
+    <title>
+      {title + " - "}
+      {locPath[3] && !title.includes(locPath[3].substr(0, 3))
+        ? locPath[3] + " - "
+        : ""}
+      {locPath[2] && !title.includes(locPath[2].substr(0, 3))
+        ? locPath[2] + " - "
+        : ""}
+      {locPath[1] && !title.includes(locPath[1].substr(0, 3))
+        ? locPath[1] + " - "
+        : ""}
+      Will Kymlicka
+    </title>
+  );
   return (
     <Container>
       <Helmet>
-        <title>
-          {title + " - "}
-          {locPath[3] && !title.includes(locPath[3].substr(0, 3))
-            ? locPath[3] + " - "
-            : ""}
-          {locPath[2] && !title.includes(locPath[2].substr(0, 3))
-            ? locPath[2] + " - "
-            : ""}
-          {locPath[1] && !title.includes(locPath[1].substr(0, 3))
-            ? locPath[1] + " - "
-            : ""}
-          Will Kymlicka
-        </title>
+        {helmTitle}
         <meta
           name="description"
           content="Listings and detailed content of Will Kymlicka's publications. 
