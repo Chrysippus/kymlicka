@@ -35,12 +35,6 @@ export default function Pub() {
       h2: {
         props: { className: "small" }
       },
-      // BCS: {
-      //   component: Breadcrumb
-      // },
-      // bc: {
-      //   component: BreadcrumbItem
-      // },
       tr: {
         props: { className: "w-100" }
       },

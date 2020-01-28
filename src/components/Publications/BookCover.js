@@ -7,7 +7,7 @@ export const BookCover = props => (
     <Image
       loading="lazy"
       src={props.ImgURL + ".jpg"}
-      className="shadow-lg bg-white float-left mr-4"
+      className="shadow-lg bg-white float-left mr-4 mt-3"
       style={{ width: "301px" }}
       width="301"
       alt={props.id + ": cover"}

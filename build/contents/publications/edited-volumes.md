@@ -2,6 +2,7 @@
 
 ---
 
+- [Animal Labour: A New Frontier of Interspecies Justice?](/publications/edited-volumes\animal-labour-frontier)
 - [Gender Parity and Multicultural Feminism: Towards a New Synthesis](/publications/edited-volumes\gender-parity)
 - [Federalism and the Welfare State in a Multicultural World](/publications/edited-volumes\federalism-welfare-state)
 - [The Strains of Commitment: The Political Sources of Solidarity in Diverse Societies](/publications/edited-volumes\strains-of-commitment)
