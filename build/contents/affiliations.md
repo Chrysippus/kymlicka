@@ -37,7 +37,7 @@
 
 - Editorial Board, [_Ethnicities_](http://intl-etn.sagepub.com/)
 - Editorial Board, [_Politics and Animals_](http://politicsandanimals.org/)
-- Advisory Board, [_International Political Theory_](http://international-political-theory.net/ipt-articles.htm)
+- Advisory Board, [_International Political Theory_](#editorial-boards)
 - Editorial Board, [OMNES: Journal of Multicultural Studies (Korea)](http://www.omnesjournal.org)
 - international advisory board of ["Studies in International Minority and Group Rights" Book Series (Brill Publishers)](http://www.brill.nl/publications/studies-international-minority-and-group-rights)
 - International Advisory Board, "Filosofia, politica e potere [Philosophy, Politics and Power]" book series, Casa editrice Le Lettere (Florence, Italy)

@@ -20,7 +20,7 @@
 - Advisory Council, [European Centre for Minority Issues](http://www.ecmi.de/)
 - Expert Advisory Panel for the [Club of Madrid's Shared Societies Project](http://www.clubmadrid.org/programa/shared-societies-project/)
 - International Advisory Board, [Netherlands Research School for Practical Philosophy](http://www.ozse.nl/index.php?lang=en)
-- Canadian Commission for [UNESCO](http://www.unesco.ca/english/home.htm)
+- Canadian Commission for [UNESCO](https://en.ccunesco.ca/)
 - International Advisory Board, [Ethnocultural Diversity Resource Center (Cluj, Romania)](http://www.edrc.ro)
 - Editorial Board, [Ethikon Series in Comparative Ethics, Ethikon Institute (Los Angeles)](http://www.ethikon.org/books.htm)
 - Executive Committee, Institute of Intergovernmental Relations, Queen's University
