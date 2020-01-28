@@ -24,7 +24,7 @@
 - International Advisory Board, [Ethnocultural Diversity Resource Center (Cluj, Romania)](http://www.edrc.ro)
 - Editorial Board, [Ethikon Series in Comparative Ethics, Ethikon Institute (Los Angeles)](http://www.ethikon.org/books.htm)
 - Executive Committee, Institute of Intergovernmental Relations, Queen's University
-- Scientific Advisory Board of CEDIME: Center for Documentation and Information on Minorities in Europe [~~http://www.greekhelsinki.gr/english/organizations/cedime.html~~ [link inactive]](#advisory-boards)
+- Scientific Advisory Board of CEDIME: Center for Documentation and Information on Minorities in Europe
 - Advisory Group, Focus on Citizenship and Democracy, Canadian Education Association (2005-6)
 - Advisory Group, Migrants in Society: Diversity and Cohesion Project, Global Commission on International Migration (2004-5)
 - Advisory Panel of Eminent Experts, Human Development Report 2004, United Nations (2003-4).
