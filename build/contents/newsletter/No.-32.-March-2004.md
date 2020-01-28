@@ -196,7 +196,7 @@ Submissions are invited for a special issue of the journal Patterns of Prejudice
 
 #### 5\. Internet Resources
 
-A new guide to the Framework Convention for the Protection of National Minorities is posted on the website of the Southeastern Europe division of the Center for Documentation and Information on Minorities in Europe (CEDIME-SE). The guide is an extensive database including country reports and implementation histories for Council of Europe members. [~~http://www.greekhelsinki.gr/bhr/english/special_issues/fcnm_guide.html [inactive]~~](#5-internet-resources)
+A new guide to the Framework Convention for the Protection of National Minorities is posted on the website of the Southeastern Europe division of the Center for Documentation and Information on Minorities in Europe (CEDIME-SE). The guide is an extensive database including country reports and implementation histories for Council of Europe members. [~~http://www.greekhelsinki.gr/bhr/english/special_issues/fcnm_guide.html~~ [inactive]](#5-internet-resources)
 
 DiversityCentral.com is a business-oriented website aimed at managing diversity in the workplace and developing "cultural intelligence" in business relationships. This comprehensive website includes numerous resources to assist businesspersons and leaders of large organizations in managing issues associated with cultural diversity. Among other resources, the website makes available a "diversity store" where educational products dealing with diversity can be purchased, and a listing of "diversity events" relevant to diversity education in the workplace. <http://www.diversityhotwire.com/index.php>
 

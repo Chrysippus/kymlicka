@@ -11,7 +11,7 @@ Will Kymlicka's work has been translated into over 30 languages. Select a langua
 - [Chinese](/publications/translated/chinese)
 - [Croatian](/publications/translated/croatian)
 - [Czech](/publications/translated/czech)
-- [Dutch](/publications/translated/Dutch)
+- [Dutch](/publications/translated/dutch)
 - [Estonian](/publications/translated/estonian)
 - [French](/publications/translated/french)
 - [Georgian](/publications/translated/georgian)

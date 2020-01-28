@@ -1,6 +1,6 @@
 # Justice in Political Philosophy
 
-## Edited by Will Kymlicka, [Edward Elgar Publishing, 1992, 2vo., 1280 pp.](http://www.e-elgar.co.uk/Bookentry_Main.lasso?id=692) 
+## Edited by Will Kymlicka, [Edward Elgar Publishing, 1992, 2vo., 1280 pp.](https://www.e-elgar.com/shop/justice-in-political-philosophy?___website=uk_warehouse)
 
 ---
 
