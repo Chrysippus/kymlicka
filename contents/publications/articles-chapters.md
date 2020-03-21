@@ -4,12 +4,15 @@
 
 ## Forthcoming
 
-- "Beyond National Identity: Liberal Nationalism, Shared Membership and Solidarity", in _Liberal Nationalism and Its Critics: Normative and Empirical Questions_, eds. Gina Gustavsson and David Miller (Oxford University Press), forthcoming (co-authored by Keith Banting, Allison Harell, and Rebecca Wallace).
-- "Animal Labour in a Post-Work Society", in _Animal Labour: A New Frontier of Interspecies Justice?_, edited by Charlotte Blattner, Kendra Coulter & Will Kymlicka (Oxford University Press), forthcoming (co-authored with Sue Donaldson).
+- “The Precarious Resilience of Multiculturalism in Canada”, American Review of Canadian Studies Vol. 51/1, forthcoming (part of special issue on “A Country Apart? Canadian Exceptionalism in Immigration Politics and Policy”).
+- “Devolution and the Promotion (or Evasion) of Minority Rights” in Federalism and Decentralization in the Contemporary Middle East, eds. Omar Bachour and Asli Bali (Cambridge University Press), forthcoming.
 - "Citizenship, Communities and Identity in Canada", in James Bickerton and Alain Gagnon (eds) _Canadian Politics: Seventh Edition_, forthcoming.
 
 ## Published
 
+1. “Beyond National Identity: Liberal Nationalism, Shared Membership and Solidarity”, in Liberal Nationalism and Its Critics: Normative and Empirical Questions, eds. Gina Gustavsson and David Miller (Oxford University Press, 2020), 205-25 (co-authored by Keith Banting, Allison Harell, and Rebecca Wallace).
+1. “Animal Labour in a Post-Work Society”, in Animal Labour: A New Frontier of Interspecies Justice?, edited by Charlotte Blattner, Kendra Coulter & Will Kymlicka (Oxford University Press, 2019), (co-authored with Sue Donaldson), 207-228.
+1. “Introduction: Animal Labour and the Quest for Interspecies Justice”, in Animal Labour: A New Frontier of Interspecies Justice? (OUP, 2019), pp. 1-27 (coauthored with Charlotte Blattner, Kendra Coulter).
 1. "Deschooling Multiculturalism", _Ethnicities_, early view. 2019 (part of symposium on "The Bristol School of Multiculturalism")
 2. "Membership without Social Citizenship? Deservingness and Redistribution as Grounds for Equality", _Daedalus: Journal of the American Academy of Arts and Sciences_, 148/3 (2019): 73-104 (co-authored with Irene Bloemraad, Michèle Lamont, Leanne Son Hing).
 3. "The Participatory Turn in Gender Equality and its Relevance for Multicultural Feminism", in _Gender Parity and Multicultural Feminism: Towards a New Synthesis_, ed. Will Kymlicka and Ruth Rubio-Marin (Oxford University Press, 2018),pp. 1-45 (co-authored with Ruth Rubio-Marin).
