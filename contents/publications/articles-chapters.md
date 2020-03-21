@@ -4,8 +4,8 @@
 
 ## Forthcoming
 
-- “The Precarious Resilience of Multiculturalism in Canada”, American Review of Canadian Studies Vol. 51/1, forthcoming (part of special issue on “A Country Apart? Canadian Exceptionalism in Immigration Politics and Policy”).
-- “Devolution and the Promotion (or Evasion) of Minority Rights” in Federalism and Decentralization in the Contemporary Middle East, eds. Omar Bachour and Asli Bali (Cambridge University Press), forthcoming.
+- “The Precarious Resilience of Multiculturalism in Canada”, _American Review of Canadian Studies_ Vol. 51/1, forthcoming (part of special issue on “A Country Apart? Canadian Exceptionalism in Immigration Politics and Policy”).
+- “Devolution and the Promotion (or Evasion) of Minority Rights” in _Federalism and Decentralization in the Contemporary Middle East_,  eds. Omar Bachour and Asli Bali (Cambridge University Press), forthcoming.
 - "Citizenship, Communities and Identity in Canada", in James Bickerton and Alain Gagnon (eds) _Canadian Politics: Seventh Edition_, forthcoming.
 
 ## Published
