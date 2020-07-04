@@ -40,13 +40,13 @@ export default function Bio() {
         options={{
           overrides: {
             h1: {
-              props: { className: "text-left" }
+              props: { className: "text-left" },
             },
             a: {
               component: RLink,
-              props: { target: "_blank", rel:"noopener noreferrer" }
-            }
-          }
+              props: { target: "_blank", rel: "noopener noreferrer" },
+            },
+          },
         }}
       >
         {"" + (c ? c : "")}

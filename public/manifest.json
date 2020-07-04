@@ -3,18 +3,18 @@
   "name": "Will Kymlicka's Website",
   "icons": [
     {
-      "src": "logo.svg",
+      "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/svg"
+      "type": "image/ico"
     },
     {
-      "src": "logo.svg",
-      "type": "image/svg",
+      "src": "wk192.png",
+      "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo.svg",
-      "type": "image/svg",
+      "src": "wk512.png",
+      "type": "image/png",
       "sizes": "512x512"
     }
   ],

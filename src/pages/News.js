@@ -30,7 +30,6 @@ export default function Tra() {
     overrides: {
       a: {
         component: RLink,
-        props: { target: "_blank", rel: "noopener noreferrer" }
       }
     }
   };

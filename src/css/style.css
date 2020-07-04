@@ -1,0 +1,471 @@
+html {
+  font-size: 14px;
+  width: 100%;
+  overflow-x: hidden;
+  quotes: "\201C""\201C""\201C""\201C";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.display-1 {
+  display: block;
+  width: 100%;
+  font-family: "Playfair Display", sans-serif;
+}
+
+h2 {
+  display: block;
+  width: 100%;
+}
+
+h3 {
+  clear: inline-start;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1em;
+}
+
+p {
+  /* // text-align: justify; */
+  font-size: 1.1em;
+}
+
+.firstcharacter {
+  color: #336666;
+  float: left;
+  font-family: "Montserrat", sans-serif;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+a {
+  /* // font-family: "Playfair Display", sans-serif; */
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  /* // text-decoration: none; */
+}
+
+a:link {
+  color: #4a6024;
+}
+
+a:visited {
+  color: darkslategrey;
+}
+
+a:active {
+  color: goldenrod;
+}
+
+a:hover {
+  color: #333333;
+}
+
+/* Containers */
+
+.container-fluid {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+blockquote {
+  clear: inline-end;
+  margin: 1em;
+  display: grid;
+  font-family: "Roboto", sans-serif;
+  font-style: oblique;
+  /* // background-color: #cfd5c3; */
+  border-left: 2px solid #9a9871;
+  border-radius: 0.5em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-right: 1.5em;
+  padding-left: 1em;
+  text-indent: 2em;
+  quotes: "\201C""\201C""\201C""\201C";
+}
+
+blockquote:before {
+  content: open-quote;
+  font-size: 4em;
+  margin-top: 0.3em;
+  line-height: 0.1em;
+  margin-left: -0.5em;
+  padding-left: 0;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+  position: left top;
+}
+blockquote h2.small:before {
+  content: "\2014";
+  font-size: 1em;
+}
+blockquote h2.small {
+  font-style: normal;
+  text-indent: 2em;
+  color: #244444;
+}
+
+blockquote p {
+  margin-top: -1em;
+}
+
+#page-top {
+  text-align: center;
+  background: white;
+  border-bottom: 3px solid darkgoldenrod;
+}
+
+#page-top h1,
+.display-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  font-variant: small-caps;
+  display: inline-block;
+  text-align: center;
+  font-size: 10vw;
+  white-space: nowrap;
+  color: black;
+}
+
+/* Content Divisions*/
+
+#page-content {
+  padding-right: 22px;
+  padding-left: 22px;
+  margin-top: 1em;
+  margin-bottom: 0px;
+  background: #ffffff;
+}
+
+#page-bottom {
+  border-top: 2px solid #333333;
+  /* height: 20px; */
+  padding: 1em;
+  background: #333333;
+  padding-right: 10px;
+  text-align: right;
+  color: #ffffff;
+  font-size: 0.6em;
+}
+
+/*Misc*/
+
+.bg-darkblue {
+  background: darkslategray;
+}
+
+.navbar-light {
+  top: 0;
+  background: white;
+}
+
+.nav-link {
+  text-decoration: none;
+  font-variant: small-caps;
+  font-size: 1.2em;
+  font-size-adjust: inherit;
+  white-space: nowrap;
+}
+
+.dropdown-link {
+  text-decoration: none;
+}
+
+.dropdown-item {
+  text-decoration: none;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 1);
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(0, 0, 0, 1);
+}
+
+.navbar-dark .navbar-nav li.active {
+  color: rgba(255, 255, 255, 1);
+  padding-bottom: 0;
+  margin-bottom: 0;
+  border-bottom: 1px ridge white;
+}
+
+.navbar-light .navbar-nav li.active {
+  color: rgba(0, 0, 0, 1);
+  border-bottom: 1px ridge black;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #b14a39;
+}
+
+.nav-link:visited {
+  color: rgba(255, 255, 255, 1);
+}
+
+.fixed-top-2 {
+  margin-top: 56px;
+}
+
+a {
+  text-decoration: underline;
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+table {
+  display: block;
+  margin-left: 2em;
+  margin-bottom: 1em;
+}
+
+main {
+  min-height: 80vh;
+}
+
+main ol {
+  clear: left;
+  display: block;
+}
+
+main ul {
+  list-style: none;
+  display: block;
+  /* Remove default bullets */
+}
+
+main ul li::before {
+  content: "\2022";
+  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: darkred;
+  /* Change the color */
+  font-weight: bold;
+  /* If you want it to be bold */
+  display: inline-block;
+  /* Needed to add space between the bullet and the text */
+  width: 0.8em;
+  /* Also needed for space (tweak if needed) */
+  margin-left: -1em;
+  /* Also needed for space (tweak if needed) */
+}
+
+main ol li::before {
+  content: none;
+}
+
+main ul .toc {
+  list-style: none;
+}
+
+main ul ul {
+  text-indent: 1em;
+  margin-left: -2em;
+}
+
+main ul ul ul {
+  margin-left: 2em;
+}
+
+main ul ul li::before {
+  width: 1.6em;
+}
+
+main ul ul ul li::before {
+  width: 2.4em;
+}
+
+.page-item::before {
+  list-style: none;
+  content: none;
+}
+
+.page-item.active .page-link {
+  background-color: darkslategray;
+}
+.drop-cap:first-letter {
+  font-family: "Playfair Display", "sans-serif";
+  color: darkslategray;
+  font-size: 4.5em;
+  padding-right: 0.1em;
+  padding-top: 0;
+  float: left;
+  margin-top: 0.15em;
+}
+
+.drop-cap {
+  font-family: "Montserrat", "sans-serif";
+  line-height: 1.6em;
+}
+
+.line-spacing {
+  font-family: "Montserrat", "sans-serif";
+  line-height: 1.6em;
+}
+
+.fade-in {
+  visibility: visible;
+  opacity: 1;
+  transition: opacity 1s linear;
+}
+
+.fade-out {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s 1s, opacity 1s linear;
+}
+
+select {
+  font-family: "Playfair Display", "sans-serif";
+}
+
+.input-group .custom-select {
+  font-family: "Playfair Display", "sans-serif";
+}
+
+option {
+  /* padding-left: .5em; */
+  font-family: "Playfair Display";
+  background: white;
+  color: black;
+}
+
+.select-title {
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
+
+.playfair-display {
+  font-family: "Playfair Display", "sans-serif";
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+  color: white;
+  background-color: slategray;
+}
+
+dd {
+  display: block;
+  text-indent: 2em;
+}
+
+dt {
+  display: block;
+  padding-bottom: 0.5em;
+}
+
+.subtitle {
+  font-size: 1em;
+  font-style: oblique;
+  color: darkslategray;
+}
+
+.no-overflow {
+  white-space: -moz-pre-wrap;
+  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;
+  /* Opera 4-6 */
+  white-space: -o-pre-wrap;
+  /* Opera 7 */
+  white-space: pre-wrap;
+  /* CSS3 */
+  word-wrap: break-word;
+  /* Internet Explorer 5.5+ */
+  width: 100px;
+  max-width: 250px;
+}
+
+.anchor {
+  display: block;
+  position: relative;
+  top: -56px;
+  height: 0;
+  visibility: hidden;
+}
+
+.carousel-control-prev-icon {
+  background-image: none;
+  /* // background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%232f4f4f' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important; */
+}
+
+.carousel-control-next-icon {
+  background-image: none;
+  /* // background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%232f4f4f' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important; */
+}
+
+.carousel-indicators li {
+  height: 5px;
+  background-color: lightslategray;
+}
+
+.carousel-indicators .active {
+  height: 5px;
+  background-color: darkslategray;
+  box-shadow: outset 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+div.dropdown-menu div.dropdown > a {
+  font-variant: normal;
+  font-size: 1rem;
+  display: block;
+  width: 100%;
+  padding: 0.25rem 1.5rem;
+  clear: both;
+  font-weight: 400;
+  color: #212529;
+  text-align: inherit;
+  white-space: nowrap;
+  background-color: transparent;
+  border: 0;
+}
+div.dropdown div.dropdown.nav-item a.dropdown-toggle.nav-link {
+  display: block;
+  width: 100%;
+  padding: 0.25rem 1.5rem;
+  clear: both;
+  font-weight: 400;
+  color: #212529;
+  text-align: inherit;
+  white-space: nowrap;
+  background-color: transparent;
+  border: 0;
+}
+
+div.show.dropdown.nav-item
+  div.dropdown-menu.show
+  div.show.dropdown.nav-item
+  div.dropdown-menu.show {
+  overflow-y: scroll;
+  overflow-x: hidden;
+  min-width: 100%;
+  max-width: 100vw;
+  max-height: 20vh;
+}

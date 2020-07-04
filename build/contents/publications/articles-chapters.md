@@ -4,13 +4,17 @@
 
 ## Forthcoming
 
-- "Beyond National Identity: Liberal Nationalism, Shared Membership and Solidarity", in _Liberal Nationalism and Its Critics: Normative and Empirical Questions_, eds. Gina Gustavsson and David Miller (Oxford University Press), forthcoming (co-authored by Keith Banting, Allison Harell, and Rebecca Wallace).
-- "Animal Labour in a Post-Work Society", in _Animal Labour: A New Frontier of Interspecies Justice?_, edited by Charlotte Blattner, Kendra Coulter & Will Kymlicka (Oxford University Press), forthcoming (co-authored with Sue Donaldson).
+- “The Precarious Resilience of Multiculturalism in Canada”, _American Review of Canadian Studies_, Vol. 51/1, forthcoming (part of special issue on “A Country Apart? Canadian Exceptionalism in Immigration Politics and Policy”).
+- “Devolution and the Promotion (or Evasion) of Minority Rights” in _Federalism and Decentralization in the Contemporary Middle East_,  eds. Omar Bachour and Asli Bali (Cambridge University Press), forthcoming.
 - "Citizenship, Communities and Identity in Canada", in James Bickerton and Alain Gagnon (eds) _Canadian Politics: Seventh Edition_, forthcoming.
 
 ## Published
 
-1. "Deschooling Multiculturalism", _Ethnicities_, early view. 2019 (part of symposium on "The Bristol School of Multiculturalism")
+1. “Beyond National Identity: Liberal Nationalism, Shared Membership and Solidarity”, in _Liberal Nationalism and its Critics: Normative and Empirical Questions_, eds. Gina Gustavsson and David Miller (Oxford University Press, 2020), 205-25 (co-authored by Keith Banting, Allison Harell, and Rebecca Wallace).
+1. “Animal Labour in a Post-Work Society”, in _Animal Labour: A New Frontier of Interspecies Justice?_, edited by Charlotte Blattner, Kendra Coulter & Will Kymlicka (Oxford University Press, 2020), 207-228 (co-authored with Sue Donaldson).
+1. “Introduction: Animal Labour and the Quest for Interspecies Justice”, in _Animal Labour: A New Frontier of Interspecies Justice?_  (OUP, 2020), pp. 1-27 (coauthored with Charlotte Blattner, Kendra Coulter).
+1. "Civics Education in an Age of Mobility", in Edison Duynh (ed) _The Future of Education_ (Institute for Public Policy Research, London, 2019), pp. 10-14.
+1. "Deschooling Multiculturalism", _Ethnicities_, Vol. 19/6, 2019: 971-82 (part of symposium on "The Bristol School of Multiculturalism")
 2. "Membership without Social Citizenship? Deservingness and Redistribution as Grounds for Equality", _Daedalus: Journal of the American Academy of Arts and Sciences_, 148/3 (2019): 73-104 (co-authored with Irene Bloemraad, Michèle Lamont, Leanne Son Hing).
 3. "The Participatory Turn in Gender Equality and its Relevance for Multicultural Feminism", in _Gender Parity and Multicultural Feminism: Towards a New Synthesis_, ed. Will Kymlicka and Ruth Rubio-Marin (Oxford University Press, 2018),pp. 1-45 (co-authored with Ruth Rubio-Marin).
 4. "Introduction: The Progressive's Dilemma" in Elizabeth Goodyear-Grant, Richard Johnston, Will Kymlicka, and John Myles (eds) _Federalism and the Welfare State in a Multicultural World_ (McGill-Queen's University Press, 2018), pp. 1-16 (co-authored by Richard Johnston, John Myles, Elizabeth Goodyear-Grant).
@@ -28,7 +32,7 @@
 16. "Inclusive Citizenship beyond the Capacity Contract", in Ayelet Shachar, Irene Bloemraad, Maarten Vink and Rainer Bauböck (eds) _Oxford Handbook of Citizenship_ (Oxford University Press, 2017), pp. 838-859 (co-authored with Sue Donaldson).
 17. "Social Membership: Animal Law beyond the Property/Personhood Impasse", _Dalhousie Law Journal_, Vol. 40, 2017: 123-155.
 18. "Animals in Political Theory" in Linda Kalof (ed) _Oxford Handbook of Animal Studies_ (Oxford University Press, 2017), 43-64 [co-authored with Sue Donaldson].
-19. "Foreword: Citizenship Education from Multicultural to Cosmopolitan?" in James Banks (ed) _Citizenship Education and Global Migration: Implications for Theory, Research, and Teaching_ (American Educational Research Association, Washington, 2017), xi-xvii. A revised version will be published as "Civics Education in an Age of Mobility" in Edison Duynh (ed) _The Future of Education_ (Institute for Public Policy Research, London), forthcoming.
+19. "Foreword: Citizenship Education from Multicultural to Cosmopolitan?" in James Banks (ed) _Citizenship Education and Global Migration: Implications for Theory, Research, and Teaching_ (American Educational Research Association, Washington, 2017), xi-xvii.
 20. "Rethinking membership and participation in an inclusive democracy: cognitive disability, children, animals", in Barbara Arneil and Nancy Hirschmann (eds) _Disability and Political Theory_ (Cambridge: Cambridge University Press, 2016), 168-97.[co-authored with Sue Donaldson].
 21. "Locating Animals in Political Philosophy", _Philosophy Compass_, Vol. 11/11 (2016): 692–701 (co-authored with Sue Donaldson).
 22. "Trajectories of Multicultural Citizenship" in Richard Marback (ed) _Representation and Citizenship_ (Wayne State University Press, 2016), pp. 52-78.

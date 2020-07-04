@@ -11,6 +11,8 @@ import { Helmet } from "react-helmet-async";
 export default function Pub() {
   const params = useParams();
   const location = useLocation();
+  let locationPathname = location.pathname;
+
   const a = getFile(
     process.env.PUBLIC_URL +
       "/contents/" +
@@ -24,25 +26,25 @@ export default function Pub() {
   ImgURL =
     process.env.PUBLIC_URL +
     "/contents/images/books/lg/" +
-    [location.pathname.includes("books") ? "books/" : "edited/"] +
+    [locationPathname.includes("books") ? "books/" : "edited/"] +
     [
-      location.pathname.split("\\")[1]
-        ? location.pathname.split("\\")[1]
-        : location.pathname.split("/")[3]
+      locationPathname.split("\\")[1]
+        ? locationPathname.split("\\")[1]
+        : locationPathname.split("/")[3],
     ];
   opts = {
     overrides: {
       h2: {
-        props: { className: "small" }
+        props: { className: "small" },
       },
       tr: {
-        props: { className: "w-100" }
+        props: { className: "w-100" },
       },
       a: {
         component: RLink,
-        props: { target: "_blank", rel: "noopener noreferrer" }
-      }
-    }
+        props: { target: "_blank", rel: "noopener noreferrer" },
+      },
+    },
   };
   let Cover;
   ImgURL.includes("broadview-anthology-social")
@@ -56,13 +58,13 @@ export default function Pub() {
   if (ImgURL.includes("undefined") || ImgURL.split("/")[6].length < 1) {
     Cover = () => <></>;
   }
-  location.pathname =
-    location.pathname[location.pathname.length - 1] === "/"
-      ? location.pathname.substr(0, location.pathname.length - 1)
-      : location.pathname;
+  locationPathname =
+    locationPathname[locationPathname.length - 1] === "/"
+      ? locationPathname.substr(0, locationPathname.length - 1)
+      : locationPathname;
   let { BCLevel2, BCLevel3, BCLevel4 } = BreadCrumbs(params, location, title);
   const BCS = getBCS(location, BCLevel2, BCLevel3, BCLevel4);
-  let locPath = location.pathname.split(/[/\\-]/);
+  let locPath = locationPathname.split(/[/\\-]/);
   locPath =
     locPath.length >= 4
       ? [
@@ -72,13 +74,13 @@ export default function Pub() {
             locPath[2].substr(1) +
             " " +
             locPath[3].toUpperCase()[0] +
-            locPath[3].substr(1)
+            locPath[3].substr(1),
         ]
       : [
           "",
           locPath[1] ? locPath[1].toUpperCase()[0] + locPath[1].substr(1) : "",
           locPath[2] ? locPath[2].toUpperCase()[0] + locPath[2].substr(1) : "",
-          locPath[3] ? locPath[3].toUpperCase()[0] + locPath[3].substr(1) : ""
+          locPath[3] ? locPath[3].toUpperCase()[0] + locPath[3].substr(1) : "",
         ];
 
   let helmTitle = (

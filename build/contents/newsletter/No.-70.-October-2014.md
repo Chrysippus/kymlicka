@@ -12,6 +12,7 @@
   - [New Journal](#new-journal)
 - [4\. Call for Papers](#4-call-for-papers)
 - [5\. Related Programs](#5-related-programs)
+- [Announcements](#announcements)
 
 #### 1\. Introduction
 
