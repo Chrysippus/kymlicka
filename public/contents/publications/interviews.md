@@ -1,5 +1,5 @@
 # Interviews
-
+- "Interview with Will Kymlicka”, _Pensées Canadiennes_, Vol. 17 (2019): 127-31.
 - ["Entrevista Will Kymlicka: Necesitamos vincular los derechos de los animales con debates más amplios, como el significado de la democracia, de la representación y de la autoridad legítima", _El Caballo de Nietzsche_, Nov. 9, 2018](https://www.eldiario.es/caballodenietzsche/Necesitamos-significado-democracia-representacion-autoridad_6_834026621.html).
 - ["Will Kymlicka: "La nostra economia es basa en l'explotació dels altres animals", _Ara_ (Barcelona), January 5, 2019](https://www.ara.cat/dossier/Will-Kymlicka-economia-explotacio-animals_0_2156784336.html).
 - ["Zoopolis -- penser une société sans exploitation animale", _Revue Ballast_, Oct. 20, 2018 (with Sue Donaldson)](https://www.revue-ballast.fr/zoopolis-penser-une-societe-sans-exploitation-animale/).
