@@ -43,7 +43,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],
       [
         "bootstrap",
-        "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:4.5.0"
+        "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:5.0.0-alpha1"
       ],
       [
         "gh-pages",
@@ -56,6 +56,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       [
         "markdown-to-jsx",
         "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:6.11.4"
+      ],
+      [
+        "popper.js",
+        "npm:1.16.1"
       ],
       [
         "react",
@@ -100,10 +104,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["academicons", "npm:1.8.6"],
             ["axios", "npm:0.19.2"],
             ["axios-hooks", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:2.1.0"],
-            ["bootstrap", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:4.5.0"],
+            ["bootstrap", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:5.0.0-alpha1"],
             ["gh-pages", "npm:3.1.0"],
             ["history", "npm:5.0.0"],
             ["markdown-to-jsx", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:6.11.4"],
+            ["popper.js", "npm:1.16.1"],
             ["react", "npm:16.13.1"],
             ["react-app-polyfill", "npm:1.0.6"],
             ["react-bootstrap", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:1.3.0"],
@@ -4768,15 +4773,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["bootstrap", [
-        ["virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:4.5.0", {
-          "packageLocation": "./.yarn/$$virtual/bootstrap-virtual-0696118073/0/cache/bootstrap-npm-4.5.0-3553b26260-89284a8d1b.zip/node_modules/bootstrap/",
+        ["virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:5.0.0-alpha1", {
+          "packageLocation": "./.yarn/$$virtual/bootstrap-virtual-65978abcbd/0/cache/bootstrap-npm-5.0.0-alpha1-dc7a7e5971-672ba93dbf.zip/node_modules/bootstrap/",
           "packageDependencies": [
-            ["bootstrap", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:4.5.0"],
-            ["jquery", null],
-            ["popper.js", null]
+            ["bootstrap", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:5.0.0-alpha1"],
+            ["popper.js", "npm:1.16.1"]
           ],
           "packagePeers": [
-            "jquery",
             "popper.js"
           ],
           "linkType": "HARD",
@@ -10813,10 +10816,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["academicons", "npm:1.8.6"],
             ["axios", "npm:0.19.2"],
             ["axios-hooks", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:2.1.0"],
-            ["bootstrap", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:4.5.0"],
+            ["bootstrap", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:5.0.0-alpha1"],
             ["gh-pages", "npm:3.1.0"],
             ["history", "npm:5.0.0"],
             ["markdown-to-jsx", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:6.11.4"],
+            ["popper.js", "npm:1.16.1"],
             ["react", "npm:16.13.1"],
             ["react-app-polyfill", "npm:1.0.6"],
             ["react-bootstrap", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:1.3.0"],
@@ -12894,6 +12898,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["pnp-webpack-plugin", "npm:1.6.4"],
             ["ts-pnp", "virtual:c497046afcbefb679e3fe12575088ec12205b913a36c3d158b27e7cd646d448426540ab27ba98e54ddb75b1ed97de7e3ce5dc0158c9ba4e76ce942c87e5d02d8#npm:1.2.0"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["popper.js", [
+        ["npm:1.16.1", {
+          "packageLocation": "./.yarn/cache/popper.js-npm-1.16.1-a99192bd83-eb53806fb7.zip/node_modules/popper.js/",
+          "packageDependencies": [
+            ["popper.js", "npm:1.16.1"]
           ],
           "linkType": "HARD",
         }]
