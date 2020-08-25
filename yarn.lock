@@ -2967,12 +2967,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"axios@npm:^0.19.2":
-  version: 0.19.2
-  resolution: "axios@npm:0.19.2"
+"axios@npm:^0.20.0":
+  version: 0.20.0
+  resolution: "axios@npm:0.20.0"
   dependencies:
-    follow-redirects: 1.5.10
-  checksum: bad346deea24050f9953ce09bb8015f85a99a7b8f016806adccfab0b8981827d1fbee9c77c0ef7c70cc48392c1af6bbc65e07c3e88221d17282d2d5fd0a191f6
+    follow-redirects: ^1.10.0
+  checksum: 6cf2e963176a0d18fc457d7cb71cb6cf552193619b161fc61070d9a4db3a26a87ecfe760ba36e7af174c05a6a9898dc52cfeb5c0e62e19fddd9788739553ad73
   languageName: node
   linkType: hard
 
@@ -4838,15 +4838,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"debug@npm:=3.1.0":
-  version: 3.1.0
-  resolution: "debug@npm:3.1.0"
-  dependencies:
-    ms: 2.0.0
-  checksum: 1295acd5e0531761255661d325cd0a80ac8c5f6de8942a53bb23c2197ccb97526972de662ed0e5d9393be83f3428a298a6e7185ecb02f0da6282019cd2ffb4a8
-  languageName: node
-  linkType: hard
-
 "debug@npm:^3.1.0, debug@npm:^3.1.1, debug@npm:^3.2.5":
   version: 3.2.6
   resolution: "debug@npm:3.2.6"
@@ -6411,19 +6402,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"follow-redirects@npm:1.5.10":
-  version: 1.5.10
-  resolution: "follow-redirects@npm:1.5.10"
-  dependencies:
-    debug: =3.1.0
-  checksum: 6e58e02c31337b6b41ffc3d5f3d49920b7db428eddcf374537da00ef121fe473983e12d8557f4304287604168d3efcc288d1f009abaf4c9d61e5db0c0cee3c4a
-  languageName: node
-  linkType: hard
-
 "follow-redirects@npm:^1.0.0":
   version: 1.12.1
   resolution: "follow-redirects@npm:1.12.1"
   checksum: afd9b64329e7001a9c79cfb2da85bd3c525994d3b67509a45b4a070385e7a9519d6732a5b5c30b1578369b3e747f7db06089354c91a677a13ef0c38c93116872
+  languageName: node
+  linkType: hard
+
+"follow-redirects@npm:^1.10.0":
+  version: 1.13.0
+  resolution: "follow-redirects@npm:1.13.0"
+  checksum: f220828d3f153da30ea616fdbe9f6676e74e4e68c51d336a751037c1d556e2de34aa5918f58951fa19bb6517c9c88b4403a0a8bdfc40d3e779d37def2ac0f2c4
   languageName: node
   linkType: hard
 
@@ -8820,7 +8809,7 @@ fsevents@~2.1.2:
   resolution: "kymlicka@workspace:."
   dependencies:
     academicons: ^1.8.6
-    axios: ^0.19.2
+    axios: ^0.20.0
     axios-hooks: ^2.1.0
     bootstrap: next
     gh-pages: ^3.1.0

@@ -35,7 +35,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],
       [
         "axios",
-        "npm:0.19.2"
+        "npm:0.20.0"
       ],
       [
         "axios-hooks",
@@ -102,7 +102,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["academicons", "npm:1.8.6"],
-            ["axios", "npm:0.19.2"],
+            ["axios", "npm:0.20.0"],
             ["axios-hooks", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:2.1.0"],
             ["bootstrap", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:5.0.0-alpha1"],
             ["gh-pages", "npm:3.1.0"],
@@ -4306,11 +4306,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["axios", [
-        ["npm:0.19.2", {
-          "packageLocation": "./.yarn/cache/axios-npm-0.19.2-e4e8599895-bad346deea.zip/node_modules/axios/",
+        ["npm:0.20.0", {
+          "packageLocation": "./.yarn/cache/axios-npm-0.20.0-535d9e0086-6cf2e96317.zip/node_modules/axios/",
           "packageDependencies": [
-            ["axios", "npm:0.19.2"],
-            ["follow-redirects", "npm:1.5.10"]
+            ["axios", "npm:0.20.0"],
+            ["follow-redirects", "npm:1.13.0"]
           ],
           "linkType": "HARD",
         }]
@@ -4321,7 +4321,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["axios-hooks", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:2.1.0"],
             ["@babel/runtime", "npm:7.10.3"],
-            ["axios", "npm:0.19.2"],
+            ["axios", "npm:0.20.0"],
             ["lru-cache", "npm:5.1.1"],
             ["react", "npm:16.13.1"]
           ],
@@ -6458,18 +6458,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             "supports-color"
           ],
           "linkType": "HARD",
-        }],
-        ["virtual:bde6f435769d1a96c3f371d2e8a88314847816fb841f758b3628da60329c36f988ca42f6984dc53bb31dd306522878e1e5d568caeca7af42e4f19b238d6261b3#npm:3.1.0", {
-          "packageLocation": "./.yarn/$$virtual/debug-virtual-f2284580f9/0/cache/debug-npm-3.1.0-9f0accb99b-1295acd5e0.zip/node_modules/debug/",
-          "packageDependencies": [
-            ["debug", "virtual:bde6f435769d1a96c3f371d2e8a88314847816fb841f758b3628da60329c36f988ca42f6984dc53bb31dd306522878e1e5d568caeca7af42e4f19b238d6261b3#npm:3.1.0"],
-            ["ms", "npm:2.0.0"],
-            ["supports-color", null]
-          ],
-          "packagePeers": [
-            "supports-color"
-          ],
-          "linkType": "HARD",
         }]
       ]],
       ["decamelize", [
@@ -8190,11 +8178,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "HARD",
         }],
-        ["npm:1.5.10", {
-          "packageLocation": "./.yarn/cache/follow-redirects-npm-1.5.10-bde6f43576-6e58e02c31.zip/node_modules/follow-redirects/",
+        ["npm:1.13.0", {
+          "packageLocation": "./.yarn/cache/follow-redirects-npm-1.13.0-ae26ae301a-f220828d3f.zip/node_modules/follow-redirects/",
           "packageDependencies": [
-            ["follow-redirects", "npm:1.5.10"],
-            ["debug", "virtual:bde6f435769d1a96c3f371d2e8a88314847816fb841f758b3628da60329c36f988ca42f6984dc53bb31dd306522878e1e5d568caeca7af42e4f19b238d6261b3#npm:3.1.0"]
+            ["follow-redirects", "npm:1.13.0"]
           ],
           "linkType": "HARD",
         }]
@@ -10788,7 +10775,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["kymlicka", "workspace:."],
             ["academicons", "npm:1.8.6"],
-            ["axios", "npm:0.19.2"],
+            ["axios", "npm:0.20.0"],
             ["axios-hooks", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:2.1.0"],
             ["bootstrap", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:5.0.0-alpha1"],
             ["gh-pages", "npm:3.1.0"],

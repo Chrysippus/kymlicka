@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "academicons": "^1.8.6",
-    "axios": "^0.19.2",
+    "axios": "^0.20.0",
     "axios-hooks": "^2.1.0",
     "bootstrap": "next",
     "history": "^5.0.0",
