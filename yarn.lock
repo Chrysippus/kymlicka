@@ -1475,12 +1475,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/runtime@npm:^7.0.0, @babel/runtime@npm:^7.3.4, @babel/runtime@npm:^7.4.2, @babel/runtime@npm:^7.4.5, @babel/runtime@npm:^7.5.5, @babel/runtime@npm:^7.6.3, @babel/runtime@npm:^7.7.2, @babel/runtime@npm:^7.7.6, @babel/runtime@npm:^7.8.4, @babel/runtime@npm:^7.8.7, @babel/runtime@npm:^7.9.2":
+"@babel/runtime@npm:^7.0.0, @babel/runtime@npm:^7.3.4, @babel/runtime@npm:^7.4.2, @babel/runtime@npm:^7.4.5, @babel/runtime@npm:^7.5.5, @babel/runtime@npm:^7.6.3, @babel/runtime@npm:^7.7.2, @babel/runtime@npm:^7.7.6, @babel/runtime@npm:^7.8.4, @babel/runtime@npm:^7.8.7":
   version: 7.10.4
   resolution: "@babel/runtime@npm:7.10.4"
   dependencies:
     regenerator-runtime: ^0.13.4
   checksum: 68596c6b57dd2381954b754fdca5b200939fc097eca7385bafb61c5b70290812fb7d16cb04e8581ddbfad1b6df8e3d4f4693e58ac6e032c261c4aab90af99a21
+  languageName: node
+  linkType: hard
+
+"@babel/runtime@npm:^7.11.2":
+  version: 7.11.2
+  resolution: "@babel/runtime@npm:7.11.2"
+  dependencies:
+    regenerator-runtime: ^0.13.4
+  checksum: 2f127ad60a0f0568faa0044e5b48329d8166c7fd3a0a3ce774070010a1c441ebf5570f526dd6bb26e214fb1a01bb987ab6a4c3f60a00f04d02448939f4c61e1e
   languageName: node
   linkType: hard
 
@@ -8814,13 +8823,13 @@ fsevents@~2.1.2:
     bootstrap: next
     gh-pages: ^3.1.0
     history: ^5.0.0
-    markdown-to-jsx: ^6.11.4
+    markdown-to-jsx: ^7.0.0
     popper.js: ^1.16.1
     react: ^16.13.1
     react-app-polyfill: ^1.0.6
     react-bootstrap: ^1.3.0
     react-dom: ^16.13.1
-    react-helmet-async: ^1.0.6
+    react-helmet-async: ^1.0.7
     react-router-dom: next
     react-scripts: ^3.4.3
     react-snap: ^1.23.0
@@ -9138,15 +9147,12 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"markdown-to-jsx@npm:^6.11.4":
-  version: 6.11.4
-  resolution: "markdown-to-jsx@npm:6.11.4"
-  dependencies:
-    prop-types: ^15.6.2
-    unquote: ^1.1.0
+"markdown-to-jsx@npm:^7.0.0":
+  version: 7.0.0
+  resolution: "markdown-to-jsx@npm:7.0.0"
   peerDependencies:
     react: ">= 0.14.0"
-  checksum: d3a830400eb171c0c879bdff50b1246075f5493185a6bf2b18b156fcab1f179ad53a5bc3061e291651170708dbcc4fe9381e4c1153337a2b8d591cf8f0296c88
+  checksum: a2b6f2223f37cfa0d2938c558f6e7a0683752293f567e98d1503b8d5dc42b0d9be062fd8539d7c0839d2173e33535ace8911c1dd938517356f67355fea621d1f
   languageName: node
   linkType: hard
 
@@ -11907,26 +11913,26 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"react-fast-compare@npm:^3.0.1":
+"react-fast-compare@npm:^3.2.0":
   version: 3.2.0
   resolution: "react-fast-compare@npm:3.2.0"
   checksum: 6fe65c889eb4f326e97769135f97b3d63ac68737866f9c37f9625c9de4f5eaa9abed6f748eb3fd6a66808392118842916309cab7cfa99c67991f0c837433d6d2
   languageName: node
   linkType: hard
 
-"react-helmet-async@npm:^1.0.6":
-  version: 1.0.6
-  resolution: "react-helmet-async@npm:1.0.6"
+"react-helmet-async@npm:^1.0.7":
+  version: 1.0.7
+  resolution: "react-helmet-async@npm:1.0.7"
   dependencies:
-    "@babel/runtime": ^7.9.2
+    "@babel/runtime": ^7.11.2
     invariant: ^2.2.4
     prop-types: ^15.7.2
-    react-fast-compare: ^3.0.1
+    react-fast-compare: ^3.2.0
     shallowequal: ^1.1.0
   peerDependencies:
     react: ^16.6.0
     react-dom: ^16.6.0
-  checksum: 7b30fad33a212df5e61734b21c8a816e00d5516172c0e74e481f93c2724f673d08f8c1381a015085fbadaa8f9981aae1d9f8aab11c923bd650e70af90fee595a
+  checksum: 4f42301e17bea201d1014caa526232727f3e2b09ea2acc6bade5f18b2c5c443d468332a862632faf0cd8b167fd73eb4076cf7064134763fbf6e269f8da6a085d
   languageName: node
   linkType: hard
 
@@ -14257,7 +14263,7 @@ resolve@1.15.0:
   languageName: node
   linkType: hard
 
-"unquote@npm:^1.1.0, unquote@npm:~1.1.1":
+"unquote@npm:~1.1.1":
   version: 1.1.1
   resolution: "unquote@npm:1.1.1"
   checksum: 468981e4547c46bd4ebafd5555b6b1e6bd5433f52fcbc99f6868f29ecb1581dde472ee02a0e42ecbadd52012d03b0ad90ee94edf660a921f6a6608b8884e290a

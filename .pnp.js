@@ -55,7 +55,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],
       [
         "markdown-to-jsx",
-        "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:6.11.4"
+        "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:7.0.0"
       ],
       [
         "popper.js",
@@ -79,7 +79,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],
       [
         "react-helmet-async",
-        "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:1.0.6"
+        "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:1.0.7"
       ],
       [
         "react-router-dom",
@@ -107,13 +107,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["bootstrap", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:5.0.0-alpha1"],
             ["gh-pages", "npm:3.1.0"],
             ["history", "npm:5.0.0"],
-            ["markdown-to-jsx", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:6.11.4"],
+            ["markdown-to-jsx", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:7.0.0"],
             ["popper.js", "npm:1.16.1"],
             ["react", "npm:16.13.1"],
             ["react-app-polyfill", "npm:1.0.6"],
             ["react-bootstrap", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:1.3.0"],
             ["react-dom", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:16.13.1"],
-            ["react-helmet-async", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:1.0.6"],
+            ["react-helmet-async", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:1.0.7"],
             ["react-router-dom", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:6.0.0-beta.0"],
             ["react-scripts", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:3.4.3"],
             ["react-snap", "npm:1.23.0"]
@@ -2603,6 +2603,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@babel-runtime-npm-7.10.4-0991bd5ddf-68596c6b57.zip/node_modules/@babel/runtime/",
           "packageDependencies": [
             ["@babel/runtime", "npm:7.10.4"],
+            ["regenerator-runtime", "npm:0.13.5"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:7.11.2", {
+          "packageLocation": "./.yarn/cache/@babel-runtime-npm-7.11.2-f2cfabd212-2f127ad60a.zip/node_modules/@babel/runtime/",
+          "packageDependencies": [
+            ["@babel/runtime", "npm:7.11.2"],
             ["regenerator-runtime", "npm:0.13.5"]
           ],
           "linkType": "HARD",
@@ -10780,13 +10788,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["bootstrap", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:5.0.0-alpha1"],
             ["gh-pages", "npm:3.1.0"],
             ["history", "npm:5.0.0"],
-            ["markdown-to-jsx", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:6.11.4"],
+            ["markdown-to-jsx", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:7.0.0"],
             ["popper.js", "npm:1.16.1"],
             ["react", "npm:16.13.1"],
             ["react-app-polyfill", "npm:1.0.6"],
             ["react-bootstrap", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:1.3.0"],
             ["react-dom", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:16.13.1"],
-            ["react-helmet-async", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:1.0.6"],
+            ["react-helmet-async", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:1.0.7"],
             ["react-router-dom", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:6.0.0-beta.0"],
             ["react-scripts", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:3.4.3"],
             ["react-snap", "npm:1.23.0"]
@@ -11142,13 +11150,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["markdown-to-jsx", [
-        ["virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:6.11.4", {
-          "packageLocation": "./.yarn/$$virtual/markdown-to-jsx-virtual-7a85f78682/0/cache/markdown-to-jsx-npm-6.11.4-e7ef0863b5-d3a830400e.zip/node_modules/markdown-to-jsx/",
+        ["virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:7.0.0", {
+          "packageLocation": "./.yarn/$$virtual/markdown-to-jsx-virtual-d9be18a74d/0/cache/markdown-to-jsx-npm-7.0.0-1b192203ab-a2b6f2223f.zip/node_modules/markdown-to-jsx/",
           "packageDependencies": [
-            ["markdown-to-jsx", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:6.11.4"],
-            ["prop-types", "npm:15.7.2"],
-            ["react", "npm:16.13.1"],
-            ["unquote", "npm:1.1.1"]
+            ["markdown-to-jsx", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:7.0.0"],
+            ["react", "npm:16.13.1"]
           ],
           "packagePeers": [
             "react"
@@ -14231,11 +14237,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["react-helmet-async", [
-        ["virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:1.0.6", {
-          "packageLocation": "./.yarn/$$virtual/react-helmet-async-virtual-fcf87069d6/0/cache/react-helmet-async-npm-1.0.6-09412b7c60-7b30fad33a.zip/node_modules/react-helmet-async/",
+        ["virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:1.0.7", {
+          "packageLocation": "./.yarn/$$virtual/react-helmet-async-virtual-55f784e344/0/cache/react-helmet-async-npm-1.0.7-88583cc6d5-4f42301e17.zip/node_modules/react-helmet-async/",
           "packageDependencies": [
-            ["react-helmet-async", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:1.0.6"],
-            ["@babel/runtime", "npm:7.10.4"],
+            ["react-helmet-async", "virtual:5211e6937770b84f600c817bf18a5ea0df5a89f71d0abb7e83a70263ce8378bf98f31a03a4bd3d72ef892999a89fcfaadbfc62178a656a7d9840e25e59aadd49#npm:1.0.7"],
+            ["@babel/runtime", "npm:7.11.2"],
             ["invariant", "npm:2.2.4"],
             ["prop-types", "npm:15.7.2"],
             ["react", "npm:16.13.1"],
