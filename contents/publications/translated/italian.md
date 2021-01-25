@@ -1,4 +1,4 @@
-# Italian {#Italian .anchor}
+# Italian
 
 - **Can Liberal Pluralism Be Exported?** has been translated into Italian as **Il pluralismo liberale può essere esportato? Teoria politica occidentale e relazione etniche nell'Europa dell'Est** by Il Mulino (Bologna, 2003), 343 pp.
 - **Multicultural Citizenship** has been translated into Italian as **La Cittadinanza multiculturale** (Il Mulino, Bologna, 1999).
