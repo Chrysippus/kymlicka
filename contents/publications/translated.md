@@ -33,6 +33,7 @@ Will Kymlicka's work has been translated into over 30 languages. Select a langua
 - [Romanian](/publications/translated/romanian)
 - [Russian](/publications/translated/russian)
 - [Serbian](/publications/translated/serbian)
+- [Slovak](/publications/translated/slovak)
 - [Slovenian](/publications/translated/slovenian)
 - [Spanish](/publications/translated/spanish)
 - [Swedish](/publications/translated/swedish)
