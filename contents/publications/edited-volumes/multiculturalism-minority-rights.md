@@ -4,7 +4,19 @@
 
 ---
 
+> ...very informative and thought provoking…Multiculturalism and Minority Rights in the Arab World will be of use to students and researchers with an interest in Middle East politics, human rights, ethnic and nationalism studies, international relations, political theory, and political philosophy...
+
+## Alice Alunni in Nations and Nationalism
+
+> ...a very good starting point for anybody interested in the issues of multiculturalism and minority rights in the Arab world. It has some fine observations, many detailed descriptions of different minority groups in the region and useful conceptual elaborations.... it is definitely a must-read for anybody seeking a better understanding of the complexities of this turbulent part of the world."
+
+## Konrad Pędziwiatr in Central and Eastern European Migration Review
+
 Since the Arab Spring, Arab states have become the new front line in the struggle for democratization and for open societies. As the experience of other regions has shown, one of the most significant challenges facing democratization relates to minority rights. This book explores how minority claims are framed and debated in the region, and in particular, how political actors draw upon, re-interpret or resist both the new global discourses of minority rights and more local traditions and practices of co-existence. The contributors examine a range of pre-colonial, colonial and post-colonial factors that shape contemporary minority politics in the Arab world, and that encumber the reception of international norms of multiculturalism. These factors include the contested legacies of Islamic doctrines of thedhimmi' and the Ottoman millet system, colonial-era divide and rule strategies, and post-colonial Arab nation-building. While these legacies complicate struggles for minority rights, they do not entail an 'Arab exceptionalism' to global trends to multiculturalism. This volume explores a number of openings for new more pluralistic conceptions of nationhood and citizenship, and suggests that minority politics at its best can serve as a vehicle for a more general transformative politics, supporting a broader culture of democracy and human rights, and challenging older authoritarian, clientalistic or patriarchal political tendencies. The chapters include both broad theoretical and historical perspectives as well as more focused case studies (including Western Sahara/Morocco, Algeria, Israel/Palestine; Sudan; United Arab Emirates and Iraq).
+
+> ...this book demonstrates how minority politics can serve as a key for a more general transformative politics and uphold a wider culture of democracy and human rights. This book is absolutely superb and worth its weight (and price) in ‘pounds.’
+
+## Richard Penaskovic in Heythrop Journal
 
 ### Table of Contents
 
