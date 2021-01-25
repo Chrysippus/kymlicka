@@ -8,6 +8,8 @@
 >
 ## Alice Alunni in Nations and Nationalism
 
+---
+
 > ...a very good starting point for anybody interested in the issues of multiculturalism and minority rights in the Arab world. It has some fine observations, many detailed descriptions of different minority groups in the region and useful conceptual elaborations.... it is definitely a must-read for anybody seeking a better understanding of the complexities of this turbulent part of the world."
 >
 ## Konrad Pędziwiatr in Central and Eastern European Migration Review
