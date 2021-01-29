@@ -5,6 +5,7 @@
 ## Forthcoming
 
 - “The Precarious Resilience of Multiculturalism in Canada”, _American Review of Canadian Studies_, Vol. 51/1, forthcoming (part of special issue on “A Country Apart? Canadian Exceptionalism in Immigration Politics and Policy”).
+- "Shared Membership Beyond National Identity: Deservingness and Solidarity in Diverse Societies”, _Political Studies_, forthcoming (co-authored with Allison Harell, Keith Banting and Rebecca Wallace).
 - “Devolution and the Promotion (or Evasion) of Minority Rights” in _Federalism and Decentralization in the Contemporary Middle East_,  eds. Omar Bachour and Asli Bali (Cambridge University Press), forthcoming.
 - “Philosophies of Inclusion and Exclusion” in Edward Koning (ed) _The Exclusion of Immigrants from Welfare Programs_ (University of Toronto Press), forthcoming.
 - “The Politics of Multiculturalism and Redistribution: Immigration, Accommodation and Solidarity in Diverse Democracies” in Markus Crepaz (ed) _Edward Elgar Handbook on Migration and Welfare_ (Elgar, forthcoming). Co-authored with Keith Banting and Daniel Westlake.
