@@ -16,7 +16,7 @@ export default function Aff() {
           Advisory Boards, Editorial Boards, Visting Professional."
         />
       </Helmet>
-      <h1 className="text-left">Affiliations</h1>
+      <h1 className="text-start">Affiliations</h1>
       <Nav
         className="justify-content-center sticky-top bg-white"
         style={{ top: "45px", zIndex: 10 }}
@@ -42,7 +42,7 @@ export default function Aff() {
             },
             h2: {
               props: {
-                className: "text-left",
+                className: "text-start",
                 style: {
                   marginTop: "-120px",
                   paddingTop: "120px"
@@ -50,7 +50,7 @@ export default function Aff() {
               }
             },
             li: {
-              props: { className: "text-left" }
+              props: { className: "text-start" }
             },
             a: {
               props: { target: "_blank", rel:"noopener noreferrer" }

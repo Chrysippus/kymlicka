@@ -4,7 +4,7 @@
 - _Contemporary Political Philosophy: Second Edition_ translated into German by Campus Verlag, Frankfurt, forthcoming.
 - _States, Nations and Cultures_ has been translated as: **Multikulturalismus und Demokratie: Uber Minderheiten in Staaten und Nationen** (Rotbuch Verlag, Hamburg, 1999). This volume also includes a translation of _"American Multiculturalism in the International Arena"_.
 - _Contemporary Political Philosophy_ has been translated into German as **Politische Philosophie heute** (Campus-Verlag Frankfurt 1996)
-- _"Multiculturalism without Citizenship?"_ translated into German in _Philosophie des Migrationsrechts_, ed. Jekaterina Markow and Frederik von Harbou (Mohr-Siebeck, Tübingen), forthcoming.
+- _"Multiculturalism without Citizenship?"_ translated into German as _“Multikulturalismus ohne Staatsbürgerschaft?”_, in _Philosophie des Migrationsrechts_, ed. Jekaterina Markow and Frederik von Harbou (Mohr-Siebeck, Tübingen, 2020), pp. 385-407.
 - _"Animals and the Frontiers of Citizenship"_ translated into German as _"Bill und Lou in der Zoopolis: Über Tiere als Mitbürger"_, in _Mittelweg 36_ (Hamburg) Volume 23 (2014): 5-26 [co-authored with Sue Donaldson].
 - _"Animal Citizenship"_ translated into German as "Staatsbürgerschaft" in Arianna Ferrari and Klaus Petrus (eds.) _Lexikon der Mensch/Tier-Beziehungen_ (Transcript Publishers, Bielefeld, 2015), 329-333 [co-authored with Sue Donaldson].
 - _"Die Theorie multikultureller Bürgerrechte eröffnet auch eine spannende Perspektive auf die Frage der Tierrechte"_, _Deutsche Zeitschrift für Philosophie_, Vol. 62/1 (2014): 108–119 (Sue Donaldson and Will Kymlicka interviewed by Hilal Sezgin).

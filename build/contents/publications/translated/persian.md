@@ -2,6 +2,7 @@
 
 - _Contemporary Political Philosophy_ translated into Persian by Negah-e Moaser Press, Tehran, 2017, 648 pp. (with new preface). The Preface is posted here <https://www.radiozamaneh.com/335720>.
 - _Multicultural Citizenship_ translated into Persian by Shirazeh Ketab Publishing House, Tehran, 2016.
+- _"Federalism and Secession At Home and Abroad"_ translated into Persian as فدرالیسم و جدایی : در کانادا و کشورهای دیگر  in _Politea_ Vol. 2/1 (2020), pp. 130-151.
 - _"Will Kymlicka on Minority Rights"_ translated into Farsi in _Philosophy Bites_ (eds. David Edmonds and Nigel Warburton), Kargadan Press (Tehran, 2018), pp. 105-116.
 - _"Feminism"_ (Chapter 9 of _Contemporary Political Philosophy_) translated into Persian in _Two inquiries into feminist political thought_ (Nashreney, Tehran, 2008).
 - _"Libertarianism"_ (Chapter 5 of _Contemporary Political Philosophy)_ excerpted and translated into Persian in _Siyasat-Nameh Journal of Political Thought_, Vol 1/1 (2016): 133-141.

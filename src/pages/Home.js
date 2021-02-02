@@ -58,7 +58,7 @@ export default function Home() {
         />
       </Helmet>
       <Carousel
-        className="float-sm-left mx-auto mr-sm-4 mb-2"
+        className="float-sm-start mx-auto me-sm-4 mb-2"
         style={{ maxWidth: "301px" }}
       >
         {CarItems}

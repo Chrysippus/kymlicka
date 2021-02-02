@@ -33,14 +33,14 @@ export default function Bio() {
         <Image
           src={PhotoJpg}
           alt="Will Kymlicka at MaRS"
-          className="img-thumbnail p-2 mt-2 float-sm-left mr-4 mb-1"
+          className="img-thumbnail p-2 mt-2 float-sm-start me-4 mb-1"
         />
       </picture>
       <Markdown
         options={{
           overrides: {
             h1: {
-              props: { className: "text-left" },
+              props: { className: "text-start" },
             },
             a: {
               component: RLink,
