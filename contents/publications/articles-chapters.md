@@ -9,7 +9,7 @@
 - “Devolution and the Promotion (or Evasion) of Minority Rights” in _Federalism and Decentralization in the Contemporary Middle East_,  eds. Omar Bachour and Asli Bali (Cambridge University Press), forthcoming.
 - “Philosophies of Inclusion and Exclusion” in Edward Koning (ed) _The Exclusion of Immigrants from Welfare Programs_ (University of Toronto Press), forthcoming.
 - “The Politics of Multiculturalism and Redistribution: Immigration, Accommodation and Solidarity in Diverse Democracies” in Markus Crepaz (ed) _Edward Elgar Handbook on Migration and Welfare_ (Elgar, forthcoming). Co-authored with Keith Banting and Daniel Westlake.
-- “Nationhood, Multiculturalism and the Ethics of Membership”, in Liav Orgad and Ruud Koopmans (eds) _Majorities, Minorities, and the Future of Nationhood_ (forthcoming).
+- “Nationhood, Multiculturalism and the Ethics of Membership”, in Liav Orgad and Ruud Koopmans (eds) _Majorities, Minorities, and the Future of Nationhood_ (Cambridge University Press, forthcoming).
 
 
 
