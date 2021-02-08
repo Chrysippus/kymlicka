@@ -1,7 +1,7 @@
 # Related Publications
 
 - "Why human rights are not enough”, _New Statesman_, March 5, 2020. https://www.newstatesman.com/2020/03/why-human-rights-are-not-enough
-- [_Human supremacism: why are animal rights activists still the orphans of the left?_, _New Statesman_ 30 April 2019.](https://www.newstatesman.com/politics/staggers/2019/04/human-supremacism-why-are-animal-rights-activists-still-orphans-left/). Translated into [French](/publications/translated/french) and [Turkish](/publications/translated/turkish)
+- [_Human supremacism: why are animal rights activists still the orphans of the left?_, _New Statesman_ 30 April 2019.](https://www.newstatesman.com/politics/staggers/2019/04/human-supremacism-why-are-animal-rights-activists-still-orphans-left/). Translated into [French](/publications/translated/french), [Slovak](/publications/translated/slovak) and [Turkish](/publications/translated/turkish)
 - Kristin Andrews et al, _Chimpanzee Rights: The Philosophers' Brief_ (Routledge, 2018), 121 pp. (I was one of 13 philosophers who contributed to the writing of this book).
 - Coordinating Lead Author for Chapter 15, "Social Progress and Cultural Change", in _Rethinking Society for the 21st Century: Report of the International Panel on Social Progress Volume 3: Transformations in Values, Norms, Cultures_ (Cambridge University Press, 2018), pp. 611-39.
 - ["Are identity politics emancipatory or regressive?", _The Conversation_, April 18, 2018 (co-authored with John Bowen)](https://theconversation.com/are-identity-politics-emancipatory-or-regressive-94434/). Translated into [French](/publications/translated/french)
