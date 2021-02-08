@@ -6,7 +6,7 @@
 
 | Translations |
 | --- |
-| [Chinese](/publications/translated/chinese), [German](/publications/translated/german), [Japanese](/publications/translated/japanese), [Turkish](/publications/translated/turkish), [Polish](/publications/translated/polish), [Spanish](/publications/translated/spanish), and [French](/publications/translated/french). |
+| [Chinese](/publications/translated/chinese), [German](/publications/translated/german), [Greek](/publications/translated/greek), [Japanese](/publications/translated/japanese), [Turkish](/publications/translated/turkish), [Polish](/publications/translated/polish), [Spanish](/publications/translated/spanish), and [French](/publications/translated/french). |
 
 ---
 
