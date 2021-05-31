@@ -1,5 +1,6 @@
 # Korean
 
+- **Animal Labour: A New Frontier of Interspecies Justice?**, translated into Korean by Book Factory Dubulu, forthcoming.
 - **Multicultural Odysseys** translated into Korean by Somyong Publishing, Seoul, 2017, 540 pp.
 - **Multicultural Citizenship** translated into Korean by Dong Myeong Publishing (Seoul, 2010), 447 pp
 - **Politics in the Vernacular** translated into Korean by Silk Road (2013), 487 pp.
