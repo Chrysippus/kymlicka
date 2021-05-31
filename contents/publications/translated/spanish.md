@@ -6,6 +6,7 @@
 - **Contemporary Political Philosophy** has been translated into Spanish as **Filosofia politica contemporanea** (Ariel, Barcelona, 1995).
 - **Multicultural Citizenship** has been translated into Spanish as **Ciudadanía multicultural**, (Ediciones Paidós Ibérica, Barcelona, 1996).
 - **Politics in the Vernacular: Nationalism, Multiculturalism and Citizenship** has been translated into Spanish as **La Política Vernácula: Nacionalismo, multiculturalismo y cuidadanía** (Paidos, Barcelona, 2003).
+- _“Human Rights without Human Supremacism"_ translated into Spanish in _Nuevo Pensamiento Jurídico_ (Bogotá), forthcoming.
 - _“Animal Rights and Aboriginal Rights”_ translated into Spanish as _“Derechos animales y derechos indígenas”_, in _Devenires: Revista de Filosofía y Filosofía de la Cultura_ (Michoacán) 42 (2020): 149-86.
 - _"Entre Especies: Una Entrevista con Sue Donaldson y Will Kymlicka"_, _Revista Latinoamericana de Estudios Críticos Animales_ 4/2 (2017): 85-106.
 - _"Left-Liberalism Revisited"_ translated into Spanish as _"El liberalism de izquierda reconsiderado"_ in _UNIdiversidad: Revista de pensamiento y cultura de la BUAP_, #26 (2017): 52-75.
