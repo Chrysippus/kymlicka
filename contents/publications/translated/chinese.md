@@ -10,6 +10,7 @@
 - **Liberalism, Community and Culture** has been translated into (simplified) Chinese by Shanghai Translation Publishing House (2005), 315 pp.
 - **Contemporary Political Philosophy**, Second Edition, has been translated into (complex-character) Chinese by Linking Publishing Company (Taipei, 2003).
 - **Contemporary Political Philosophy**, Second Edition, has been translated into (simplified) Chinese by Shanghai Joint Publishing (Shanghai, 2003), 893 pp.
+- _"Deschooling Multiculturalism”_, translated into Chinese in _Foreign Theoretical Trends_, forthcoming.
 - _"Minority Rights in Political Philosophy and International Law"_, translated into Chinese in _World Ethno-National Studies_ (Institute of Ethnology and Anthropology, Chinese Academy of Social Science), forthcoming.
 - _"Multicultural citizenship within multination states"_ translated into Chinese in _World Ethno-National Studies_ (Institute of Ethnology and Anthropology, Chinese Academy of Social Science) #6 (2014).
 - _"Testing the Liberal Multiculturalist Hypothesis: Normative Theories and Social Science Evidence"_, translated into Chinese in _Journal of Guangxi University for Nationalities_ (Philosophy and Social Sciences Edition), Vol. 37/2 (2015), 9-16.
